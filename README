@@ -1,1 +1,8 @@
+NN to guess pub year of books based on text. Trained on metadata-tagged corpora.
 
+Input: raw text
+Output: year (regression or binned classification)
+ 
+Data: Gutenberg
+Labeled: pub years
+Cleaned: removed intros, footnotes, years
