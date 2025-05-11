@@ -31,7 +31,10 @@ for root, dirs, files in os.walk(BOOKS_DIR):
             # Remove month names and 4-digit years
             content = month_pattern.sub('', content)
             content = year_pattern.sub('', content)
-
+            
+            # Lower case
+            content = content.lower()
+            
             # Overwrite the original file
             with open(file_path, 'w', encoding='utf-8') as f:
                 f.write(content)
