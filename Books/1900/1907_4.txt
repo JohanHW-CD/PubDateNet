@@ -1,0 +1,2897 @@
+
+
+
+
+produced by jana srna and the online distributed
+proofreading team at http://www.pgdp.net
+
+
+
+
+
+
+  [ anmerkungen zur transkription:
+
+    schreibweise und interpunktion des originaltextes wurden übernommen;
+    lediglich offensichtliche druckfehler wurden korrigiert. eine liste
+    der vorgenommenen änderungen findet sich am ende des textes.
+
+    im original gesperrt gedruckter text wurde mit _ markiert.
+    im original fett gedruckter text wurde mit = markiert.
+  ]
+
+
+
+
+  schriften zur angewandten seelenkunde
+  herausgegeben von prof. dr. sigm. freud
+
+  erstes heft
+
+
+  der wahn und die träume
+  in
+  w. jensens »gradiva«
+
+
+  von
+  prof. dr. sigm. freud
+
+  wien
+
+
+  wien und leipzig
+  hugo heller & cie.
+  
+
+
+
+
+k. u. k. hofbuchdruckerei karl prochaska in teschen.
+
+
+
+
+i.
+
+
+in einem kreise von männern, denen es als ausgemacht gilt, daß die
+wesentlichsten rätsel des traumes durch die bemühung des verfassers(1)
+gelöst worden sind, erwachte eines tages die neugierde, sich um jene
+träume zu kümmern, die überhaupt niemals geträumt worden, die von
+dichtern geschaffen und erfundenen personen im zusammenhange einer
+erzählung beigelegt werden. der vorschlag, diese gattung von träumen
+einer untersuchung zu unterziehen, mochte müßig und befremdend
+erscheinen; von einer seite her konnte man ihn als berechtigt
+hinstellen. es wird ja keineswegs allgemein geglaubt, daß der traum
+etwas sinnvolles und deutbares ist. die wissenschaft und die mehrzahl
+der gebildeten lächeln, wenn man ihnen die aufgabe einer traumdeutung
+stellt; nur das am aberglauben hängende volk, das hierin die
+überzeugungen des altertums fortsetzt, will von der deutbarkeit der
+träume nicht ablassen, und der verfasser der traumdeutung hat es gewagt,
+gegen den einspruch der gestrengen wissenschaft partei für die alten und
+für den aberglauben zu nehmen. er ist allerdings weit davon entfernt, im
+traume eine ankündigung der zukunft anzuerkennen, nach deren enthüllung
+der mensch seit jeher mit allen unerlaubten mitteln vergeblich strebt.
+aber völlig konnte auch er nicht die beziehung des traumes zur zukunft
+verwerfen, denn nach vollendung einer mühseligen übersetzungsarbeit
+erwies sich ihm der traum als ein _erfüllt_ dargestellter _wunsch_ des
+träumers, und wer könnte bestreiten, daß wünsche sich vorwiegend der
+zukunft zuzuwenden pflegen.
+
+  (1) freud, die traumdeutung .
+
+ich sagte eben: der traum sei ein erfüllter wunsch. wer sich nicht
+scheut, ein schwieriges buch durchzuarbeiten, wer nicht fordert, daß ein
+verwickeltes problem zur schonung seiner bemühung und auf kosten von
+treue und wahrheit ihm als leicht und einfach vorgehalten werde, der mag
+in der erwähnten »traumdeutung« den weitläufigen beweis für diesen satz
+aufsuchen und bis dahin die ihm sicherlich aufsteigenden einwendungen
+gegen die gleichstellung von traum und wunscherfüllung zur seite
+drängen.
+
+aber wir haben weit vorgegriffen. es handelt sich noch gar nicht darum,
+festzustellen, ob der sinn eines traumes in jedem falle durch einen
+erfüllten wunsch wiederzugeben sei, oder nicht auch ebenso häufig durch
+eine ängstliche erwartung, einen vorsatz, eine überlegung u. s. w.
+vielmehr steht erst in frage, ob der traum überhaupt einen sinn habe, ob
+man ihm den wert eines seelischen vorganges zugestehen solle. die
+wissenschaft antwortet mit nein, sie erklärt das träumen für einen bloß
+physiologischen vorgang, hinter dem man also sinn, bedeutung, absicht
+nicht zu suchen brauche. körperliche reize spielten während des schlafes
+auf dem seelischen instrument und brächten so bald diese, bald jene der
+alles seelischen zusammenhaltes beraubten vorstellungen zum bewußtsein.
+die träume wären nur zuckungen, nicht aber ausdrucksbewegungen des
+seelenlebens vergleichbar.
+
+in diesem streite über die würdigung des traumes scheinen nun die
+dichter auf derselben seite zu stehen wie die alten, wie das
+abergläubische volk und wie der verfasser der »traumdeutung«. denn wenn
+sie die von ihrer phantasie gestalteten personen träumen lassen, so
+folgen sie der alltäglichen erfahrung, daß das denken und fühlen der
+menschen sich in den schlaf hinein fortsetzt, und suchen nichts anderes,
+als die seelenzustände ihrer helden durch deren träume zu schildern.
+wertvolle bundesgenossen sind aber die dichter und ihr zeugnis ist hoch
+anzuschlagen, denn sie pflegen eine menge von dingen zwischen himmel und
+erde zu wissen, von denen sich unsere schulweisheit noch nichts träumen
+läßt. in der seelenkunde gar sind sie uns alltagsmenschen weit voraus,
+weil sie da aus quellen schöpfen, welche wir noch nicht für die
+wissenschaft erschlossen haben. wäre diese parteinahme der dichter für
+die sinnvolle natur der träume nur unzweideutiger! eine schärfere kritik
+könnte ja einwenden, der dichter nehme weder für noch gegen die
+psychische bedeutung des einzelnen traumes partei; er begnüge sich zu
+zeigen, wie die schlafende seele unter den erregungen aufzuckt, die als
+ausläufer des wachlebens in ihr kräftig verblieben sind.
+
+unser interesse für die art, wie sich die dichter des traumes bedienen,
+ist indes auch durch diese ernüchterung nicht gedämpft. wenn uns die
+untersuchung auch nichts neues über das wesen der träume lehren sollte,
+vielleicht gestattet sie uns von diesem winkel aus einen kleinen
+einblick in die natur der dichterischen produktion. die wirklichen
+träume gelten zwar bereits als zügellose und regelfreie bildungen, und
+nun erst die freien nachbildungen solcher träume! aber es gibt viel
+weniger freiheit und willkür im seelenleben, als wir geneigt sind
+anzunehmen; vielleicht überhaupt keine. was wir in der welt draußen
+zufälligkeit heißen, löst sich bekanntermaßen in gesetze auf; auch was
+wir im seelischen willkür heißen, ruht auf -- derzeit erst dunkel
+geahnten -- gesetzen. sehen wir also zu!
+
+es gäbe zwei wege für diese untersuchung. der eine wäre die vertiefung
+in einen spezialfall, in die traumschöpfungen eines dichters in einem
+seiner werke. der andere bestünde im zusammentragen und
+gegeneinanderhalten all der beispiele, die sich in den werken
+verschiedener dichter von der verwendung der träume finden lassen. der
+zweite weg scheint der bei weitem trefflichere zu sein, vielleicht der
+einzig berechtigte, denn er befreit uns sofort von den schädigungen, die
+mit der aufnahme des künstlichen einheitsbegriffes »der dichter«
+verbunden sind. diese einheit zerfällt bei der untersuchung in die so
+sehr verschiedenwertigen dichterindividuen, unter denen wir in einzelnen
+die tiefsten kenner des menschlichen seelenlebens zu verehren gewohnt
+sind. dennoch aber werden diese blätter von einer untersuchung der
+ersten art ausgefüllt sein. es hatte sich in jenem kreise von männern,
+unter denen die anregung auftauchte, so gefügt, daß jemand sich besann,
+in dem dichtwerke, das zuletzt sein wohlgefallen erweckt, wären mehrere
+träume enthalten gewesen, die ihn gleichsam mit vertrauten zügen
+angeblickt hätten und ihn einlüden, die methode der »traumdeutung« an
+ihnen zu versuchen. er gestand zu, stoff und örtlichkeit der kleinen
+dichtung wären wohl an der entstehung seines wohlgefallens hauptsächlich
+beteiligt gewesen, denn die geschichte spiele auf dem boden von pompeji
+und handle von einem jungen archäologen, der das interesse für das leben
+gegen das an den resten der klassischen vergangenheit hingegeben hätte
+und nun auf einem merkwürdigen, aber völlig korrekten umwege ins leben
+zurückgebracht werde. während der behandlung dieses echt poetischen
+stoffes rege sich allerlei verwandtes und dazu stimmendes im leser. die
+dichtung aber sei die kleine novelle »_gradiva_« von _wilhelm jensen_,
+vom autor selbst als »pompejanisches phantasiestück« bezeichnet.
+
+und nun müßte ich eigentlich alle meine leser bitten, dieses heft aus
+der hand zu legen und es für eine ganze weile durch die  im
+buchhandel erschienene »gradiva« zu ersetzen, damit ich mich im weiteren
+auf bekanntes beziehen kann. denjenigen aber, welche die »gradiva«
+bereits gelesen haben, will ich den inhalt der erzählung durch einen
+kurzen auszug ins gedächtnis zurückrufen, und rechne darauf, daß ihre
+erinnerung allen dabei abgestreiften reiz aus eigenem wiederherstellen
+wird.
+
+ein junger archäologe, _norbert hanold_, hat in einer antikensammlung
+roms ein reliefbild entdeckt, das ihn so ausnehmend angezogen, daß er
+sehr erfreut gewesen ist, einen vortrefflichen gipsabguß davon erhalten
+zu können, den er in seiner studierstube in einer deutschen
+universitätsstadt aufhängen und mit interesse studieren kann. das bild
+stellt ein reifes junges mädchen im schreiten dar, welches ihr
+reichfaltiges gewand ein wenig aufgerafft hat, so daß die füße in den
+sandalen sichtbar werden. der eine fuß ruht ganz auf dem boden, der
+andere hat sich zum nachfolgen vom boden abgehoben und berührt ihn nur
+mit den zehenspitzen, während sohle und ferse sich fast senkrecht
+emporheben. der hier dargestellte ungewöhnliche und besonders reizvolle
+gang hatte wahrscheinlich die aufmerksamkeit des künstlers erregt und
+fesselt nach so viel jahrhunderten nun den blick unseres archäologischen
+beschauers.
+
+dies interesse des helden der erzählung für das geschilderte reliefbild
+ist die psychologische grundtatsache unserer dichtung. es ist nicht ohne
+weiteres erklärbar. »doktor norbert hanold, dozent der archäologie, fand
+eigentlich für seine wissenschaft an dem relief nichts sonderlich
+beachtenswertes.« (gradiva p. 3.) »er wußte sich nicht klarzustellen,
+was daran seine aufmerksamkeit erregt habe, nur daß er von etwas
+angezogen worden und diese wirkung sich seitdem unverändert forterhalten
+habe.« aber seine phantasie läßt nicht ab, sich mit dem bilde zu
+beschäftigen. er findet etwas »heutiges« darin, als ob der künstler den
+anblick auf der straße »nach dem leben« festgehalten habe. er verleiht
+dem im schreiten dargestellten mädchen einen namen: »gradiva«, die
+»vorschreitende«; er fabuliert, sie sei gewiß die tochter eines
+vornehmen hauses, vielleicht »eines patrizischen aedilis, der sein amt
+im namen der ceres ausübte«, und befinde sich auf dem wege zum tempel
+der göttin. dann widerstrebt es ihm, ihre ruhige stille art in das
+getriebe einer großstadt einzufügen, vielmehr erschafft er sich die
+überzeugung, daß sie nach pompeji zu versetzen sei und dort irgendwo auf
+den wieder ausgegrabenen eigentümlichen trittsteinen schreite, die bei
+regnerischem wetter einen trockenen übergang von einer seite der straße
+zur anderen ermöglicht und doch auch durchlaß für wagenräder gestattet
+hatten. ihr gesichtsschnitt dünkt ihm _griechischer_ art, ihre
+hellenische abstammung unzweifelhaft; seine ganze altertumswissenschaft
+stellt sich allmählich in den dienst dieser und anderer auf das urbild
+des reliefs bezüglichen phantasien.
+
+dann aber drängt sich ihm ein angeblich wissenschaftliches problem auf,
+das nach erledigung verlangt. es handelt sich für ihn um eine kritische
+urteilsabgabe, »ob der künstler den vorgang des ausschreitens bei der
+gradiva dem leben entsprechend wiedergegeben habe«. er selbst vermag ihn
+an sich nicht hervorzurufen; bei der suche nach der »wirklichkeit«
+dieser gangart gelangt er nun dazu, »zur aufhellung der sache selbst
+beobachtungen nach dem leben anzustellen«. (g. p. 9.) das nötigt ihn
+allerdings zu einem ihm durchaus fremdartigen tun. »das weibliche
+geschlecht war bisher für ihn nur ein begriff aus marmor oder erzguß
+gewesen, und er hatte seinen zeitgenössischen vertreterinnen desselben
+niemals die geringste beachtung geschenkt.« pflege der gesellschaft war
+ihm immer nur als unabweisbare plage erschienen; junge damen, mit denen
+er dort zusammentraf, sah und hörte er so wenig, daß er bei einer
+nächsten begegnung grußlos an ihnen vorüberging, was ihn natürlich in
+kein günstiges licht bei ihnen brachte. nun aber nötigte ihn die
+wissenschaftliche aufgabe, die er sich gestellt, bei trockener,
+besonders aber bei nasser witterung eifrig nach den sichtbar werdenden
+füßen der frauen und mädchen auf der straße zu schauen, welche tätigkeit
+ihm manchen unmutigen und manchen ermutigenden blick der so beobachteten
+eintrug; »doch kam ihm das eine so wenig zum verständnis wie das
+andere«. (g. p. 10.) als ergebnis dieser sorgfältigen studien mußte er
+finden, daß die gangart der gradiva in der wirklichkeit nicht
+nachzuweisen war, was ihn mit bedauern und verdruß erfüllte.
+
+bald nachher hatte er einen schreckvoll beängstigenden traum, der ihn in
+das alte pompeji am tage des vesuvausbruches versetzte und zum zeugen
+des unterganges der stadt machte. »wie er so am rande des forums neben
+dem jupitertempel stand, sah er plötzlich in geringer entfernung die
+gradiva vor sich; bis dahin hatte ihn kein gedanke an ihr hiersein
+angerührt, jetzt aber ging ihm auf einmal und als natürlich auf, da sie
+ja eine pompejanerin sei, lebe sie in ihrer vaterstadt und, _ohne daß
+er's geahnt habe, gleichzeitig mit ihm_.« (g. p. 12.) angst um das ihr
+bevorstehende schicksal entlockte ihm einen warnruf, auf den die
+gleichmütig fortschreitende erscheinung ihm ihr gesicht zuwendete. sie
+setzte aber dann unbekümmert ihren weg bis zum portikus des tempels
+fort, setzte sich dort auf eine treppenstufe und legte langsam den kopf
+auf diese nieder, während ihr gesicht sich immer blasser färbte, als ob
+es sich zu weißem marmor umwandle. als er ihr nacheilte, fand er sie mit
+ruhigem ausdruck wie schlafend auf der breiten stufe hingestreckt, bis
+dann der aschenregen ihre gestalt begrub.
+
+als er erwachte, glaubte er noch das verworrene geschrei der nach
+rettung suchenden bewohner pompejis und die dumpf dröhnende brandung der
+erregten see im ohre zu haben. aber auch nachdem die wiederkehrende
+besinnung diese geräusche als die weckenden lebensäußerungen der
+lärmenden großstadt erkannt hatte, behielt er für eine lange zeit den
+glauben an die wirklichkeit des geträumten; als er sich endlich von der
+vorstellung frei gemacht, daß er selbst vor bald zwei jahrtausenden dem
+untergang pompejis beigewohnt, verblieb ihm doch wie eine wahrhafte
+überzeugung, daß die gradiva in pompeji gelebt und dort im jahre 79 mit
+verschüttet worden sei. solche fortsetzung fanden seine phantasien über
+die gradiva durch die nachwirkung dieses traumes, daß er sie jetzt erst
+wie eine verlorene betrauerte.
+
+während er, von diesen gedanken befangen, aus dem fenster lehnte, zog
+ein kanarienvogel seine aufmerksamkeit auf sich, der an einem
+offenstehenden fenster des hauses gegenüber im käfig sein lied
+schmetterte. plötzlich durchfuhr etwas wie ein ruck den, wie es scheint,
+noch nicht völlig aus seinem traum erwachten. er glaubte, auf der straße
+eine gestalt wie die seiner gradiva gesehen und selbst den für sie
+charakteristischen gang erkannt zu haben, eilte unbedenklich auf die
+straße, um sie einzuholen, und erst das lachen und spotten der leute
+über seine unschickliche morgenkleidung trieb ihn rasch wieder in seine
+wohnung zurück. in seinem zimmer war es wieder der singende
+kanarienvogel im käfig, der ihn beschäftigte und ihn zum vergleiche mit
+seiner eigenen person anregte. auch er sitze wie im käfig, fand er, doch
+habe er es leichter, seinen käfig zu verlassen. wie in weiterer
+nachwirkung des traumes, vielleicht auch unter dem einflusse der linden
+frühlingsluft gestaltete sich in ihm der entschluß einer frühjahrsreise
+nach italien, für welche ein wissenschaftlicher vorwand bald gefunden
+wurde, wenn auch »der antrieb zu dieser reise ihm aus einer
+unbenennbaren empfindung entsprungen war«. (g. p. 24.)
+
+bei dieser merkwürdig locker motivierten reise wollen wir einen moment
+halt machen und die persönlichkeit wie das treiben unseres helden näher
+ins auge fassen. er erscheint uns noch unverständlich und töricht; wir
+ahnen nicht, auf welchem wege seine besondere torheit sich mit der
+menschlichkeit verknüpfen wird, um unsere teilnahme zu erzwingen. es ist
+das vorrecht des dichters, uns in solcher unsicherheit belassen zu
+dürfen; mit der schönheit seiner sprache, der sinnigkeit seiner einfälle
+lohnt er uns vorläufig das vertrauen, das wir ihm schenken, und die
+sympathie, die wir, noch unverdient, für seinen helden bereithalten. von
+diesem teilt er uns noch mit, daß er schon durch die familientradition
+zum altertumsforscher bestimmt, sich in seiner späteren vereinsamung und
+unabhängigkeit ganz in seine wissenschaft versenkt und ganz vom leben
+und seinen genüssen abgewendet hat. marmor und bronze waren für sein
+gefühl das einzig wirklich lebendige, den zweck und wert des
+menschenlebens zum ausdruck bringende. doch hatte vielleicht in
+wohlmeinender absicht die natur ihm ein korrektiv durchaus
+unwissenschaftlicher art ins blut gelegt, eine überaus lebhafte
+phantasie, die sich nicht nur in träumen, sondern auch oft im wachen zur
+geltung bringen konnte. durch solche absonderung der phantasie vom
+denkvermögen mußte er zum dichter oder zum neurotiker bestimmt sein,
+gehörte er jenen menschen an, deren reich nicht von dieser welt ist. so
+konnte es sich ihm ereignen, daß er mit seinem interesse an einem
+reliefbild hängen blieb, welches ein eigentümlich schreitendes mädchen
+darstellte, daß er dieses mit seinen phantasien umspann, ihm namen und
+herkunft fabulierte, und die von ihm geschaffene person in das vor mehr
+als  jahren verschüttete pompeji versetzte, endlich nach einem
+merkwürdigen angsttraum die phantasie von der existenz und dem untergang
+des gradiva genannten mädchens zu einem wahn erhob, der auf sein handeln
+einfluß gewann. sonderbar und undurchsichtig würden uns diese leistungen
+der phantasie erscheinen, wenn wir ihnen bei einem wirklich lebenden
+begegnen würden. da unser held norbert hanold ein geschöpf des dichters
+ist, möchten wir etwa an diesen die schüchterne frage richten, ob seine
+phantasie von anderen mächten als von ihrer eigenen willkür bestimmt
+worden ist.
+
+unseren helden hatten wir verlassen, als er sich anscheinend durch das
+singen eines kanarienvogels zu einer reise nach italien bewegen ließ,
+deren motiv ihm offenbar nicht klar war. wir erfahren weiter, daß auch
+ziel und zweck dieser reise ihm nicht feststand. eine innere unruhe und
+unbefriedigung treibt ihn von rom nach neapel und von da weiter weg. er
+gerät in den schwarm der hochzeitsreisenden und genötigt, sich mit den
+zärtlichen »« und »grete« zu beschäftigen, findet er sich ganz
+außer stande, das tun und treiben dieser paare zu verstehen. er kommt zu
+dem ergebnis, unter allen torheiten der menschen »nehme jedenfalls das
+heiraten, als die größte und unbegreiflichste, den obersten rang ein,
+und ihre sinnlosen hochzeitsreisen nach italien setzten gewissermaßen
+dieser narretei die krone auf«. (g. p. 27.) in rom durch die nähe eines
+zärtlichen paares in seinem schlaf gestört, flieht er alsbald nach
+neapel, nur um dort andere » und grete« wiederzufinden. da er aus
+deren gesprächen zu entnehmen glaubt, daß die mehrheit dieser vogelpaare
+nicht im sinne habe, zwischen dem schutt von pompeji zu nisten, sondern
+den flug nach capri zu richten, beschließt er, das zu tun, was sie nicht
+täten, und befindet sich »wider erwarten und absicht« wenige tage nach
+seiner abreise in pompeji.
+
+ohne aber dort die ruhe zu finden, die er gesucht. die rolle, welche bis
+dahin die hochzeitspaare gespielt, die sein gemüt beunruhigt und seine
+sinne belästigt hatten, wird jetzt von den stubenfliegen übernommen, in
+denen er die verkörperung des absolut bösen und überflüssigen zu
+erblicken geneigt wird. beiderlei quälgeister verschwimmen ihm zu einer
+einheit; manche fliegenpaare erinnern ihn an hochzeitsreisende, reden
+sich vermutlich in ihrer sprache auch »mein einziger « und »meine
+süße grete« an. er kann endlich nicht umhin zu erkennen, »daß seine
+unbefriedigung nicht allein durch das um ihn herum befindliche
+verursacht werde, sondern etwas ihren ursprung auch aus ihm selbst
+schöpfe«. (g. p. 42.) er fühlt, »daß er mißmutig sei, weil ihm etwas
+fehle, ohne daß er sich aufhellen könne, was«.
+
+am nächsten morgen begibt er sich durch den »ingresso« nach pompeji und
+durchstreift nach verabschiedung des führers planlos die stadt,
+merkwürdigerweise ohne sich dabei zu erinnern, daß er vor einiger zeit
+im traume bei der verschüttung pompejis zugegen gewesen. als dann in der
+»heißen, heiligen« mittagsstunde, die ja den alten als geisterstunde
+galt, die anderen besucher sich geflüchtet haben, und die trümmerhaufen
+verödet und sonnenglanzübergossen vor ihm liegen, da regt sich in ihm
+die fähigkeit, sich in das versunkene leben zurückzuversetzen, aber
+nicht mit hilfe der wissenschaft. »was diese lehrte, war eine leblose
+archäologische anschauung, und was ihr vom mund kam, eine tote,
+philologische sprache. die verhalfen zu keinem begreifen mit der seele,
+dem gemüt, dem herzen, wie man's nennen wollte, sondern wer danach
+verlangen in sich trug, der mußte als einzig lebendiger allein in der
+heißen mittagsstille hier zwischen den überresten der vergangenheit
+stehen, um nicht mit den körperlichen augen zu sehen und nicht mit den
+leiblichen ohren zu hören. dann .... wachten die toten auf und pompeji
+fing an, wieder zu leben.« (g. p. 55.)
+
+während er so die vergangenheit mit seiner phantasie belebt, sieht er
+plötzlich die unverkennbare gradiva seines reliefs aus einem hause
+heraustreten und leichtbehend über die lavatrittsteine zur anderen seite
+der straße schreiten, ganz so, wie er sie im traume jener nacht gesehen,
+als sie sich wie zum schlafen auf die stufen des apollotempels hingelegt
+hatte. »und mit dieser erinnerung zusammen kommt ihm noch etwas anderes
+zum erstenmal zum bewußtsein: er sei, ohne selbst von dem antrieb in
+seinem innern zu wissen, deshalb nach italien und ohne aufenthalt von
+rom und neapel bis pompeji weitergefahren, um danach zu suchen, ob er
+hier spuren von ihr auffinden könne. und zwar im wörtlichen sinne, denn
+bei ihrer besonderen gangart mußte sie in der asche einen von allen
+übrigen sich unterscheidenden abdruck der zehen hinterlassen haben.« (g.
+p. 58.)
+
+die spannung, in welcher der dichter uns bisher erhalten hat, steigert
+sich hier an dieser stelle für einen augenblick zu peinlicher
+verwirrung. nicht nur, daß unser held offenbar aus dem gleichgewicht
+geraten ist, auch wir finden uns angesichts der erscheinung der gradiva,
+die bisher ein stein- und dann ein phantasiebild war, nicht zurecht.
+ist's eine halluzination unseres vom wahn betörten helden, ein
+»wirkliches« gespenst oder eine leibhaftige person? nicht daß wir an
+gespenster zu glauben brauchten, um diese reihe aufzustellen. der
+dichter, der seine erzählung ein »phantasiestück« benannte, hat ja noch
+keinen anlaß gefunden uns aufzuklären, ob er uns in unserer, als
+nüchtern verschrieenen, von den gesetzen der wissenschaft beherrschten
+welt belassen oder in eine andere phantastische welt führen will, in der
+geistern und gespenstern wirklichkeit zugesprochen wird. wie das
+beispiel des _hamlet_, des _macbeth_, beweist, sind wir ohne zögern
+bereit, ihm in eine solche zu folgen. der wahn des phantasievollen
+archäologen wäre in diesem falle an einem anderen maßstabe zu messen.
+ja, wenn wir bedenken, wie unwahrscheinlich die reale existenz einer
+person sein muß, die in ihrer erscheinung jenes antike steinbild
+getreulich wiederholt, so schrumpft unsere reihe zu einer alternative
+ein: halluzination oder mittagsgespenst. ein kleiner zug der schilderung
+streicht dann bald die erstere möglichkeit. eine große eidechse liegt
+bewegungslos im sonnenlicht ausgestreckt, die aber vor dem herannahenden
+fuß der gradiva entflieht und sich über die lavaplatten der straße
+davonringelt. also keine halluzination, etwas außerhalb der sinne
+unseres träumers. aber sollte die wirklichkeit einer rediviva eine
+eidechse stören können?
+
+vor dem hause des meleager verschwindet die gradiva. wir verwundern uns
+nicht, daß norbert hanold seinen wahn dahin fortsetzt, daß pompeji in
+der mittagsgeisterstunde rings um ihn her wieder zu leben begonnen habe,
+und so sei auch die gradiva wieder aufgelebt und in das haus gegangen,
+das sie vor dem verhängnisvollen augusttage des jahres 79 bewohnt hatte.
+scharfsinnige vermutungen über die persönlichkeit des eigentümers, nach
+dem dies haus benannt sein mochte, und über die beziehung der gradiva zu
+ihm schießen durch seinen kopf und beweisen, daß sich seine wissenschaft
+nun völlig in den dienst seiner phantasie begeben hat. ins innere dieses
+hauses eingetreten, entdeckt er die erscheinung plötzlich wieder auf
+niedrigen stufen zwischen zweien der gelben säulen sitzend. »auf ihren
+knien lag etwas weißes ausgebreitet, das sein blick klar zu
+unterscheiden nicht fähig war; ein papyrusblatt schien's zu sein ....«
+unter den voraussetzungen seiner letzten kombination über ihre herkunft
+spricht er sie griechisch an, mit zagen die entscheidung erwartend, ob
+ihr in ihrem scheindasein wohl sprachvermögen gegönnt sei. da sie nicht
+antwortet, vertauscht er die anrede mit einer lateinischen. da klingt es
+von lächelnden lippen: »wenn sie mit mir sprechen wollen, müssen sie's
+auf deutsch tun.«
+
+welche beschämung für uns, die leser! so hat der dichter also auch unser
+gespottet und uns wie durch den widerschein der sonnenglut pompejis in
+einen kleinen wahn gelockt, damit wir den armen, auf den die wirkliche
+mittagssonne brennt, milder beurteilen müssen. wir aber wissen jetzt,
+von kurzer verwirrung geheilt, daß die gradiva ein leibhaftiges
+deutsches mädchen ist, was wir gerade als das unwahrscheinlichste von
+uns weisen wollten. in ruhiger überlegenheit dürfen wir nun zuwarten,
+bis wir erfahren, welche beziehung zwischen dem mädchen und ihrem bild
+in stein besteht, und wie unser junger archäologe zu den phantasien
+gelangt ist, die auf ihre reale persönlichkeit hinweisen.
+
+nicht so rasch wie wir wird unser held aus seinem wahn gerissen, denn
+»wenn der glaube selig machte«, sagt der dichter, »nahm er überall eine
+erhebliche summe von unbegreiflichkeiten in den kauf«, (g. p. 140) und
+überdies hat dieser wahn wahrscheinlich wurzeln in seinem innern, von
+denen wir nichts wissen, und die bei uns nicht bestehen. es bedarf wohl
+bei ihm einer eingreifenden behandlung, um ihn zur wirklichkeit
+zurückzuführen. gegenwärtig kann er nicht anders, als den wahn der eben
+gemachten wunderbaren erfahrung anpassen. die gradiva, die bei der
+verschüttung pompejis mit untergegangen, kann nichts anderes sein als
+ein mittagsgespenst, das für die kurze geisterstunde ins leben
+zurückkehrt. aber warum entfährt ihm nach jener in deutscher sprache
+gegebenen antwort der ausruf: »ich wußte es, so klänge deine stimme«?
+nicht wir allein, auch das mädchen selbst muß so fragen, und hanold muß
+zugeben, daß er die stimme noch nie gehört, aber sie zu hören erwartet,
+damals im traum, als er sie anrief, während sie sich auf den stufen des
+tempels zum schlafen hinlegte. er bittet sie, es wieder zu tun wie
+damals, aber da erhebt sie sich, richtet ihm einen befremdenden blick
+entgegen und verschwindet nach wenigen schritten zwischen den säulen des
+hofes. ein schöner schmetterling hatte sie kurz vorher einigemal
+umflattert; in seiner deutung war es ein bote des hades gewesen, der die
+abgeschiedene an ihre rückkehr mahnen sollte, da die mittagsgeisterstunde
+abgelaufen. den ruf: »kehrst du morgen in der mittagsstunde
+wieder hieher?« kann hanold der verschwindenden noch nachsenden.
+uns aber, die wir uns jetzt mehr nüchterner deutungen getrauen,
+will es scheinen, als ob die junge dame in der aufforderung,
+die hanold an sie gerichtet, etwas ungehöriges erblickte und ihn darum
+beleidigt verließ, da sie doch von seinem traum nichts wissen konnte.
+sollte ihr feingefühl nicht die erotische natur des verlangens
+herausgespürt haben, das sich für hanold durch die beziehung auf seinen
+traum motivierte?
+
+nach dem verschwinden der gradiva mustert unser held sämtliche bei der
+tafel anwesenden gäste des hotels diomède und darauf ebenso die des
+hotels suisse und kann sich dann sagen, daß in keiner der beiden ihm
+allein bekannten unterkunftsstätten pompejis eine person zu finden sei,
+die mit der gradiva die entfernteste ähnlichkeit besitze.
+selbstverständlich hätte er die erwartung als widersinnig abgewiesen,
+daß er die gradiva wirklich in einer der beiden wirtschaften antreffen
+könne. der auf dem heißen boden des vesuvs gekelterte wein hilft dann
+den taumel verstärken, in dem er den tag verbracht.
+
+vom nächsten tage stand nur fest, daß hanold wieder um die mittagsstunde
+im hause des meleager sein müsse, und diese zeit erwartend, dringt er
+auf einem nicht vorschriftsmäßigen wege über die alte stadtmauer in
+pompeji ein. ein mit weißen glockenkelchen behängter asphodelosschaft
+erscheint ihm als blume der unterwelt bedeutungsvoll genug, um ihn zu
+pflücken und mit sich zu tragen. die gesamte altertumswissenschaft aber
+dünkt ihm während seines wartens das zweckloseste und gleichgültigste
+von der welt, denn ein anderes interesse hat sich seiner bemächtigt, das
+problem: »von welcher beschaffenheit die körperliche erscheinung eines
+wesens wie der gradiva sei, das zugleich tot, und, wenn auch nur in der
+mittagsgeisterstunde, lebendig war.« (g. p. 80.) auch bangt er davor,
+die gesuchte heute nicht anzutreffen, weil ihr vielleicht die wiederkehr
+erst nach langen zeiten verstattet sein könne, und hält ihre
+erscheinung, als er ihrer wieder zwischen den säulen gewahr wird, für
+ein gaukelspiel seiner phantasie, welches ihm den schmerzlichen ausruf
+entlockt: »o, daß du noch wärest und lebtest!« allein diesmal war er
+offenbar zu kritisch gewesen, denn die erscheinung verfügt über eine
+stimme, die ihn fragt, ob er ihr die weiße blume bringen wolle, und
+zieht den wiederum fassungslosen in ein langes gespräch. uns lesern,
+welchen die gradiva bereits als lebende persönlichkeit interessant
+geworden ist, teilt der dichter mit, daß das unmutige und
+zurückweisende, das sich tags zuvor in ihrem blick geäußert, einem
+ausdruck von suchender neugier oder wißbegierde gewichen war. sie
+forscht ihn auch wirklich aus, verlangt die aufklärung seiner bemerkung
+vom vorigen tag, wann er bei ihr gestanden, als sie sich zum schlafen
+hingelegt, erfährt so vom traum, in dem sie mit ihrer vaterstadt
+untergegangen, dann vom reliefbild und der stellung des fußes, die den
+archäologen so angezogen. nun läßt sie sich auch bereit finden, ihren
+gang zu demonstrieren, wobei als einzige abweichung vom urbild der
+gradiva der ersatz der sandalen durch sandfarbig helle schuhe von feinem
+leder festgestellt wird, den sie als anpassung an die gegenwart
+aufklärt. offenbar geht sie auf seinen wahn ein, dessen ganzen umfang
+sie ihm entlockt, ohne je zu widersprechen. ein einziges mal scheint sie
+durch einen eigenen affekt aus ihrer rolle gerissen zu werden, als er,
+den sinn auf ihr reliefbild gerichtet, behauptet, daß er sie auf den
+ersten blick erkannt habe. da sie an dieser stelle des gespräches noch
+nichts von dem relief weiß, muß ihr ein mißverständnis der worte hanolds
+nahe liegen, aber alsbald hat sie sich wieder gefaßt, und nur uns will
+es scheinen, als ob manche ihrer reden doppelsinnig klingen, außer ihrer
+bedeutung im zusammenhang des wahnes auch etwas wirkliches und
+gegenwärtiges meinen, so z. b. wenn sie bedauert, daß ihm damals die
+feststellung der gradivagangart auf der straße nicht gelungen sei. »wie
+schade, du hättest vielleicht die weite reise hieher nicht zu machen
+gebraucht.« (g. p. 89.) sie erfährt auch, daß er ihr reliefbild
+»gradiva« benannt, und sagt ihm ihren wirklichen namen zoë. »der name
+steht dir schön an, aber er klingt mir als ein bitterer hohn, denn zoë
+heißt das leben.« -- »man muß sich in das unabänderliche fügen«,
+entgegnet sie, »und ich habe mich schon lange daran gewöhnt, tot zu
+sein.« mit dem versprechen, morgen um die mittagsstunde wieder an
+demselben orte zu sein, nimmt sie von ihm abschied, nachdem sie sich
+noch die asphodelosstaude von ihm erbeten. »solchen, die besser daran
+sind, gibt man im frühling rosen, doch für mich ist die blume der
+vergessenheit aus deiner hand die richtige.« (g. p. 90.) wehmut schickt
+sich wohl für eine so lang verstorbene, die nun auf kurze stunden ins
+leben zurückgekehrt ist.
+
+wir fangen nun an zu verstehen und eine hoffnung zu fassen. wenn die
+junge dame, in deren gestalt die gradiva wieder aufgelebt ist, hanolds
+wahn so voll aufnimmt, so tut sie es wahrscheinlich, um ihn von ihm zu
+befreien. es gibt keinen anderen weg dazu; durch widerspruch versperrte
+man sich die möglichkeit. auch die ernsthafte behandlung eines
+wirklichen solchen krankheitszustandes könnte nicht anders, als sich
+zunächst auf den boden des wahngebäudes stellen und dieses dann
+möglichst vollständig erforschen. wenn zoë die richtige person dafür
+ist, werden wir wohl erfahren, wie man einen wahn wie den unseres helden
+heilt. wir wollten auch gern wissen, wie ein solcher wahn entsteht. es
+träfe sich sonderbar und wäre doch nicht ohne beispiel und gegenstück,
+wenn behandlung und erforschung des wahnes zusammenfielen und die
+aufklärung der entstehungsgeschichte desselben sich gerade während
+seiner zersetzung ergäbe. es ahnt uns freilich, daß unser krankheitsfall
+dann in eine »gewöhnliche« liebesgeschichte auslaufen könnte, aber man
+darf die liebe als heilpotenz gegen den wahn nicht verachten, und war
+unseres helden eingenommensein von seinem gradivabild nicht auch eine
+volle verliebtheit, allerdings noch aufs vergangene und leblose
+gerichtet?
+
+nach dem verschwinden der gradiva schallt es nur noch einmal aus der
+entfernung wie ein lachender ruf eines über die trümmerstadt
+hinfliegenden vogels. der zurückgebliebene nimmt etwas weißes auf, das
+die gradiva zurückgelassen, kein papyrusblatt, sondern ein skizzenbuch
+mit bleistiftzeichnungen verschiedener motive aus pompeji. wir würden
+sagen, es sei ein unterpfand ihrer wiederkehr, daß sie das kleine buch
+an dieser stelle vergessen, denn wir behaupten, man vergißt nichts ohne
+geheimen grund oder verborgenes motiv.
+
+der rest des tages bringt unserem hanold allerlei merkwürdige
+entdeckungen und feststellungen, die er zu einem ganzen zusammenzufügen
+verabsäumt. in der mauer des portikus, wo die gradiva verschwunden,
+nimmt er heute einen schmalen spalt gewahr, der doch breit genug ist, um
+eine person von ungewöhnlicher schlankheit durchzulassen. er erkennt,
+die zoë-gradiva brauche hier nicht in den boden zu versinken, was auch
+so vernunftwidrig sei, daß er sich dieses nun abgelegten glaubens
+schämt, sondern sie benütze diesen weg, um sich in ihre gruft zu
+begeben. ein leichter schatten scheint ihm am ende der gräberstraße vor
+der sogen. villa des diomedes zu zergehen. im taumel wie am vortage und
+mit denselben problemen beschäftigt, treibt er sich nun in der umgebung
+pompejis herum. von welcher leiblichen beschaffenheit wohl die
+zoë-gradiva sein möge, und ob man etwas verspüren würde, wenn man ihre
+hand berührte. ein eigentümlicher drang trieb ihn zum vorsatze, dieses
+experiment zu unternehmen, und doch hielt ihn eine ebenso große scheu
+auch in der vorstellung davon zurück. an einem heißbesonnten abhange
+traf er einen älteren herrn, der nach seiner ausrüstung ein zoologe oder
+botaniker sein mußte und mit einem fange beschäftigt schien. der wandte
+sich nach ihm um und sagte dann: »interessieren sie sich auch für die
+faraglionensis? das hätte ich kaum vermutet, aber mir ist es durchaus
+wahrscheinlich, daß sie sich nicht nur auf den faraglionen bei capri
+aufhält, sondern sich mit ausdauer auch am festland finden lassen muß.
+das vom kollegen _eimer_ angegebene mittel ist wirklich gut; ich habe es
+schon mehrfach mit bestem erfolge angewendet. bitte, halten sie sich
+ganz ruhig --.« (g. p. 96.) der sprecher brach dann ab und hielt eine
+aus einem langen grashalm hergestellte schlinge vor eine felsritze, aus
+der das bläulich schillernde köpfchen einer eidechse hervorsah. hanold
+verließ den lacertenjäger mit der kritischen idee, es sei kaum
+glaublich, was für närrisch merkwürdige vorhaben leute zu der weiten
+fahrt nach pompeji veranlassen konnten, in welche kritik er sich und
+seine absicht, in der asche pompejis nach den fußabdrücken der gradiva
+zu forschen, natürlich nicht einschloß. das gesicht des herrn kam ihm
+übrigens bekannt vor, als hätte er es flüchtig in einem der beiden
+gasthöfe bemerkt, auch war dessen anrede wie an einen bekannten
+gerichtet gewesen. auf seiner weiteren wanderung brachte ihn ein
+seitenweg zu einem bisher von ihm nicht entdeckten haus, welches sich
+als ein drittes wirtshaus, der »albergo del sole« herausstellte. der
+unbeschäftigte wirt benützte die gelegenheit, sein haus und die darin
+enthaltenen ausgegrabenen schätze bestens zu empfehlen. er behauptete,
+daß er auch zugegen gewesen sei, als man in der gegend des forums das
+junge liebespaar aufgefunden, das sich bei der erkenntnis des
+unabwendbaren unterganges fest mit den armen umschlungen und so den tod
+erwartet habe. davon hatte hanold schon früher gehört und darüber als
+über eine fabelerfindung irgend eines phantasiereichen erzählers die
+achsel gezuckt, aber heute erweckten die reden des wirtes bei ihm eine
+gläubigkeit, die sich auch weiter erstreckte, als dieser eine mit grüner
+patina überzogene metallspange herbeiholte, die in seiner gegenwart
+neben den überresten des mädchens aus der asche gesammelt worden sei. er
+erwarb diese spange ohne weitere kritische bedenken, und als er beim
+verlassen des albergo an einem offenstehenden fenster einen mit weißen
+blüten besetzten asphodelosschaft herabnicken sah, durchdrang ihn der
+anblick der gräberblume wie eine beglaubigung für die echtheit seines
+neuen besitztums.
+
+mit dieser spange hatte aber ein neuer wahn von ihm besitz ergriffen
+oder vielmehr der alte ein stückchen fortsetzung getrieben, anscheinend
+kein gutes vorzeichen für die eingeleitete therapie. unweit des forums
+hatte man ein junges liebespaar in solcher umschlingung ausgegraben, und
+er hatte im traume die gradiva in eben dieser gegend beim apollotempel
+sich zum schlafe niederlegen gesehen. wäre es nicht möglich, daß sie in
+wirklichkeit vom forum noch weiter gegangen sei, um mit jemand
+zusammenzutreffen, mit dem sie dann gemeinsam gestorben? ein quälendes
+gefühl, das wir vielleicht der eifersucht gleichstellen können,
+entsprang aus dieser vermutung. er beschwichtigte es durch den hinweis
+auf die unsicherheit der kombination und brachte sich wieder so weit
+zurecht, daß er die abendmahlzeit im hotel diomède einnehmen konnte.
+zwei neueingetroffene gäste, ein er und eine sie, die er nach einer
+gewissen ähnlichkeit für geschwister halten mußte, -- trotz ihrer
+verschiedenen haarfärbung, -- zogen dort seine aufmerksamkeit auf sich.
+die beiden waren die ersten ihm auf seiner reise begegnenden, von denen
+er einen sympathischen eindruck empfing. eine rote sorrentiner rose, die
+das junge mädchen trug, weckte irgend eine erinnerung in ihm, er konnte
+sich nicht besinnen, welche. endlich ging er zu bett und träumte; es war
+merkwürdig unsinniges zeug, aber offenbar aus den erlebnissen des tages
+zusammengebraut. »irgendwo in der sonne saß die gradiva, machte aus
+einem grashalm eine schlinge, um eine eidechse drin zu fangen und sagte
+dazu: ›bitte, halte dich ganz ruhig -- die kollegin hat recht, das
+mittel ist wirklich gut und sie hat es mit bestem erfolge angewendet.‹«
+gegen diesen traum wehrte er sich noch im schlafe mit der kritik, das
+sei ja vollständige verrücktheit, und es gelang ihm, den traum
+loszuwerden mit hilfe eines unsichtbaren vogels, der einen kurzen
+lachenden ruf ausstieß und die eidechse im schnabel forttrug.
+
+trotz all dieses spuks erwachte er eher geklärt und gefestigt. ein
+rosenstrauch, der blumen von jener art trug, wie er sie gestern an der
+brust der jungen dame bemerkt hatte, brachte ihm ins gedächtnis zurück,
+daß in der nacht jemand gesagt hatte, im frühling gäbe man rosen. er
+pflückte unwillkürlich einige der rosen ab, und an diese mußte sich
+etwas knüpfen, was eine lösende wirkung in seinem kopf ausübte. seiner
+menschenscheu erledigt, begab er sich auf dem gewöhnlichen wege nach
+pompeji, mit den rosen, der metallspange und dem skizzenbuch beschwert
+und mit verschiedenen problemen, welche die gradiva betrafen,
+beschäftigt. der alte wahn war rissig geworden, er zweifelte bereits, ob
+sie sich nur in der mittagsstunde, nicht auch zu anderen zeiten in
+pompeji aufhalten dürfe. der akzent hatte sich dafür auf das zuletzt
+angefügte stück verschoben, und die an diesem hängende eifersucht quälte
+ihn in allerlei verkleidungen. beinahe hätte er gewünscht, daß die
+erscheinung nur seinen augen sichtbar bleibe und sich der wahrnehmung
+anderer entziehe; so dürfte er sie doch als sein ausschließliches
+eigentum betrachten. während seiner streifungen im erwarten der
+mittagsstunde hatte er eine überraschende begegnung. in der casa del
+fauno traf er auf zwei gestalten, die sich in einem winkel unentdeckbar
+glauben mochten, denn sie hielten sich mit den armen umschlungen und
+ihre lippen zusammengeschlossen. mit verwunderung erkannte er in ihnen
+das sympathische paar von gestern abend. aber für zwei geschwister
+bedünkten ihn ihr gegenwärtiges verhalten, die umarmung und der kuß von
+zu langer andauer; also war es doch ein liebes- und vermutlich junges
+hochzeitspaar, auch ein  und eine grete. merkwürdigerweise erregte
+dieser anblick jetzt nichts anderes als wohlgefallen in ihm, und scheu,
+als hätte er eine geheime andachtsübung gestört, zog er sich ungesehen
+zurück. ein respekt, der ihm lange gefehlt hatte, war in ihm
+wiederhergestellt.
+
+vor dem hause des meleager angekommen, überfiel ihn die angst, die
+gradiva in gesellschaft eines anderen anzutreffen, noch einmal so
+heftig, daß er für ihre erscheinung keine andere begrüßung fand, als die
+frage: bist du allein? mit schwierigkeit läßt er sich von ihr zum
+bewußtsein bringen, daß er die rosen für sie gepflückt, beichtet ihr den
+letzten wahn, daß sie das mädchen gewesen, das man am forum in
+liebesumarmung gefunden, und dem die grüne spange gehört hatte. nicht
+ohne spott fragt sie, ob er das stück etwa in der sonne gefunden. diese
+-- hier sole genannt -- bringe allerlei derart zu stande. zur heilung
+des schwindels im kopfe, den er zugesteht, schlägt sie ihm vor, ihre
+kleine mahlzeit mit ihr zu teilen, und bietet ihm die eine hälfte eines
+in seidenpapier eingewickelten weißbrotes an, dessen andere sie selbst
+mit sichtlichem appetit verzehrt. dabei blitzen ihre tadellosen zähne
+zwischen den lippen auf und verursachen beim durchbeißen der rinde einen
+leicht krachenden ton. auf ihre rede: »mir ist's, als hätten wir schon
+vor zweitausend jahren einmal so zusammen unser brot gegessen. kannst du
+dich nicht darauf besinnen?« (g. p. 118) wußte er keine antwort, aber
+die stärkung seines kopfes durch das nährmittel und all die zeichen von
+gegenwärtigkeit, die sie gab, verfehlten ihre wirkung auf ihn nicht. die
+vernunft erhob sich in ihm und zog den ganzen wahn, daß die gradiva nur
+ein mittagsgespenst sei, in zweifel; dagegen ließ sich freilich
+einwenden, daß sie soeben selbst gesagt, sie habe schon vor zweitausend
+jahren die mahlzeit mit ihm geteilt. in solchem konflikt bot sich ein
+experiment als mittel der entscheidung, das er mit schlauheit und
+wiedergefundenem mute ausführte. ihre linke hand lag mit den schmalen
+fingern ruhig auf ihren knien, und eine der stubenfliegen, über deren
+frechheit und nutzlosigkeit er sich früher so entrüstet hatte, ließ sich
+auf dieser hand nieder. plötzlich fuhr hanolds hand in die höh' und
+klatschte mit einem keineswegs gelinden schlag auf die fliege und die
+hand der gradiva herunter.
+
+zweierlei erfolg trug ihm dieser kühne versuch ein, zunächst die
+freudige überzeugung, daß er eine unzweifelhaft wirkliche, lebendige und
+warme menschenhand berührt, dann aber einen verweis, vor dem er
+erschrocken von seinem sitz auf der stufe aufflog. denn von den lippen
+der gradiva tönte es, nachdem sie sich von ihrer verblüffung erholt
+hatte: »du bist doch offenbar verrückt, norbert hanold.«
+
+der ruf beim eigenen namen ist bekanntlich das beste mittel, einen
+schläfer oder nachtwandler aufzuwecken. welche folgen die nennung seines
+namens, von dem er niemand in pompeji mitteilung gemacht, durch die
+gradiva für norbert hanold mit sich gebracht hatte, ließ sich leider
+nicht beobachten. denn in diesem kritischen augenblick tauchte das
+sympathische liebespaar aus der casa di fauno auf, und die junge dame
+rief mit einem ton fröhlicher überraschung: »zoë! du auch hier? und auch
+auf der hochzeitsreise? davon hast du mir ja kein wort geschrieben!« vor
+diesem neuen beweis der lebenswirklichkeit der gradiva ergriff hanold
+die flucht.
+
+die zoë-gradiva war durch den unvorhergesehenen besuch, der sie in
+einer, wie es scheint, wichtigen arbeit störte, auch nicht aufs
+angenehmste überrascht. aber bald gefaßt, beantwortet sie die frage mit
+einer geläufigen antwortsrede, in der sie der freundin, aber mehr noch
+uns, auskünfte über die situation gibt, und mittels welcher sie sich des
+jungen paares zu entledigen weiß. sie gratuliert, aber sie ist nicht auf
+der hochzeitsreise. »der junge herr, der eben fortging, laboriert auch
+an einem merkwürdigen hirngespinst, mir scheint, er glaubt, daß ihm eine
+fliege im kopfe summt; nun, irgend eine kerbtierart hat wohl jeder drin.
+pflichtmäßig verstehe ich mich etwas auf entomologie und kann deshalb
+bei solchen zuständen ein bißchen von nutzen sein. mein vater und ich
+wohnen im sole, er bekam auch einen plötzlichen anfall und dazu den
+guten einfall, mich mit hieher zu nehmen, wenn ich mich auf meine eigene
+hand in pompeji unterhalten und an ihn keinerlei anforderungen stellen
+wollte. ich sagte mir, irgend etwas interessantes würde ich wohl schon
+allein hier ausgraben. freilich, auf den fund, den ich gemacht, -- ich
+meine das glück, dich zu treffen, gisa, hatte ich mit keinem gedanken
+gerechnet.« (g. p. 124.) aber nun muß sie eilig fort, ihrem vater am
+sonnentisch gesellschaft leisten. und so entfernt sie sich, nachdem sie
+sich uns als die tochter des zoologen und eidechsenfängers vorgestellt
+und in allerlei doppelsinnigen reden sich zur absicht der therapie und
+zu anderen geheimen absichten bekannt hat. die richtung, die sie
+einschlug, war aber nicht die des gasthofes zur sonne, in dem ihr vater
+sie erwartete, sondern auch ihr wollte scheinen, als ob in der umgegend
+der villa des diomedes eine schattengestalt ihren tumulus aufsuche und
+unter einem der gräberdenkmäler verschwinde, und darum richtete sie ihre
+schritte mit dem jedesmal beinahe senkrecht aufgestellten fuß nach der
+gräberstraße. dorthin hatte sich in seiner beschämung und verwirrung
+hanold geflüchtet und wanderte im portikus des gartenraumes unablässig
+auf und ab, beschäftigt, den rest seines problems durch denkanstrengung
+zu erledigen. eines war ihm unanfechtbar klar geworden, daß er völlig
+ohne sinn und verstand gewesen zu glauben, daß er mit einer mehr oder
+weniger leiblich wieder lebendig gewordenen jungen pompejanerin verkehrt
+habe, und diese deutliche einsicht seiner verrücktheit bildete
+unstreitig einen wesentlichen fortschritt auf dem rückweg zur gesunden
+vernunft. aber anderseits war diese lebende, mit der auch andere wie mit
+einer ihnen gleichartigen leibhaftigkeit verkehrten, die gradiva, und
+sie wußte seinen namen, und dieses rätsel zu lösen, war seine kaum
+erwachte vernunft nicht stark genug. auch war er im gefühl kaum ruhig
+genug, um sich solcher schwierigen aufgabe gewachsen zu zeigen, denn am
+liebsten wäre er vor zweitausend jahren in der villa des diomedes
+mitverschüttet worden, um nur sicher zu sein, der zoë-gradiva nicht
+wieder zu begegnen.
+
+eine heftige sehnsucht, sie wiederzusehen, stritt indessen gegen den
+rest von neigung zur flucht, der sich in ihm erhalten hatte.
+
+um eine der vier ecken des pfeilerganges biegend, prallte er plötzlich
+zurück. auf einem abgebrochenen mauerstücke saß da eines der mädchen,
+die hier in der villa des diomedes ihren tod gefunden hatten. aber das
+war ein bald abgewiesener letzter versuch, in das reich des wahnsinns zu
+flüchten; nein, die gradiva war es, die offenbar gekommen war, ihm das
+letzte stück ihrer behandlung zu schenken. sie deutete seine erste
+instinktive bewegung ganz richtig als einen versuch, den raum zu
+verlassen, und bewies ihm, daß er nicht entrinnen könne, denn draußen
+hatte ein fürchterlicher wassersturz zu rauschen begonnen. die
+unbarmherzige begann das examen mit der frage, was er mit der fliege auf
+ihrer hand gewollt. er fand nicht den mut, sich eines bestimmten
+pronomens zu bedienen, wohl aber den wertvolleren, die entscheidende
+frage zu stellen:
+
+»ich war -- wie jemand sagte -- etwas verwirrt im kopf und bitte um
+verzeihung, daß ich die hand derartig -- wie ich so sinnlos sein konnte,
+ist mir nicht begreiflich -- aber ich bin auch nicht im stande, zu
+begreifen, wie ihre besitzerin mir meine -- meine unvernunft mit meinem
+namen vorhalten konnte.« (g. p. 134.)
+
+»so weit ist dein begreifen also noch nicht vorgeschritten, norbert
+hanold. wunder nehmen kann's mich allerdings nicht, da du mich lange
+daran gewöhnt hast. um die erfahrung wieder zu machen, hätte ich nicht
+nach pompeji zu kommen gebraucht, und du hättest sie mir um gut hundert
+meilen näher bestätigen können.«
+
+»um hundert meilen näher; deiner wohnung schräg gegenüber, in dem
+eckhaus; an meinem fenster steht ein käfig mit einem kanarienvogel,«
+eröffnet sie jetzt dem noch immer verständnislosen.
+
+dies letzte wort berührt den hörer wie eine erinnerung aus einer weiten
+ferne. das ist doch derselbe vogel, dessen gesang ihm den entschluß zur
+reise nach italien eingegeben.
+
+»in dem hause wohnt mein vater, der professor der zoologie _richard
+bertgang_.«
+
+als seine nachbarin kannte sie also seine person und seinen namen. uns
+droht es wie eine enttäuschung durch eine seichte lösung, die unserer
+erwartungen nicht würdig ist.
+
+norbert hanold zeigt noch keine wiedergewonnene selbständigkeit des
+denkens, wenn er wiederholt: »dann sind sie -- sind sie fräulein zoë
+_bertgang_? die sah aber doch ganz anders aus ....«
+
+die antwort des fräuleins _bertgang_ zeigt dann, daß doch noch andere
+beziehungen als die der nachbarschaft zwischen den beiden bestanden
+hatten. sie weiß für das trauliche »du« einzutreten, das er dem
+mittagsgespenst natürlich geboten, vor der lebenden wieder zurückgezogen
+hatte, auf das sie aber alte rechte geltend macht. »wenn du die anrede
+passender zwischen uns findest, kann ich sie ja auch anwenden, mir lag
+nur die andere natürlicher auf der zunge. ich weiß nicht mehr, ob ich
+früher, als wir täglich freundschaftlich miteinander herumliefen,
+gelegentlich uns zur abwechslung auch knufften und pufften, anders
+ausgesehen habe. aber wenn sie in den letzten jahren einmal mit einem
+blick auf mich acht gegeben hätten, wäre ihren augen vielleicht
+aufgegangen, daß ich schon seit längerer zeit so aussehe.«
+
+eine kinderfreundschaft hatte also zwischen den beiden bestanden,
+vielleicht eine kinderliebe, aus der das »du« seine berechtigung
+ableitete. ist diese lösung nicht vielleicht ebenso seicht wie die erst
+vermutete? es trägt aber doch wesentlich zur vertiefung bei, daß uns
+einfällt, dies kinderverhältnis erkläre in unvermuteter weise so manche
+einzelheit von dem, was während ihres jetzigen verkehrs zwischen den
+beiden vorgefallen. jener schlag auf die hand der zoë-gradiva, den sich
+norbert hanold so vortrefflich mit dem bedürfnis motiviert, durch eine
+experimentelle entscheidung die frage nach der leiblichkeit der
+erscheinung zu lösen, sieht er nicht anderseits einem wiederaufleben des
+impulses zum »knuffen und puffen« merkwürdig ähnlich, dessen herrschaft
+in der kindheit uns die worte zoës bezeugt haben? und wenn die gradiva
+an den archäologen die frage gerichtet, ob ihm nicht vorkomme, daß sie
+schon einmal vor zweitausend jahren so die mahlzeit miteinander geteilt
+hätten, wird diese unverständliche frage nicht plötzlich sinnvoll, wenn
+wir anstatt jener geschichtlichen vergangenheit die persönliche
+einsetzen, die kinderzeit wiederum, deren erinnerungen bei dem mädchen
+lebhaft erhalten, bei dem jungen manne aber vergessen zu sein scheinen?
+dämmert uns nicht plötzlich die einsicht, daß die phantasien des jungen
+archäologen über seine gradiva ein nachklang dieser vergessenen
+kindheitserinnerungen sein könnten? dann wären sie also keine
+willkürlichen produktionen seiner phantasie, sondern bestimmt, ohne daß
+er darum wüßte, durch das von ihm vergessene, aber noch wirksam in ihm
+vorhandene material von kindheitseindrücken. wir müßten diese abkunft
+der phantasien im einzelnen nachweisen können, wenn auch nur durch
+vermutungen. wenn z. b. die gradiva durchaus _griechischer_ abkunft sein
+muß, die tochter eines angesehenen mannes, vielleicht eines priesters
+der ceres, so stimmte das nicht übel zu einer nachwirkung der kenntnis
+ihres griechischen namens _zoë_ und ihrer zugehörigkeit zur familie
+eines professors der zoologie. sind aber die phantasien hanolds
+umgewandelte erinnerungen, so dürfen wir erwarten, in den mitteilungen
+der zoë bertgang den hinweis auf die quellen dieser phantasien zu
+finden. horchen wir auf; sie erzählte uns von einer intimen freundschaft
+der kinderjahre, wir werden nun erfahren, welche weitere entwicklung
+diese kinderbeziehung bei den beiden genommen hat.
+
+»damals, so bis um die zeit, in der man uns, ich weiß nicht weshalb,
+backfische tituliert, hatte ich mir eigentlich eine merkwürdige
+anhänglichkeit an sie angewöhnt und glaubte, ich könnte nie einen mir
+angenehmeren freund auf der welt finden. mutter und schwester oder
+bruder hatte ich ja nicht, meinem vater war eine blindschleiche in
+spiritus bedeutend interessanter als ich, und etwas muß man, wozu ich
+auch ein mädchen rechne, wohl haben, womit man seine gedanken und was
+sonst mit ihnen zusammenhängt, beschäftigen kann. das waren also sie
+damals; doch als die altertumswissenschaft über sie gekommen war, machte
+ich die entdeckung, daß aus dir -- entschuldigen sie, aber ihre
+schickliche neuerung klingt mir doch zu abgeschmackt und paßt auch nicht
+zu dem, was ich ausdrücken will -- ich wollte sagen, da stellte sich
+heraus, daß aus dir ein unausstehlicher mensch geworden war, der,
+wenigstens für mich, keine augen mehr im kopf, keine zunge mehr im mund
+und keine erinnerung mehr da hatte, wo sie mir an unsere
+kinderfreundschaft sitzen geblieben war. darum sah ich wohl anders aus
+als früher, denn wenn ich ab und zu in einer gesellschaft mit dir
+zusammenkam, noch im letzten winter einmal, sahst du mich nicht, und
+noch weniger bekam ich deine stimme zu hören, worin übrigens keine
+auszeichnung für mich lag, weil du's mit allen andern ebenso machtest.
+ich war luft für dich, und du warst, mit deinem blonden haarschopf, an
+dem ich dich früher oft gezaust, so langweilig, vertrocknet und mundfaul
+wie ein ausgestopfter kakadu und dabei so großartig wie ein --
+_archäopteryx_ heißt das ausgegrabene vorsintflutliche vogelungetüm ja
+wohl. nur daß dein kopf eine ebenfalls so großartige phantasie
+beherbergte, hier in pompeji mich auch für etwas ausgegrabenes und
+wieder lebendig gewordenes anzusehen, -- das hatte ich nicht bei dir
+vermutet, und als du auf einmal ganz unerwartet vor mir standest,
+kostete es mich zuerst ziemliche mühe, dahinter zu kommen, was für ein
+unglaubliches hirngespinst deine einbildung sich zurechtgearbeitet
+hatte. dann machte mir's spaß und gefiel mir auch trotz seiner
+tollhäusigkeit nicht so übel. denn, wie gesagt, das hatte ich bei dir
+nicht vermutet.«
+
+so sagt sie uns also deutlich genug, was aus der kinderfreundschaft mit
+den jahren bei ihnen beiden geworden war. bei ihr steigerte sich
+dieselbe zu einer herzlichen verliebtheit, denn etwas muß man ja haben,
+woran man als mädchen sein herz hängt. fräulein zoë, die verkörperung
+der klugheit und klarheit, macht uns auch ihr seelenleben ganz
+durchsichtig. wenn es schon allgemeine regel für das normal geartete
+mädchen ist, daß sie ihre neigung zunächst dem vater zuwende, so war sie
+ganz besonders dazu bereit, die keine andere person als den vater in
+ihrer familie fand. dieser vater aber hatte für sie nichts übrig, die
+objekte seiner wissenschaft hatten all sein interesse mit beschlag
+belegt. so mußte sie nach einer anderen person umschau halten und hing
+sich mit besonderer innigkeit an ihren jugendgespielen. als auch dieser
+keine augen mehr für sie hatte, störte es ihre liebe nicht, steigerte
+sie vielmehr, denn er war ihrem vater gleich geworden, wie dieser von
+der wissenschaft absorbiert und durch sie vom leben und von zoë
+ferngehalten. so war es ihr gestattet, in der untreue noch treu zu sein,
+im geliebten den vater wiederzufinden, mit dem gleichen gefühl die
+beiden zu umfassen oder, wie wir sagen können, die beiden in ihrem
+fühlen zu identifizieren. woher nehmen wir die berechtigung zu dieser
+kleinen psychologischen analyse, die leicht als selbstherrlich
+erscheinen könnte? in einem einzigen, aber höchst charakteristischen
+detail hat sie der dichter uns gegeben. wenn zoë die für sie so
+betrübende verwandlung ihres jugendgespielen schildert, so beschimpft
+sie ihn durch einen vergleich mit dem archäopteryx, jenem vogelungetüm,
+das der archäologie der zoologie angehört. so hat sie für die
+identifizierung der beiden personen einen einzigen konkreten ausdruck
+gefunden; ihr groll trifft den geliebten wie den vater mit demselben
+worte. der archäopteryx ist sozusagen die kompromiß- oder
+mittelvorstellung, in welcher der gedanke an die torheit ihres geliebten
+mit dem an die analoge ihres vaters zusammenkommt.
+
+anders hatte es sich bei dem jungen manne gewendet. die
+altertumswissenschaft kam über ihn und ließ ihm nur interesse für weiber
+aus stein und bronze übrig. die kinderfreundschaft ging unter, anstatt
+sich zu einer leidenschaft zu verstärken, und die erinnerungen an sie
+gerieten in so tiefe vergessenheit, daß er seine jugendgenossin nicht
+erkannte und nicht beachtete, wenn er sie in der gesellschaft traf.
+zwar, wenn wir das weitere überblicken, dürfen wir in zweifel ziehen, ob
+»vergessenheit« die richtige psychologische bezeichnung für das
+schicksal dieser erinnerungen bei unserem archäologen ist. es gibt eine
+art von vergessen, welche sich durch die schwierigkeit auszeichnet, mit
+welcher die erinnerung auch durch starke äußere anrufungen erweckt wird,
+als ob ein innerer widerstand sich gegen deren wiederbelebung sträubte.
+solches vergessen hat den namen »verdrängung« in der psychopathologie
+erhalten; der fall, den unser dichter uns vorgeführt, scheint ein
+solches beispiel von verdrängung zu sein. nun wissen wir ganz allgemein
+nicht, ob das vergessen eines eindruckes mit dem untergang von dessen
+erinnerungsspur im seelenleben verbunden ist; von der »verdrängung«
+können wir aber mit bestimmtheit behaupten, daß sie nicht mit dem
+untergang, dem auslöschen der erinnerung zusammenfällt. das verdrängte
+kann zwar in der regel sich nicht ohne weiteres als erinnerung
+durchsetzen, aber es bleibt leistungs- und wirkungsfähig, es läßt eines
+tages unter dem einfluß einer äußeren einwirkung psychische abfolgen
+entstehen, die man als verwandlungsprodukte und abkömmlinge der
+vergessenen erinnerung auffassen kann, und die unverständlich bleiben,
+wenn man sie nicht so auffaßt. in den phantasien norbert hanolds über
+die gradiva glaubten wir bereits die abkömmlinge seiner verdrängten
+erinnerungen an seine kinderfreundschaft mit der zoë bertgang zu
+erkennen. mit besonderer gesetzmäßigkeit darf man eine derartige
+wiederkehr des verdrängten erwarten, wenn an den verdrängten eindrücken
+das erotische fühlen eines menschen haftet, wenn sein liebesleben von
+der verdrängung betroffen worden ist. dann behält der alte lateinische
+spruch recht, der vielleicht ursprünglich auf austreibung durch äußere
+einflüsse, nicht auf innere konflikte gemünzt ist: naturam furca
+expellas, semper redibit. aber er sagt nicht alles, kündigt nur die
+tatsache der wiederkehr des stückes verdrängter natur an, und beschreibt
+nicht die höchst merkwürdige art dieser wiederkehr, die sich wie durch
+einen tückischen verrat vollzieht. gerade dasjenige, was zum mittel der
+verdrängung gewählt worden ist -- wie die »furca« des spruches --, wird
+der träger des wiederkehrenden; in und hinter dem verdrängenden macht
+sich endlich siegreich das verdrängte geltend. eine bekannte radierung
+von _félicien rops_ illustriert diese wenig beachtete und der würdigung
+so sehr bedürftige tatsache eindrucksvoller, als viele erläuterungen es
+vermöchten, und zwar an dem vorbildlichen falle der verdrängung im leben
+der heiligen und büßer. ein asketischer mönch hat sich -- gewiß vor den
+versuchungen der welt -- zum bild des gekreuzigten erlösers geflüchtet.
+da sinkt dieses kreuz schattenhaft nieder und strahlend erhebt sich an
+seiner stelle, zu seinem ersatze, das bild eines üppigen nackten weibes
+in der gleichen situation der kreuzigung. andere maler von geringerem
+psychologischen scharfblick haben in solchen darstellungen der
+versuchung die sünde frech und triumphierend an irgend eine stelle neben
+dem erlöser am kreuze gewiesen. _rops_ allein hat sie den platz des
+erlösers selbst am kreuze einnehmen lassen; er scheint gewußt zu haben,
+daß das verdrängte bei seiner wiederkehr aus dem verdrängenden selbst
+hervortritt.
+
+es ist des verweilens wert, sich in krankheitsfällen zu überzeugen, wie
+feinfühlig im zustande der verdrängung das seelenleben eines menschen
+für die annäherung des verdrängten wird, und wie leise und geringfügige
+ähnlichkeiten genügen, damit dasselbe hinter dem verdrängenden und durch
+dieses zur wirkung gelange. ich hatte einmal anlaß, mich ärztlich um
+einen jungen mann, fast noch knaben, zu kümmern, der nach der ersten
+unerwünschten kenntnisnahme von den sexuellen vorgängen die flucht vor
+allen in ihm aufsteigenden gelüsten ergriffen hatte und sich
+verschiedener mittel der verdrängung dazu bediente, seinen lerneifer
+steigerte, die kindliche anhänglichkeit an die mutter übertrieb und im
+ganzen ein kindisches wesen annahm. ich will hier nicht ausführen, wie
+gerade im verhältnis zur mutter die verdrängte sexualität wieder
+durchdrang, sondern den selteneren und fremdartigeren fall beschreiben,
+wie ein anderes seiner bollwerke bei einem kaum als zureichend zu
+erkennenden anlasse zusammenbrach. als ablenkung vom sexuellen genießt
+die mathematik den größten ruf; schon _j. j. rousseau_ hatte sich von
+einer dame, die mit ihm unzufrieden war, raten lassen müssen: lascia le
+donne e studia la matematica. so warf sich auch unser flüchtling mit
+besonderem eifer auf die in der schule gelehrte mathematik und
+geometrie, bis seine fassungskraft eines tages plötzlich vor einigen
+scheinbar harmlosen aufgaben erlahmte. von zweien dieser aufgaben ließ
+sich noch der wortlaut feststellen: zwei körper stoßen aufeinander, der
+eine mit der geschwindigkeit ... u. s. w. -- und: einem zylinder vom
+durchmesser der grundfläche m ist ein kegel einzuschreiben u. s. w. bei
+diesen für einen anderen gewiß nicht auffälligen anspielungen an das
+sexuelle geschehen fand er sich auch von der mathematik verraten und
+ergriff auch vor ihr die flucht.
+
+wenn norbert hanold eine aus dem leben geholte persönlichkeit wäre, die
+so die liebe und die erinnerung an seine kinderfreundschaft durch die
+archäologie vertrieben hätte, so wäre es nur gesetzmäßig und korrekt,
+daß gerade ein antikes relief die vergessene erinnerung an die mit
+kindlichen gefühlen geliebte in ihm erweckt; es wäre sein wohlverdientes
+schicksal, daß er sich in das steinbild der gradiva verliebt, hinter
+welchem vermöge einer nicht aufgeklärten ähnlichkeit die lebende und von
+ihm vernachlässigte zoë zur wirkung kommt.
+
+fräulein zoë scheint selbst unsere auffassung von dem wahn des jungen
+archäologen zu teilen, denn das wohlgefallen, dem sie am ende ihrer
+»rückhaltlosen, ausführlichen und lehrreichen strafrede« ausdruck
+gegeben, läßt sich kaum anders als durch die bereitwilligkeit begründen,
+sein interesse für die gradiva von allem anfang an auf ihre person zu
+beziehen. dieses war es eben, was sie ihm nicht zugetraut hatte, und was
+sie trotz aller wahnverkleidung doch als solches erkannte. an ihm aber
+hatte nun die psychische behandlung von ihrer seite ihre wohltätige
+wirkung vollbracht; er fühlte sich frei, da nun der wahn durch dasjenige
+ersetzt war, wovon er doch nur eine entstellte und ungenügende abbildung
+sein konnte. er zögerte jetzt auch nicht, sich zu erinnern und sie als
+seine gute, fröhliche, klugsinnige kameradin zu erkennen, die sich im
+grunde gar nicht verändert habe. aber etwas anderes fand er höchst
+sonderbar --
+
+»daß jemand erst sterben muß, um lebendig zu werden«, meinte das
+mädchen. »aber für die archäologen ist das wohl notwendig.« (g. p. 141.)
+sie hatte ihm offenbar den umweg noch nicht verziehen, den er von der
+kinderfreundschaft bis zu dem neu sich knüpfenden verhältnis über die
+altertumswissenschaft eingeschlagen hatte.
+
+»nein, ich meine dein name ... weil _bertgang_ mit _gradiva_
+gleichbedeutend ist und ›die im schreiten glänzende‹ bezeichnet.« (g.
+p. 142.)
+
+darauf waren nun auch wir nicht vorbereitet. unser held beginnt sich aus
+seiner demütigung zu erheben und eine aktive rolle zu spielen. er ist
+offenbar von seinem wahn völlig geheilt, über ihn erhoben, und beweist
+dies, indem er die letzten fäden des wahngespinstes selbständig
+zerreißt. genau so benehmen sich auch die kranken, denen man den zwang
+ihrer wahnhaften gedanken durch aufdeckung des dahintersteckenden
+verdrängten gelockert hat. haben sie begriffen, so bringen sie für die
+letzten und bedeutsamsten rätsel ihres sonderbaren zustandes selbst die
+lösungen in plötzlich auftauchenden einfällen. wir hatten ja bereits
+vermutet, daß die griechische abkunft der fabelhaften gradiva eine
+dunkle nachwirkung des griechischen namens zoë sei, aber an den namen
+»gradiva« selbst hatten wir uns nicht herangewagt, ihn hatten wir als
+freie schöpfung der phantasie norbert hanolds gelten lassen. und siehe
+da, gerade dieser name erweist sich nun als abkomme, ja eigentlich als
+übersetzung des verdrängten familiennamens der angeblich vergessenen
+kindergeliebten!
+
+die herleitung und die auflösung des wahnes sind nun vollendet. was noch
+beim dichter folgt, darf wohl dem harmonischen abschluß der erzählung
+dienen. es kann uns im hinblick auf zukünftiges nur wohltuend berühren,
+wenn die rehabilitierung des mannes, der früher eine so klägliche rolle
+als heilungsbedürftiger spielen mußte, weiterschreitet und es ihm nun
+gelingt, etwas von den affekten, die er bisher erduldet, bei ihr zu
+erwecken. so trifft es sich, daß er sie eifersüchtig macht durch die
+erwähnung der sympathischen jungen dame, die vorhin ihr beisammensein im
+hause des meleager gestört, und durch das geständnis, daß diese die
+erste gewesen, die ihm vortrefflich gefallen hat. wenn zoë dann einen
+kühlen abschied mit der bemerkung nehmen will: jetzt sei ja alles wieder
+zur vernunft gekommen, sie selbst nicht am wenigsten; er könne _gisa
+hartleben_, oder wie sie jetzt heiße, wieder aufsuchen, um ihr bei dem
+zweck ihres aufenthaltes in pompeji wissenschaftlich behilflich zu sein;
+sie aber müsse jetzt in den albergo del sole, wo der vater mit dem
+mittagessen auf sie wartet; vielleicht sähen sie sich beide noch einmal
+in einer gesellschaft in deutschland oder auf dem monde: so mag er
+wieder die lästige fliege zum vorwand nehmen, um sich zuerst ihrer wange
+und dann ihrer lippen zu bemächtigen und die aggression, die nun einmal
+pflicht des mannes im liebesspiel ist, ins werk zu setzen. ein einziges
+mal noch scheint ein schatten auf ihr glück zu fallen, als zoë mahnt,
+jetzt müsse sie aber wirklich zu ihrem vater, der sonst im sole
+verhungert. »dein vater -- was wird der --?« (g. p. 147.) aber das kluge
+mädchen weiß die sorge rasch zu beschwichtigen: »wahrscheinlich wird er
+nichts, ich bin kein unentbehrliches stück in seiner zoologischen
+sammlung; wär' ich das, hätte sich mein herz vielleicht nicht so unklug
+an dich gehängt.« sollte der vater aber ausnahmsweise anderer meinung
+sein wollen als sie, so gäbe es ein sicheres mittel. hanold brauchte nur
+nach capri hinüberzufahren, dort eine lacerta faraglionensis zu fangen,
+wofür er die technik an ihrem kleinen finger einüben könne, das tier
+dann hier freizulassen, vor den augen des zoologen wieder einzufangen
+und ihm die wahl zu lassen zwischen der faraglionensis auf dem festlande
+und der tochter. ein vorschlag, in dem der spott, wie man leicht merkt,
+mit bitterkeit vermengt ist, eine mahnung gleichsam an den bräutigam,
+sich nicht allzu getreu an das vorbild zu halten, nach dem ihn die
+geliebte ausgewählt hat. norbert hanold beruhigt uns auch hierüber,
+indem er die große umwandlung, die mit ihm vorgefallen ist, in allerlei
+scheinbar kleinen anzeichen zum ausdruck bringt. er spricht den vorsatz
+aus, die hochzeitsreise mit seiner zoë nach italien und nach pompeji zu
+machen, als hätte er sich niemals über die hochzeitsreisenden  und
+grete entrüstet. es ist ihm ganz aus dem gedächtnis geschwunden, was er
+gegen diese glücklichen paare gefühlt, die sich so überflüssigerweise
+mehr als hundert meilen von ihrer deutschen heimat entfernt haben. gewiß
+hat der dichter recht, wenn er solche gedächtnisschwächung als das
+wertvollste zeichen einer sinnesänderung aufführt. zoë erwidert auf den
+kundgegebenen reisezielwunsch ihres »_gewissermaßen gleichfalls aus der
+verschüttung wieder ausgegrabenen kindheitsfreundes_« (g. p. 150), sie
+fühle sich zu solcher geographischen entscheidung doch noch nicht völlig
+lebendig genug.
+
+die schöne wirklichkeit hat nun den wahn besiegt, doch harrt des
+letzteren, ehe die beiden pompeji verlassen, noch eine ehrung. an dem
+herkulestor angekommen, wo am anfang der strada consolare alte
+trittsteine die straße überkreuzen, hält norbert hanold an und bittet
+das mädchen voranzugehen. sie versteht ihn, »und mit der linken das
+kleid ein wenig raffend, schreitet die gradiva rediviva zoë bertgang von
+ihm mit traumhaft dreinblickenden augen umfaßt, in ihrer ruhig-behenden
+gangart durch den sonnenglanz über die trittsteine zur anderen
+straßenseite hinüber«. mit dem triumph der erotik kommt jetzt zur
+anerkennung, was auch am wahne schön und wertvoll war.
+
+mit dem letzten gleichnis von dem »aus der verschüttung ausgegrabenen
+kindheitsfreunde« hat uns aber der dichter den schlüssel zur symbolik in
+die hand gegeben, dessen sich der wahn des helden bei der verkleidung
+der verdrängten erinnerung bediente. es gibt wirklich keine bessere
+analogie für die verdrängung, die etwas seelisches zugleich unzugänglich
+macht und konserviert, als die verschüttung, wie sie pompeji zum
+schicksal geworden ist, und aus der die stadt durch die arbeit des
+spatens wieder erstehen konnte. darum mußte der junge archäologe das
+urbild des reliefs, welches ihn an seine vergessene jugendgeliebte
+mahnte, in der phantasie nach pompeji versetzen. der dichter aber hatte
+ein gutes recht, bei der wertvollen ähnlichkeit zu verweilen, die sein
+feiner sinn zwischen einem stück des seelischen geschehens beim
+einzelnen und einem vereinzelten historischen vorgang in der geschichte
+der menschheit aufgespürt.
+
+
+
+
+ii.
+
+
+es war doch eigentlich nur unsere absicht, die zwei oder drei träume,
+die sich in der erzählung »gradiva« eingestreut finden, mit hilfe
+gewisser analytischer methoden zu untersuchen; wie kam es denn, daß wir
+uns zur zergliederung der ganzen geschichte und zur prüfung der
+seelischen vorgänge bei den beiden hauptpersonen fortreißen ließen? nun,
+das war kein überflüssiges stück arbeit, sondern eine notwendige
+vorarbeit. auch wenn wir die wirklichen träume einer realen person
+verstehen wollen, müssen wir uns intensiv um den charakter und die
+schicksale dieser person kümmern, nicht nur ihre erlebnisse kurz vor dem
+traume, sondern auch solche in entlegener vergangenheit in erfahrung
+bringen. ich meine sogar, wir sind noch immer nicht frei, uns unserer
+eigentlichen aufgabe zuzuwenden, müssen noch bei der dichtung selbst
+verweilen und weitere vorarbeiten erledigen.
+
+unsere leser werden gewiß mit befremden bemerkt haben, daß wir _norbert
+hanold_ und _zoë bertgang_ in allen ihren seelischen äußerungen und
+tätigkeiten bisher behandelt haben, als wären sie wirkliche individuen
+und nicht geschöpfe eines dichters, als wäre der sinn des dichters ein
+absolut durchlässiges, nicht ein brechendes oder trübendes medium. und
+um so befremdender muß unser vorgehen erscheinen, als der dichter auf
+die wirklichkeitsschilderung ausdrücklich verzichtet, indem er seine
+erzählung ein »phantasiestück« benennt. wir finden aber alle seine
+schilderungen der wirklichkeit so getreulich nachgebildet, daß wir
+keinen widerspruch äußern würden, wenn die »gradiva« nicht ein
+phantasiestück, sondern eine psychiatrische studie hieße. nur in zwei
+punkten hat sich der dichter der ihm zustehenden freiheit bedient, um
+voraussetzungen zu schaffen, die nicht im boden der realen
+gesetzmäßigkeit zu wurzeln scheinen. das erstemal, indem er den jungen
+archäologen ein unzweifelhaft antikes reliefbildnis finden läßt, welches
+nicht nur in der besonderheit der fußstellung beim schreiten, sondern in
+allen details der gesichtsbildung und körperhaltung eine so viel später
+lebende person nachahmt, so daß er die leibliche erscheinung dieser
+person für das lebend gewordene steinbild halten kann. das zweitemal,
+indem er ihn die lebende gerade in pompeji treffen läßt, wohin nur seine
+phantasie die verstorbene versetzte, während er sich eben durch die
+reise nach pompeji von der lebenden, die er auf der straße seines
+wohnortes bemerkt hatte, entfernte. allein diese zweite verfügung des
+dichters ist keine gewaltsame abweichung von der lebensmöglichkeit; sie
+nimmt eben nur den zufall zur hilfe, der unbestritten bei so vielen
+menschlichen schicksalen mitspielt, und verleiht ihm überdies einen
+guten sinn, da dieser zufall das verhängnis widerspiegelt, welches
+bestimmt hat, daß man gerade durch das mittel der flucht sich dem
+ausliefert, vor dem man flieht. phantastischer und völlig der willkür
+des dichters entsprungen erscheint die erste voraussetzung, welche alle
+weiteren begebenheiten trägt, die so weitgehende ähnlichkeit des
+steinbildes mit dem lebenden mädchen, wo die nüchternheit die
+übereinstimmung auf den einen zug der fußhaltung beim schreiten
+einschränken möchte. man wäre versucht, hier zur anknüpfung an die
+realität die eigene phantasie spielen zu lassen. der name _bertgang_
+könnte darauf deuten, daß sich die frauen dieser familie schon in alten
+zeiten durch solche eigentümlichkeit des schönen ganges ausgezeichnet
+haben, und durch geschlechtsabfolge hingen die germanischen _bertgang_
+mit jenen römern zusammen, von deren stamm eine frau den antiken
+künstler veranlaßt hatte, die eigentümlichkeit ihres ganges im steinbild
+festzuhalten. da aber die einzelnen variationen der menschlichen
+gestaltung nicht unabhängig von einander sind, und tatsächlich auch in
+unserer mitte immer wieder die antiken typen auftauchen, die wir in den
+sammlungen antreffen, so wäre es nicht ganz unmöglich, daß eine moderne
+_bertgang_ die gestalt ihrer antiken ahnfrau auch in allen anderen zügen
+ihrer körperlichen bildung wiederholte. klüger als solche spekulation
+dürfte wohl sein, sich bei dem dichter selbst nach den quellen zu
+erkundigen, aus denen ihm dieses stück seiner schöpfung erflossen ist;
+es ergäbe sich uns dann eine gute aussicht, wiederum ein stück
+vermeintlicher willkür in gesetzmäßigkeit aufzulösen. da uns aber der
+zugang zu den quellen im seelenleben des dichters nicht frei steht, so
+lassen wir ihm das recht ungeschmälert, eine durchaus lebenswahre
+entwicklung auf eine unwahrscheinliche voraussetzung aufzubauen, ein
+recht, das z. b. auch _shakespeare_ im »king lear« in anspruch genommen
+hat.
+
+sonst aber, das wollen wir wiederholen, hat uns der dichter eine völlig
+korrekte psychiatrische studie geliefert, an welcher wir unser
+verständnis des seelenlebens messen dürfen, eine kranken- und
+heilungsgeschichte, wie zur einschärfung gewisser fundamentaler lehren
+der ärztlichen seelenkunde bestimmt. sonderbar genug, daß der dichter
+dies getan haben sollte! wie nun, wenn er auf befragen diese absicht
+ganz und gar in abrede stellte? es ist so leicht anzugleichen und
+unterzulegen; sind es nicht vielmehr wir, die in die schöne poetische
+erzählung einen sinn hineingeheimnissen, der dem dichter sehr ferne
+liegt? möglich; wir wollen später noch darauf zurückkommen. vorläufig
+aber haben wir versucht, uns vor solch tendenziöser ausdeutung selbst zu
+bewahren, indem wir die erzählung fast durchwegs aus den eigenen worten
+des dichter wiedergaben, text wie kommentar von ihm selbst besorgen
+ließen. wer unsere reproduktion mit dem wortlaut der »gradiva«
+vergleichen will, wird uns dies zugestehen müssen.
+
+vielleicht erweisen wir unserem dichter auch einen schlechten dienst im
+urteil der allermeisten, wenn wir sein werk für eine psychiatrische
+studie erklären. der dichter soll der berührung mit der psychiatrie aus
+dem wege gehen, hören wir sagen, und die schilderung krankhafter
+seelenzustände den ärzten überlassen. in wahrheit hat kein richtiger
+dichter je dieses gebot geachtet. die schilderung des menschlichen
+seelenlebens ist ja seine eigentlichste domäne; er war jederzeit der
+vorläufer der wissenschaft und so auch der wissenschaftlichen
+psychologie. die grenze aber zwischen den normal und krankhaft benannten
+seelenzuständen ist zum teil eine konventionelle, zum anderen eine so
+fließende, daß wahrscheinlich jeder von uns sie im laufe eines tages
+mehrmals überschreitet. anderseits täte die psychiatrie unrecht, wenn
+sie sich dauernd auf das studium jener schweren und düsteren
+erkrankungen einschränken wollte, die durch grobe beschädigungen des
+feinen seelenapparats entstehen. die leiseren und ausgleichsfähigen
+abweichungen vom gesunden, die wir heute nicht weiter als bis zu
+störungen im psychischen kräftespiel zurückverfolgen können, fallen
+nicht weniger unter ihr interesse; ja erst mittels dieser kann sie die
+gesundheit wie die erscheinungen der schweren krankheit verstehen. so
+kann der dichter dem psychiater, der psychiater dem dichter nicht
+ausweichen, und die poetische behandlung eines psychiatrischen themas
+darf ohne einbuße an schönheit korrekt ausfallen.
+
+korrekt ist nun wirklich diese dichterische darstellung einer
+krankheits- und behandlungsgeschichte, die wir nach abschluß der
+erzählung und sättigung der eigenen spannung besser übersehen können und
+nun mit den technischen ausdrücken unserer wissenschaft reproduzieren
+wollen, wobei uns die nötigung zur wiederholung von bereits gesagtem
+nicht stören soll.
+
+der zustand norbert hanolds wird vom dichter oft genug ein »wahn«
+genannt, und auch wir haben keinen grund, diese bezeichnung zu
+verwerfen. zwei hauptcharaktere können wir vom »wahn« angeben, durch
+welche er zwar nicht erschöpfend beschrieben, aber doch von anderen
+störungen kenntlich gesondert ist. er gehört erstens zu jener gruppe von
+krankheitszuständen, denen eine unmittelbare einwirkung aufs körperliche
+nicht zukommt, sondern die sich nur durch seelische anzeichen
+ausdrücken, und er ist zweitens durch die tatsache gekennzeichnet, daß
+bei ihm »phantasien« zur oberherrschaft gelangt sind, d. h. glauben
+gefunden und einfluß auf das handeln genommen haben. erinnern wir uns
+der reise nach pompeji, um in der asche nach den besonders gestalteten
+fußabdrücken der gradiva zu suchen, so haben wir in ihr ein prächtiges
+beispiel einer handlung unter der herrschaft des wahnes. der psychiater
+würde den wahn norbert hanolds vielleicht der großen gruppe paranoia
+zurechnen und etwa als eine »fetischistische erotomanie« bezeichnen,
+weil ihm die verliebtheit in das steinbild das auffälligste wäre, und
+weil seiner alles vergröbernden auffassung das interesse des jungen
+archäologen für die füße und fußstellungen weiblicher personen als
+»fetischismus« verdächtig erscheinen muß. indes haben alle solche
+benennungen und einteilungen der verschiedenen arten von wahn nach ihrem
+inhalt etwas mißliches und unfruchtbares an sich.(2)
+
+  (2) der fall n. h. müßte in wirklichkeit als hysterischer, nicht als
+  paranoischer wahn bezeichnet werden. die kennzeichen der paranoia
+  werden hier vermißt.
+
+der gestrenge psychiater würde ferner unseren helden als person, die
+fähig ist, auf grund so sonderbarer vorliebe einen wahn zu entwickeln,
+sofort zum dégénéré stempeln und nach der heredität forschen, die ihn
+unerbittlich in solches schicksal getrieben hat. hierin folgt ihm aber
+der dichter nicht; mit gutem grunde. er will uns ja den helden näher
+bringen, uns die »einfühlung« erleichtern; mit der diagnose »dégénéré«,
+mag sie nun wissenschaftlich zu rechtfertigen sein oder nicht, ist uns
+der junge archäologe sofort ferne gerückt; denn wir leser sind ja die
+normalmenschen und das maß der menschheit. auch die hereditären und
+konstitutionellen vorbedingungen des zustandes kümmern den dichter
+wenig; dafür vertieft er sich in die persönliche seelische verfassung,
+die einem solchen wahn den ursprung geben kann.
+
+norbert hanold verhält sich in einem wichtigen punkte ganz anders als
+ein gewöhnliches menschenkind. er hat kein interesse für das lebende
+weib; die wissenschaft, der er dient, hat ihm dieses interesse genommen
+und es auf die weiber von stein oder bronze verschoben. man halte dies
+nicht für eine gleichgültige eigentümlichkeit; sie ist vielmehr die
+grundvoraussetzung der erzählten begebenheit, denn eines tages ereignet
+es sich, daß ein einzelnes solches steinbild alles interesse für sich
+beansprucht, das sonst nur dem lebenden weib gebührt, und damit ist der
+wahn gegeben. vor unseren augen entrollt sich dann, wie dieser wahn
+durch eine glückliche fügung geheilt, das interesse vom stein wieder auf
+eine lebende zurückgeschoben wird. durch welche einwirkungen unser held
+in den zustand der abwendung vom weibe geraten ist, läßt uns der dichter
+nicht verfolgen; er gibt uns nur an, solches verhalten sei nicht durch
+seine anlage erklärt, die vielmehr ein stück phantastisches -- wir
+dürfen ergänzen: erotisches -- bedürfnis mit einschließt. auch ersehen
+wir von später her, daß er in seiner kindheit nicht von anderen kindern
+abwich; er hielt damals eine kinderfreundschaft mit einem kleinen
+mädchen, war unzertrennlich von ihr, teilte mit ihr seine kleinen
+mahlzeiten, puffte sie auch und ließ sich von ihr zausen. in solcher
+anhänglichkeit, solcher vereinigung von zärtlichkeit und aggression
+äußert sich die unfertige erotik des kinderlebens, die ihre wirkungen
+erst nachträglich, aber dann unwiderstehlich äußert, und die während der
+kinderzeit selbst nur der arzt und der dichter als erotik zu erkennen
+pflegen. unser dichter gibt uns deutlich zu verstehen, daß auch er es
+nicht anders meint, denn er läßt bei seinem helden bei geeignetem anlaß
+plötzlich ein lebhaftes interesse für gang und fußhaltung der frauen
+erwachen, das ihn bei der wissenschaft wie bei den frauen seines
+wohnortes in den verruf eines fußfetischisten bringen muß, das sich uns
+aber notwendig aus der erinnerung an diese kindergespielin ableitet.
+dieses mädchen zeigte gewiß schon als kind die eigenheit des schönen
+ganges mit fast senkrecht aufgestellter fußspitze beim schreiten, und
+durch die darstellung eben dieses ganges gewinnt später ein antikes
+steinrelief für norbert hanold jene große bedeutung. fügen wir übrigens
+gleich hinzu, daß der dichter sich bei der ableitung der merkwürdigen
+erscheinung des fetischismus sich in voller übereinstimmung mit der
+wissenschaft befindet. seit _a. binet_ versuchen wir wirklich, den
+fetischismus auf erotische kindheitseindrücke zurückzuführen.
+
+der zustand der dauernden abwendung vom weibe ergibt die persönliche
+eignung, wie wir zu sagen pflegen: die disposition für die bildung eines
+wahnes. die entwicklung der seelenstörung setzt mit dem momente ein, da
+ein zufälliger eindruck die vergessenen und wenigstens spurweise
+erotisch betonten kindererlebnisse aufweckt. aufweckt ist aber gewiß
+nicht die richtige bezeichnung, wenn wir, was weiter erfolgt, in
+betracht ziehen. wir müssen die korrekte darstellung des dichters in
+kunstgerechter psychologischer ausdrucksweise wiedergeben. norbert
+hanold erinnert sich nicht beim anblick des reliefs, daß er solche
+fußstellung schon bei seiner jugendfreundin gesehen hat; er erinnert
+sich überhaupt nicht, und doch rührt alle wirkung des reliefs von
+solcher anknüpfung an den eindruck in der kindheit her. der
+kindheitseindruck wird also rege, wird aktiv gemacht, so daß er
+wirkungen zu äußern beginnt, er kommt aber nicht zum bewußtsein, er
+bleibt »_unbewußt_«, wie wir mit einem in der psychopathologie
+unvermeidlich gewordenen terminus heute zu sagen pflegen. dieses
+unbewußte möchten wir allen streitigkeiten der philosophen und
+naturphilosophen, die oft nur etymologische bedeutung haben, entzogen
+sehen. für psychische vorgänge, die sich aktiv benehmen und dabei doch
+nicht zum bewußtsein der betreffenden person gelangen, haben wir
+vorläufig keinen besseren namen, und nichts anderes meinen wir mit
+unserem »unbewußtsein«. wenn manche denker uns die existenz eines
+solchen unbewußten als widersinnig bestreiten wollen, so glauben wir,
+sie hätten sich niemals mit den entsprechenden seelischen phänomenen
+beschäftigt, stünden im banne der regelmäßigen erfahrung, daß alles
+seelische, was aktiv und intensiv wird, damit gleichzeitig auch bewußt
+wird, und hätten eben noch zu lernen, was unser dichter sehr wohl weiß,
+daß es allerdings seelische vorgänge gibt, die, trotzdem sie intensiv
+sind und energische wirkungen äußern, dennoch dem bewußtsein ferne
+bleiben.
+
+wir haben vorhin einmal ausgesprochen, die erinnerungen an den
+kinderverkehr mit zoë befinden sich bei norbert hanold im zustande der
+»verdrängung«; nun haben wir sie »unbewußte« erinnerungen geheißen. da
+müssen wir wohl dem verhältnis der beiden kunstworte, die ja im sinne
+zusammenzufallen scheinen, einige aufmerksamkeit zuwenden. es ist nicht
+schwer, darüber aufklärung zu geben. »unbewußt« ist der weitere begriff,
+»verdrängt« der engere. alles was verdrängt ist, ist unbewußt; aber
+nicht von allem unbewußten können wir behaupten, daß es verdrängt sei.
+hätte hanold beim anblick des reliefs sich der gangart seiner zoë
+erinnert, so wäre eine früher unbewußte erinnerung bei ihm gleichzeitig
+aktiv und bewußt geworden und hätte so gezeigt, daß sie früher nicht
+verdrängt war. »unbewußt« ist ein rein deskriptiver, in mancher hinsicht
+unbestimmter, ein sozusagen statischer terminus, »verdrängt« ist ein
+dynamischer ausdruck, der auf das seelische kräftespiel rücksicht nimmt
+und besagt, es sei ein bestreben vorhanden, alle psychischen wirkungen,
+darunter auch die des bewußtwerdens, zu äußern, aber auch eine
+gegenkraft, ein widerstand, der einen teil dieser psychischen wirkungen,
+darunter wieder das bewußtwerden, zu verhindern vermöge. kennzeichen des
+verdrängten bleibt eben, daß es sich trotz seiner intensität nicht zum
+bewußtsein zu bringen vermag. in dem falle hanolds handelt es sich also
+von dem auftauchen des reliefs an um ein verdrängtes unbewußtes, kurzweg
+um ein verdrängtes.
+
+verdrängt sind bei norbert hanold die erinnerungen an seinen
+kinderverkehr mit dem schön schreitenden mädchen, aber dies ist noch
+nicht die richtige betrachtung der psychologischen sachlage. wir bleiben
+an der oberfläche, so lange wir nur von erinnerungen und vorstellungen
+handeln. das einzig wertbare im seelenleben sind vielmehr die gefühle;
+alle seelenkräfte sind nur durch ihre eignung, gefühle zu erwecken,
+bedeutsam. vorstellungen werden nur verdrängt, weil sie an
+gefühlsentbindungen geknüpft sind, die nicht zu stande kommen sollen; es
+wäre richtiger zu sagen, die verdrängung betreffe die gefühle, nur sind
+uns diese nicht anders als in ihrer bindung an vorstellungen faßbar.
+verdrängt sind bei norbert hanold also die erotischen gefühle, und da
+seine erotik kein anderes objekt kennt oder gekannt hat, als in seiner
+kindheit die zoë bertgang, so sind die erinnerungen an diese vergessen.
+das antike reliefbild weckt die schlummernde erotik in ihm auf und macht
+die kindheitserinnerungen aktiv. wegen eines in ihm bestehenden
+widerstandes gegen die erotik können diese erinnerungen nur als
+unbewußte wirksam werden. was sich nun weiter in ihm abspielt, ist ein
+kampf zwischen der macht der erotik und den sie verdrängenden kräften;
+was sich von diesem kampf äußert, ist ein wahn.
+
+unser dichter hat zu motivieren unterlassen, woher die verdrängung des
+liebeslebens bei seinem helden rührt; die beschäftigung mit der
+wissenschaft ist ja nur das mittel, dessen sich die verdrängung bedient;
+der arzt müßte hier tiefer gründen, vielleicht ohne in seinem falle auf
+den grund zu geraten. wohl aber hat der dichter, wie wir mit bewunderung
+hervorgehoben haben, uns darzustellen nicht versäumt, wie die erweckung
+der verdrängten erotik gerade aus dem kreise der zur verdrängung
+dienenden mittel erfolgt. es ist mit recht eine antike, das steinbild
+eines weibes, durch welches unser archäologe aus seiner abwendung von
+der liebe gerissen und gemahnt wird, dem leben die schuld abzutragen,
+mit der wir von unserer geburt an belastet sind.
+
+die ersten äußerungen des nun in hanold durch das reliefbild angeregten
+prozesses sind phantasien, welche mit der so dargestellten person
+spielen. als etwas »_heutiges_« im besten sinne erscheint ihm das
+modell, als hätte der künstler die auf der straße schreitende »nach dem
+_leben_« festgehalten. den namen »_gradiva_« verleiht er dem antiken
+mädchen, den er nach dem beiwort des zum kampfe ausschreitenden
+kriegsgottes, des mars gradivus, gebildet; mit immer mehr bestimmungen
+stattet er ihre persönlichkeit aus. sie mag die tochter eines
+angesehenen mannes sein, vielleicht eines _patriziers_, der mit dem
+_tempeldienst_ einer gottheit in verbindung stand, _griechische_
+herkunft glaubt er ihren zügen abzusehen, und endlich drängt es ihn, sie
+ferne vom getriebe einer großstadt in das stillere _pompeji_ zu
+versetzen, wo er sie über die lavatrittsteine schreiten läßt, die den
+übergang von einer seite der straße zur anderen ermöglichen. willkürlich
+genug erscheinen diese leistungen der phantasie und doch wieder harmlos
+unverdächtig. ja noch dann, als sich aus ihnen zum erstenmal ein antrieb
+zum handeln ergibt, als der archäologe von dem problem bedrückt, ob
+solche fußstellung auch der wirklichkeit entspreche, beobachtungen nach
+dem leben anzustellen beginnt, um den zeitgenössischen frauen und
+mädchen auf die füße zu sehen, deckt sich dieses tun durch ihm bewußte
+wissenschaftliche motive, als wäre alles interesse für das steinbild der
+gradiva aus dem boden seiner fachlichen beschäftigung mit der
+archäologie entsprossen. die frauen und mädchen auf der straße, die er
+zu objekten seiner untersuchung nimmt, müssen freilich eine andere, grob
+erotische auffassung seines treibens wählen, und wir müssen ihnen recht
+geben. für uns leidet es keinen zweifel, daß hanold die motive seiner
+forschung so wenig kennt wie die herkunft seiner phantasien über die
+gradiva. diese letzteren sind, wie wir später erfahren, anklänge an
+seine erinnerungen an die jugendgeliebte, abkömmlinge dieser
+erinnerungen, umwandlungen und entstellungen derselben, nachdem es ihnen
+nicht gelungen ist, sich in unveränderter form zum bewußtsein zu
+bringen. das vorgeblich ästhetische urteil, das steinbild stelle etwas
+»heutiges« dar, ersetzt das wissen, daß solcher gang einem ihm
+bekannten, in der _gegenwart_ über die straße schreitenden mädchen
+angehöre; hinter dem eindruck »nach dem leben« und der phantasie ihres
+griechentums verbirgt sich die erinnerung an ihren namen _zoë_, der auf
+griechisch _leben_ bedeutet; gradiva ist, wie uns der am ende vom wahn
+geheilte aufklärt, eine gute übersetzung ihres familiennamens
+_bertgang_, welcher so viel bedeutet wie »im schreiten glänzend oder
+prächtig«; die bestimmungen über ihren vater stammen von der kenntnis,
+daß zoë bertgang die tochter eines angesehenen lehrers der universität
+sei, die sich wohl als tempeldienst in die antike übersetzen läßt. nach
+pompeji endlich versetzt sie seine phantasie, nicht »weil ihre ruhige,
+stille art es zu fordern schien«, sondern weil sich in seiner
+wissenschaft keine andere und keine bessere analogie mit dem
+merkwürdigen zustand finden läßt, in dem er durch eine dunkle kundschaft
+seine erinnerungen an seine kinderfreundschaft verspürt. hat er einmal,
+was ihm so nahe liegt, die eigene kindheit mit der klassischen
+vergangenheit zur deckung gebracht, so ergibt die verschüttung pompejis,
+dies verschwinden mit erhaltung des vergangenen, eine treffliche
+ähnlichkeit mit der _verdrängung_, von der er durch sozusagen
+»endopsychische« wahrnehmung kenntnis hat. es arbeitet dabei in ihm
+dieselbe symbolik, die zum schlusse der erzählung der dichter das
+mädchen bewußterweise gebrauchen läßt.
+
+»ich sagte mir, irgend etwas interessantes würde ich wohl schon allein
+hier ausgraben. freilich auf den fund, den ich gemacht, ..... hatte ich
+mit keinem gedanken gerechnet.« (g. p. 124.) -- zu ende (g. p. 150)
+antwortet dann das mädchen auf den reisezielwunsch »ihres gewissermaßen
+gleichfalls aus der verschüttung wieder ausgegrabenen kindheitsfreundes«.
+
+so finden wir also schon bei den ersten leistungen von hanolds
+wahnphantasien und handlungen eine zweifache determinierung, eine
+ableitbarkeit aus zwei verschiedenen quellen. die eine determinierung
+ist die, welche hanold selbst erscheint, die andere die, welche sich uns
+bei der nachprüfung seiner seelischen vorgänge enthüllt. die eine ist,
+auf die person hanolds bezogen, die ihm bewußte, die andere, die ihm
+völlig unbewußte. die eine stammt ganz aus dem vorstellungskreis der
+archäologischen wissenschaft, die andere aber rührt von dem in ihm rege
+gewordenen verdrängten kindheitserinnerungen und den an ihnen haftenden
+gefühlstrieben her. die eine ist wie oberflächlich und verdeckt die
+andere, die sich gleichsam hinter ihr verbirgt. man könnte sagen, die
+wissenschaftliche motivierung diene der unbewußten erotischen zum
+vorwand, und die wissenschaft habe sich ganz in den dienst des wahnes
+gestellt. aber man darf auch nicht vergessen, daß die unbewußte
+determinierung nichts anderes durchzusetzen vermag, als was gleichzeitig
+der bewußten wissenschaftlichen genügt. die symptome des wahnes --
+phantasien wie handlungen -- sind eben ergebnisse eines kompromisses
+zwischen den beiden seelischen strömungen, und bei einem kompromiß ist
+den anforderungen eines jeden der beiden teile rechnung getragen worden;
+ein jeder teil hat aber auch auf ein stück dessen, was er durchsetzen
+wollte, verzichten müssen. wo ein kompromiß zu stande gekommen, da gab
+es einen kampf, hier den von uns angenommenen konflikt zwischen der
+unterdrückten erotik und den sie in der verdrängung erhaltenden mächten.
+bei der bildung eines wahnes geht dieser kampf eigentlich nie zu ende.
+ansturm und widerstand erneuern sich nach jeder kompromißbildung, die
+sozusagen niemals voll genügt. dies weiß auch unser dichter und darum
+läßt er ein gefühl der unbefriedigung, eine eigentümliche unruhe dieses
+stadium der störung bei seinem helden beherrschen, als vorläufer und als
+bürgschaft weiterer entwicklungen.
+
+diese bedeutsamen eigentümlichkeiten der zweifachen determinierung für
+phantasien und entschlüsse, der bildung von bewußten vorwänden für
+handlungen, zu deren motivierung das verdrängte den größeren beitrag
+geliefert hat, werden uns im weiteren fortschritt der erzählung noch
+öfters, vielleicht noch deutlicher, entgegentreten. und dies mit vollem
+rechte, denn der dichter hat hiemit den niemals fehlenden hauptcharakter
+der krankhaften seelenvorgänge erfaßt und zur darstellung gebracht.
+
+die entwicklung des wahnes bei _norbert hanold_ schreitet mit einem
+traume weiter, der, durch kein neues ereignis veranlaßt, ganz aus seinem
+von einem konflikt erfüllten seelenleben zu rühren scheint. doch halten
+wir ein, ehe wir daran gehen zu prüfen, ob der dichter auch bei der
+bildung seiner träume unserer erwartung eines tieferen verständnisses
+entspricht. fragen wir uns vorher, was die psychiatrische wissenschaft
+zu seinen voraussetzungen über die entstehung eines wahnes sagt, wie sie
+sich zur rolle der verdrängung und des unbewußten, zum konflikt und zur
+kompromißbildung stellt. im kurzen, ob die dichterische darstellung der
+genese eines wahnes vor dem richtspruch der wissenschaft bestehen kann.
+
+und da müssen wir die vielleicht unerwartete antwort geben, daß es
+sich in wirklichkeit leider ganz umgekehrt verhält: die wissenschaft
+besteht nicht vor der leistung des dichters. zwischen den
+hereditär-konstitutionellen vorbedingungen und den als fertig
+erscheinenden schöpfungen des wahnes läßt sie eine lücke klaffen, die
+wir beim dichter ausgefüllt finden. sie ahnt noch nicht die bedeutung
+der verdrängung, erkennt nicht, daß sie zur erklärung der welt
+psychopathologischer erscheinungen durchaus des unbewußten bedarf, sie
+sucht den grund des wahnes nicht in einem psychischen konflikt und
+erfaßt die symptome desselben nicht als kompromißbildung. so stünde denn
+der dichter allein gegen die gesamte wissenschaft? nein, dies nicht, --
+wenn der verfasser nämlich seine eigenen arbeiten auch der wissenschaft
+zurechnen darf. denn er selbst vertritt seit einer reihe von jahren --
+und bis in die letzte zeit ziemlich vereinsamt(3) -- alle die
+anschauungen, die er hier aus der »gradiva« von _w. jensen_ herausgeholt
+und in den fachausdrücken dargestellt hat. er hat, am ausführlichsten
+für die als hysterie und zwangsvorstellen bekannten zustände, als
+individuelle bedingung der psychischen störung die unterdrückung eines
+stückes des trieblebens und die verdrängung der vorstellungen, durch die
+der unterdrückte trieb vertreten ist, aufgezeigt, und die gleiche
+auffassung bald darauf für manche formen des wahnes wiederholt.(4) ob
+die für diese verursachung in betracht kommenden triebe jedesmal
+komponenten des sexualtriebes sind oder auch andersartige sein können,
+das ist ein problem, welches nur gerade für die analyse der »gradiva«
+gleichgültig bleiben darf, da es sich in dem vom dichter gewählten falle
+sicherlich um nichts als um die unterdrückung des erotischen empfindens
+handelt. die gesichtspunkte des psychischen konflikts und der
+symptombildung durch kompromisse zwischen den beiden miteinander
+ringenden seelenströmungen hat der verfasser an wirklich beobachteten
+und ärztlich behandelten krankheitsfällen in ganz gleicher weise zur
+geltung gebracht, wie er es an den vom dichter erfundenen norbert hanold
+tun konnte.(5) die rückführung der nervösen, speziell der hysterischen
+krankheitsleistungen auf die macht unbewußter gedanken hatte vor dem
+verfasser schon _p. janet_, der schüler des großen _charcot_, und im
+vereine mit dem verfasser _josef breuer_ in wien unternommen.(6)
+
+  (3) siehe die wichtige schrift von _e. bleuler_, affektivität,
+  suggestibilität, paranoia und die diagnostischen assoziationsstudien
+  von _c. g. jung_, beide aus zürich, .
+
+  (4) vgl. des verfassers: sammlung kleiner schriften zur neurosenlehre
+  .
+
+  (5) vgl. bruchstück einer hysterie-analyse .
+
+  (6) vgl. breuer u. freud, studien über hysterie, .
+
+es war dem verfasser, als er sich in den auf  folgenden jahren in
+solche forschungen über die entstehung der seelenstörungen vertiefte,
+wahrlich nicht eingefallen, bekräftigung seiner ergebnisse bei dichtern
+zu suchen, und darum war seine überraschung nicht gering, als er an der
+ veröffentlichten »gradiva« merkte, daß der dichter seiner schöpfung
+das nämliche zu grunde lege, was er aus den quellen ärztlicher erfahrung
+als neu zu schöpfen vermeinte. wie kam der dichter nur zu dem gleichen
+wissen wie der arzt, oder wenigstens zum benehmen, als ob er das gleiche
+wisse? --
+
+der wahn norbert hanolds, sagten wir, erfahre eine weitere entwicklung
+durch einen traum, der sich ihm mitten in seinen bemühungen ereignet,
+eine gangart wie die der gradiva in den straßen seines heimatsortes
+nachzuweisen. den inhalt dieses traumes können wir leicht in kürze
+darstellen. der träumer befindet sich in pompeji an jenem tage, welcher
+der unglücklichen stadt den untergang brachte, macht die schrecknisse
+mit, ohne selbst in gefahr zu geraten, sieht dort plötzlich die gradiva
+schreiten und versteht mit einem male als ganz natürlich, da sie ja eine
+pompejanerin sei, lebe sie in ihrer vaterstadt und, »ohne daß er's
+geahnt habe, gleichzeitig mit ihm«. er wird von angst um sie ergriffen,
+ruft sie an, worauf sie ihm flüchtig ihr gesicht zuwendet. doch geht
+sie, ohne auf ihn zu achten, weiter, legt sich an den stufen des
+apollotempels nieder, und wird vom aschenregen verschüttet, nachdem ihr
+gesicht sich entfärbt, wie wenn es sich zu weißem marmor umwandelte, bis
+es völlig einem steinbild gleicht. beim erwachen deutet er noch den lärm
+der großstadt, der an sein bett dringt, in das hilfegeschrei der
+verzweifelten bewohner pompejis und in das getöse des wild erregten
+meeres um. das gefühl, daß das, was er geträumt, sich wirklich mit ihm
+zugetragen, will ihm noch längere zeit nach dem erwachen nicht
+verlassen, und die überzeugung, daß die gradiva in pompeji gelebt und an
+jenem unglückstage gestorben sei, bleibt als neuer ansatz an seinen wahn
+von diesem traume übrig.
+
+weniger bequem wird es uns zu sagen, was der dichter mit diesem traum
+gewollt, und was ihn veranlaßt hat, die entwicklung des wahnes gerade an
+einen traum zu knüpfen. emsige traumforscher haben zwar beispiele genug
+gesammelt, wie geistesstörung an träume anknüpft und aus träumen
+hervorgeht,(7) und auch in der lebensgeschichte einzelner hervorragender
+menschen sollen impulse zu wichtigen taten und entschließungen durch
+träume erzeugt worden sein. aber unser verständnis gewinnt gerade nicht
+viel durch diese analogien; bleiben wir darum bei unserem falle, bei dem
+vom dichter fingierten falle des archäologen norbert hanold. an welchem
+ende muß man einen solchen traum wohl anfassen, um ihn in den
+zusammenhang einzuflechten, wenn er nicht ein unnötiger zierat der
+darstellung bleiben soll?
+
+  (7) _sante de sanctis_, die träume, .
+
+ich kann mir etwa denken, daß ein leser an dieser stelle ausruft: der
+traum ist ja leicht zu erklären. ein einfacher angsttraum, veranlaßt
+durch den lärm der großstadt, der von dem mit seiner pompejanerin
+beschäftigten archäologen auf den untergang pompejis umgedeutet wird!
+bei der allgemein herrschenden geringschätzung für die leistungen des
+traumes pflegt man nämlich den anspruch auf die traumerklärung dahin
+einzuschränken, daß man für ein stück des geträumten inhaltes einen
+äußeren reiz sucht, der sich etwa mit ihm deckt. dieser äußere anreiz
+zum träumen wäre durch den lärm gegeben, welcher den schläfer weckt; das
+interesse an diesem traume wäre damit erledigt. wenn wir nur einen grund
+hätten anzunehmen, daß die großstadt an diesem morgen lärmender gewesen
+als sonst, wenn z. b. der dichter nicht versäumt hätte, uns mitzuteilen,
+daß hanold diese nacht gegen seine gewohnheit bei geöffnetem fenster
+geschlafen. schade, daß der dichter sich diese mühe nicht gegeben hat!
+und wenn ein angsttraum nur etwas so einfaches wäre! nein, so einfach
+erledigt sich dies interesse nicht.
+
+die anknüpfung an einen äußeren sinnesreiz ist nichts wesentliches für
+die traumbildung. der schläfer kann diesen reiz aus der außenwelt
+vernachlässigen, er kann sich durch ihn, ohne einen traum zu bilden,
+wecken lassen, er kann ihn auch in seinen traum verweben, wie es hier
+geschieht, wenn es ihm aus irgend welchen anderen motiven so taugt, und
+es gibt reichlich träume, für deren inhalt sich eine solche
+determinierung durch einen an die sinne des schlafenden gelangenden reiz
+nicht erweisen läßt. nein, versuchen wir's auf einem anderen wege.
+
+vielleicht knüpfen wir an den rückstand an, den der traum im wachen
+leben hanolds zurückläßt. es war bisher eine phantasie von ihm gewesen,
+daß die gradiva eine pompejanerin gewesen sei. jetzt wird ihm diese
+annahme zur gewißheit, und die zweite gewißheit schließt sich daran, daß
+sie dort im jahre 79 mit verschüttet worden sei.(8) wehmütige
+empfindungen begleiten diesen fortschritt der wahnbildung, wie ein
+nachklang der angst, die den traum erfüllt hatte. dieser neue schmerz um
+die gradiva will uns nicht recht begreiflich erscheinen; die gradiva
+wäre doch heute auch seit vielen jahrhunderten tot, selbst wenn sie im
+jahre 79 ihr leben vor dem untergange gerettet hätte, oder sollte man in
+solcher weise weder mit norbert hanold noch mit dem dichter selbst
+rechten dürfen? auch hier scheint kein weg zur aufklärung zu führen.
+immerhin wollen wir uns anmerken, daß dem zuwachs, den der wahn aus
+diesem traum bezieht, eine stark schmerzliche gefühlsbetonung anhaftet.
+
+  (8) vgl. den text der »gradiva« p. 15.
+
+sonst aber wird an unserer ratlosigkeit nichts gebessert. dieser traum
+erläutert sich nicht von selbst; wir müssen uns entschließen, anleihen
+bei der »traumdeutung« des verfassers zu machen und einige der dort
+gegebenen regeln zur auflösung der träume hier anzuwenden.
+
+da lautet eine dieser regeln, daß ein traum regelmäßig mit den
+tätigkeiten am tage vor dem traum zusammenhängt. der dichter scheint
+andeuten zu wollen, daß er diese regel befolgt habe, indem er den traum
+unmittelbar an die »pedestrischen prüfungen« hanolds anknüpft. nun
+bedeuten letztere nichts anderes als ein suchen nach der gradiva, die er
+an ihrem charakteristischen gange erkennen will. der traum sollte also
+einen hinweis darauf, wo die gradiva zu finden sei, enthalten. er
+enthält ihn wirklich, indem er sie in pompeji zeigt, aber das ist noch
+keine neuigkeit für uns.
+
+eine andere regel besagt: wenn nach einem traum der glaube an die
+realität der traumbilder ungewöhnlich lange anhält, so daß man sich
+nicht aus dem traume losreißen kann, so ist dies nicht etwa eine
+urteilstäuschung, hervorgerufen durch die lebhaftigkeit der traumbilder,
+sondern es ist ein psychischer akt für sich, eine versicherung, die sich
+auf den trauminhalt bezieht, daß etwas darin wirklich so ist, wie man es
+geträumt hat, und man tut recht daran, dieser versicherung glauben zu
+schenken. halten wir uns an diese beiden regeln, so müssen wir
+schließen, der traum gebe eine auskunft über den verbleib der gesuchten
+gradiva, die sich mit der wirklichkeit deckt. wir kennen nun den traum
+hanolds; führt die anwendung der beiden regeln auf ihn zu irgend einem
+vernünftigen sinne?
+
+merkwürdigerweise ja. dieser sinn ist nur auf eine besondere art
+verkleidet, so daß man ihn nicht sogleich erkennt. hanold erfährt im
+traume, daß die gesuchte in einer stadt und gleichzeitig mit ihm lebe.
+das ist ja von der zoë bertgang richtig, nur daß diese stadt im traum
+nicht die deutsche universitätsstadt, sondern pompeji, die zeit nicht
+die gegenwart, sondern das jahr 79 unserer zeitrechnung ist. es ist wie
+eine entstellung durch verschiebung, nicht die gradiva ist in die
+gegenwart, sondern der träumer ist in die vergangenheit versetzt; aber
+das wesentliche und neue, _daß er mit der gesuchten ort und zeit teile_,
+ist auch so gesagt. woher wohl diese verstellung und verkleidung, die
+uns sowie den träumer selbst über den eigentlichen sinn und inhalt des
+traumes täuschen muß? nun wir haben bereits die mittel in der hand, um
+eine befriedigende antwort auf diese frage zu geben.
+
+erinnern wir uns an all das, was wir über die natur und abkunft der
+phantasien, dieser vorläufer des wahnes, gehört haben. daß sie ersatz
+und abkömmlinge von verdrängten erinnerungen sind, denen ein widerstand
+nicht gestattet, sich unverändert zum bewußtsein zu bringen, die sich
+aber das bewußtwerden dadurch erkaufen, daß sie durch veränderungen und
+entstellungen der zensur des widerstandes rechnung tragen. nachdem
+dieses kompromiß vollzogen ist, sind jene erinnerungen nun zu diesen
+phantasien geworden, die von der bewußten person leicht mißverstanden,
+d. h. im sinne der herrschenden psychischen strömung verstanden werden
+können. nun stelle man sich vor, die traumbilder seien die sozusagen
+physiologischen wahnschöpfungen des menschen, die kompromißergebnisse
+jenes kampfes zwischen verdrängtem und herrschendem, den es
+wahrscheinlich bei jedem, auch tagsüber völlig geistesgesunden menschen
+gibt. dann versteht man, daß man die traumbilder als etwas entstelltes
+zu betrachten hat, hinter dem etwas anderes, nicht entstelltes, aber in
+gewissem sinne anstößiges zu suchen ist, wie die verdrängten
+erinnerungen hanolds hinter seinen phantasien. dem so erkannten
+gegensatz wird man etwa ausdruck schaffen, indem man das, was der
+träumer beim erwachen erinnert, als _manifesten trauminhalt_
+unterscheidet von dem, was die grundlage des traumes vor der
+zensurentstellung ausmachte, den _latenten traumgedanken_. einen traum
+deuten heißt dann so viel als den manifesten trauminhalt in die latenten
+traumgedanken übersetzen, die entstellung rückgängig machen, welche sich
+letztere von der widerstandszensur gefallen lassen mußten. wenden wir
+diese erwägungen auf den uns beschäftigenden traum an, so finden wir,
+die latenten traumgedanken können nur gelautet haben: das mädchen, das
+jenen schönen gang hat, nach dem du suchst, lebt wirklich in dieser
+stadt mit dir. aber in dieser form konnte der gedanke nicht bewußt
+werden; es stand ihm ja im wege, daß eine phantasie als ergebnis eines
+früheren kompromisses festgestellt hatte, die gradiva sei eine
+pompejanerin, folglich blieb nichts übrig, wenn die wirkliche tatsache
+des lebens am gleichen orte und zur gleichen zeit gewahrt werden sollte,
+als die entstellung vorzunehmen: du lebst ja in pompeji zur zeit der
+gradiva, und dies ist dann die idee, welche der manifeste trauminhalt
+realisiert, als eine gegenwart, die man durchlebt, darstellt.
+
+ein traum ist nur selten die darstellung, man könnte sagen: inszenierung
+eines einzigen gedankens, meist einer reihe von solchen, eines
+gedankengewebes. aus dem traume hanolds läßt sich noch ein anderer
+bestandteil des inhaltes hervorheben, dessen entstellung leicht zu
+beseitigen ist, so daß man die durch ihn vertretene latente idee
+erfährt. es ist dies ein stück des traumes, auf welches man auch noch
+die versicherung der wirklichkeit ausdehnen kann, mit welcher der traum
+abschloß. im traum verwandelt sich nämlich die schreitende gradiva in
+ein steinbild. das ist ja nichts anderes als eine sinnreiche und
+poetische darstellung des wirklichen herganges. hanold hatte in der tat
+sein interesse von der lebenden auf das steinbild übertragen; die
+geliebte hatte sich ihm in ein steinernes relief verwandelt. die
+latenten traumgedanken, die unbewußt bleiben müssen, wollen dies bild in
+die lebende zurückverwandeln; sie sagen ihm etwa im zusammenhalt mit dem
+vorigen: du interessierst dich doch nur für das relief der gradiva, weil
+es dich an die gegenwärtige, hier lebende zoë erinnert. aber diese
+einsicht würde, wenn sie bewußt werden könnte, das ende des wahnes
+bedeuten.
+
+obliegt uns etwa die verpflichtung, jedes einzelne stück des manifesten
+trauminhaltes in solcher weise durch unbewußte gedanken zu ersetzen?
+strenggenommen, ja; bei der deutung eines wirklich geträumten traumes
+würden wir uns dieser pflicht nicht entziehen dürfen. der träumer müßte
+uns dann auch in ausgiebigster weise rede stehen. es ist begreiflich,
+daß wir solche forderung bei dem geschöpf des dichters nicht durchführen
+können; wir wollen aber doch nicht übersehen, daß wir den hauptinhalt
+dieses traumes noch nicht der deutungs- oder übersetzungsarbeit
+unterzogen haben.
+
+der traum _hanolds_ ist ja ein angsttraum. sein inhalt ist schreckhaft,
+angst wird vom träumer im schlafe verspürt und schmerzliche empfindungen
+bleiben nach ihm übrig. das ist nun gar nicht bequem für unseren
+erklärungsversuch; wir sind wiederum zu großen anleihen bei der lehre
+von der traumdeutung genötigt. diese mahnt uns dann, doch ja nicht in
+den irrtum zu verfallen, die angst, die man in einem traum empfindet,
+von dem inhalt des traumes abzuleiten, den trauminhalt doch nicht so zu
+behandeln wie einen vorstellungsinhalt des wachen lebens. sie macht uns
+darauf aufmerksam, wie oft wir die gräßlichsten dinge träumen, ohne daß
+eine spur von angst dabei empfunden wird. vielmehr sei der wahre
+sachverhalt ein ganz anderer, der nicht leicht zu erraten, aber sicher
+zu beweisen ist. die angst des angsttraumes entspreche einem sexuellen
+affekt, einer libidinösen empfindung, wie überhaupt jede nervöse angst,
+und sei durch den prozeß der verdrängung aus der libido
+hervorgegangen.(9) bei der deutung des traumes müsse man also die angst
+durch sexuelle erregtheit ersetzen. die so entstandene angst übe nun --
+nicht regelmäßig, aber häufig -- einen auswählenden einfluß auf den
+trauminhalt aus und bringe vorstellungselemente in den traum, welche für
+die bewußte und mißverständliche auffassung des traumes zum angstaffekt
+passend erscheinen. dies sei, wie gesagt, keineswegs regelmäßig der
+fall, denn es gebe genug angstträume, in denen der inhalt gar nicht
+schreckhaft ist, wo man sich also die verspürte angst nicht
+bewußterweise erklären könne.
+
+  (9) vgl. sammlung kl. schriften zur neurosenlehre, v., und
+  traumdeutung p. 344.
+
+ich weiß, daß diese aufklärung der angst im traume sehr befremdlich
+klingt und nicht leicht glauben findet; aber ich kann nur raten, sich
+mit ihr zu befreunden. es wäre übrigens recht merkwürdig, wenn der traum
+norbert hanolds sich mit dieser auffassung der angst vereinen und aus
+ihr erklären ließe. wir würden dann sagen, beim träumer rühre sich
+nächtlicherweise die liebessehnsucht, mache einen kräftigen vorstoß, um
+ihm die erinnerung an die geliebte bewußt zu machen und ihn so aus dem
+wahn zu reißen, erfahre aber neuerliche ablehnung und verwandlung in
+angst, die nun ihrerseits die schreckhaften bilder aus der
+schulerinnerung des träumers in den trauminhalt bringe. auf diese weise
+werde der eigentliche unbewußte inhalt des traumes, die verliebte
+sehnsucht nach der einst gekannten zoë, in den manifesten inhalt vom
+untergang pompejis und vom verlust der gradiva umgestaltet.
+
+ich meine, das klingt so weit ganz plausibel. man könnte aber mit recht
+die forderung aufstellen, wenn erotische wünsche den unentstellten
+inhalt dieses traumes bilden, so müsse man auch im umgeformten traum
+wenigstens einen kenntlichen rest derselben irgendwo versteckt aufzeigen
+können. nun, vielleicht gelingt selbst dies mit hilfe eines hinweises
+aus der später folgenden erzählung. beim ersten zusammentreffen mit der
+vermeintlichen gradiva gedenkt hanold dieses traumes und richtet an die
+erscheinung die bitte, sich wieder so hinzulegen, wie er es damals
+gesehen.(10) daraufhin aber erhebt sich die junge dame entrüstet und
+verläßt ihren sonderbaren partner, aus dessen wahnbeherrschten reden sie
+den unziemlichen erotischen wunsch herausgehört hat. ich glaube, wir
+dürfen uns die deutung der gradiva zu eigen machen; eine größere
+bestimmtheit für die darstellung des erotischen wunsches wird man auch
+von einem realen traume nicht immer fordern dürfen.
+
+  (10) g. p. 70: nein, gesprochen nicht. aber ich rief dir zu, als du
+  dich zum schlafen hinlegtest, und stand dann bei dir -- dein gesicht
+  war so ruhig-schön wie von marmor. darf ich dich bitten -- leg' es
+  noch einmal wieder so auf die stufe zurück.
+
+somit hatte die anwendung einiger regeln der traumdeutung auf den ersten
+traum hanolds den erfolg gehabt, uns diesen traum in seinen hauptzügen
+verständlich zu machen und ihn in den zusammenhang der erzählung
+einzufügen. er muß also wohl vom dichter unter beachtung dieser regeln
+geschaffen worden sein? man könnte nur noch eine frage aufwerfen, warum
+der dichter zur weiteren entwicklung des wahnes überhaupt einen traum
+einführe. nun, ich meine, das ist recht sinnreich komponiert und hält
+wiederum der wirklichkeit die treue. wir haben schon gehört, daß in
+realen krankheitsfällen eine wahnbildung recht häufig an einen traum
+anschließt, brauchen aber nach unseren aufklärungen über das wesen des
+traumes kein neues rätsel in diesem sachverhalt zu finden. traum und
+wahn stammen aus derselben quelle, vom verdrängten her; der traum ist
+der sozusagen physiologische wahn des normalen menschen. ehe das
+verdrängte stark genug geworden ist, um sich im wachleben als wahn
+durchzusetzen, kann es leicht seinen ersten erfolg unter den günstigeren
+umständen des schlafzustandes in gestalt eines nachhaltig wirkenden
+traumes errungen haben. während des schlafes tritt nämlich, mit der
+herabsetzung der seelischen tätigkeit überhaupt, auch ein nachlaß in der
+stärke des widerstandes ein, den die herrschenden psychischen mächte dem
+verdrängten entgegensetzen. dieser nachlaß ist es, der die traumbildung
+ermöglicht, und darum wird der traum für uns der beste zugang zur
+kenntnis des unbewußten seelischen. nur, daß für gewöhnlich mit der
+herstellung der psychischen besetzungen des wachens der traum wieder
+verfliegt, der vom unbewußten gewonnene boden wieder geräumt wird.
+
+
+
+
+iii.
+
+
+im weiteren verlaufe der erzählung findet sich noch ein anderer traum,
+der uns vielleicht noch mehr als der erste verlocken kann, seine
+übersetzung und einfügung in den zusammenhang des seelischen geschehens
+beim helden zu versuchen. aber wir ersparen wenig, wenn wir hier die
+darstellung des dichters verlassen, um direkt zu diesem zweiten traum zu
+eilen, denn wer den traum eines anderen deuten will, der kann nicht
+umhin, sich möglichst ausführlich um alles zu bekümmern, was der träumer
+äußerlich und innerlich erlebt hat. somit wäre es fast das beste, wenn
+wir beim faden der erzählung verblieben und diese fortlaufend mit
+unseren glossen versähen.
+
+die wahnneubildung vom tode der gradiva beim untergang pompejis im jahre
+79 ist nicht die einzige nachwirkung des von uns analysierten ersten
+traumes. unmittelbar nachher entschließt sich hanold zu einer reise nach
+italien, die ihn endlich nach pompeji bringt. vorher aber begibt sich
+noch etwas anderes mit ihm; aus dem fenster lehnend, glaubt er auf der
+straße eine gestalt mit der haltung und dem gange seiner gradiva zu
+bemerken, eilt ihr trotz seiner mangelhaften bekleidung nach, erreicht
+sie aber nicht, sondern wird durch den spott der leute auf der straße
+zurückgetrieben. nachdem er wieder in sein zimmer zurückgekehrt ist,
+ruft das singen eines kanarienvogels, dessen käfig an einem fenster des
+hauses gegenüber hängt, eine stimmung in ihm hervor, als ob auch er aus
+der gefangenschaft in die freiheit wollte, und die frühjahrsreise ist
+ebenso schnell beschlossen wie ausgeführt.
+
+der dichter hat diese reise hanolds in ganz besonders scharfes licht
+gerückt und ihm selbst teilweise klarheit über seine inneren vorgänge
+gegönnt. hanold hat sich selbstverständlich einen wissenschaftlichen
+vorwand für sein reisen angegeben, aber dieser hält nicht vor. er weiß
+doch eigentlich, daß »ihm der antrieb zur reise aus einer unnennbaren
+empfindung entsprungen war«. eine eigentümliche unruhe heißt ihn mit
+allem, was er antrifft, unzufrieden sein und treibt ihn von rom nach
+neapel, von dort nach pompeji, ohne daß er sich, auch nicht in dieser
+letzten station, in seiner stimmung zurechtfände. er ärgert sich über
+die torheit der hochzeitsreisenden und ist empört über die frechheit der
+stubenfliegen, die pompejis gasthäuser bevölkern. aber endlich täuscht
+er sich nicht darüber, »daß seine unbefriedigung wohl nicht allein durch
+das um ihn herum befindliche verursacht werde, sondern etwas ihren
+ursprung auch aus ihm selbst schöpfe«. er hält sich für überreizt,
+fühlt, »daß er mißmutig sei, weil ihm etwas fehle, ohne daß er sich
+aufhellen könne, was. und diese mißstimmung bringt er überallhin mit
+sich«. in solcher verfassung empört er sich sogar gegen seine
+herrscherin, die wissenschaft; wie er das erstemal in der
+mittagssonnenglut durch pompeji wandelt, »hatte seine ganze wissenschaft
+ihn nicht allein verlassen, sondern ließ ihn auch ohne das geringste
+begehren, sie wieder aufzufinden; er erinnerte sich ihrer nur wie aus
+einer weiten ferne, und in seiner empfindung war sie eine alte,
+eingetrocknete, langweilige tante gewesen, das ledernste und
+überflüssigste geschöpf auf der welt«. (g. p. 55.)
+
+in diesem unerquicklichen und verworrenen gemütszustand löst sich ihm
+dann das eine der rätsel, welche an dieser reise hängen, in dem moment,
+da er zuerst die gradiva durch pompeji schreiten sieht. es kommt ihm
+»zum erstenmal zum bewußtwerden: er sei, ohne selbst von dem antrieb in
+seinem innern zu wissen, deshalb nach italien und ohne aufenthalt von
+rom und neapel bis pompeji weitergefahren, um danach zu suchen, ob er
+hier spuren von ihr auffinden könne. und zwar im wörtlichen sinne, denn
+bei ihrer besonderen gangart mußte sie in der asche einen von allen
+übrigen sich unterscheidenden abdruck der zehen hinterlassen haben«. (g.
+p. 58.)
+
+da der dichter so viel sorgfalt auf die darstellung dieser reise
+verwendet, muß es auch uns der mühe wert sein, deren verhältnis zum wahn
+hanolds und deren stellung im zusammenhang der begebenheiten zu
+erläutern. die reise ist ein unternehmen aus motiven, welche die person
+zunächst nicht erkennt und erst später sich eingesteht, motiven, welche
+der dichter direkt als »unbewußte« bezeichnet. dies ist gewiß dem leben
+abgelauscht; man braucht nicht im wahn zu sein, um so zu handeln;
+vielmehr ist es ein alltägliches vorkommnis, selbst bei gesunden, daß
+sie sich über die motive ihres handelns täuschen und ihrer erst
+nachträglich bewußt werden, wenn nur ein konflikt mehrerer
+gefühlsströmungen ihnen die bedingung für solche verworrenheit
+herstellt. die reise hanolds war also von anfang an darauf angelegt, dem
+wahne zu dienen, und sollte ihn nach pompeji bringen, um die
+nachforschung nach der gradiva dort fortzusetzen. wir erinnern, daß vor
+und unmittelbar nach dem traum diese nachforschung ihn erfüllte, und daß
+der traum selbst nur eine von seinem bewußtsein erstickte antwort auf
+die frage nach dem aufenthalt der gradiva war. irgend eine macht, die
+wir nicht erkennen, hemmt aber zunächst auch das bewußtwerden des
+wahnhaften vorsatzes, so daß zur bewußten motivierung der reise nur
+unzulängliche, streckenweise zu erneuernde vorwände erübrigen. ein
+anderes rätsel gibt uns der dichter auf, indem er den traum, die
+entdeckung der vermeintlichen gradiva auf der straße und die
+entschließung zur reise durch den einfluß des singenden kanarienvogels
+wie zufälligkeiten ohne innere beziehung aufeinander folgen läßt.
+
+mit hilfe der aufklärungen, die wir den späteren reden der zoë bertgang
+entnehmen, wird dieses dunkle stück der erzählung für unser verständnis
+erhellt. es war wirklich das urbild der gradiva, fräulein zoë selbst,
+das hanold von seinem fenster aus auf der straße schreiten sah (g.
+p. 89) und das er bald eingeholt hätte. die mitteilung des traumes: sie
+lebt ja am heutigen tage in der nämlichen stadt wie du, hätte so durch
+einen glücklichen zufall eine unwiderstehliche bekräftigung erfahren,
+vor welcher sein inneres sträuben zusammengebrochen wäre. der
+kanarienvogel aber, dessen gesang hanold in die ferne trieb, gehörte
+zoë, und sein käfig stand an ihrem fenster, dem hause hanolds schräg
+gegenüber. (g. p. 135.) hanold, der nach der anklage des mädchens die
+gabe der »negativen halluzination« besaß, die kunst verstand, auch
+gegenwärtige personen nicht zu sehen und nicht zu erkennen, muß von
+anfang an die unbewußte kenntnis dessen gehabt haben, was wir erst spät
+erfahren. die zeichen der nähe zoës, ihr erscheinen auf der straße und
+der gesang ihres vogels so nahe seinem fenster, verstärken die wirkung
+des traumes, und in dieser für seinen widerstand gegen die erotik so
+gefährlichen situation -- ergreift er die flucht. die reise entspringt
+einem aufraffen des widerstandes nach jenem vorstoß der liebessehnsucht
+im traum, einem fluchtversuch von der leibhaftigen und gegenwärtigen
+geliebten weg. sie bedeutet praktisch einen sieg der verdrängung, die
+diesmal im wahne die oberhand behält, wie bei seinem früheren tun, den
+»pedestrischen untersuchungen« an frauen und mädchen, die erotik
+siegreich gewesen war. überall aber ist in diesem schwanken des kampfes
+die kompromißnatur der entscheidungen gewahrt; die reise nach pompeji,
+die von der lebenden zoë wegführen soll, führt wenigstens zu ihrem
+ersatz, zur gradiva. die reise, die den latenten traumgedanken zum
+trotze unternommen wird, folgt doch der weisung des manifesten
+trauminhaltes nach pompeji. so triumphiert der wahn von neuem, jedesmal
+wenn erotik und widerstand von neuem streiten.
+
+diese auffassung der reise hanolds als flucht vor der in ihm erwachenden
+liebessehnsucht nach der so nahen geliebten harmoniert allein mit den
+bei ihm geschilderten gemütszuständen während seines aufenthaltes in
+italien. die ihn beherrschende ablehnung der erotik drückt sich dort in
+seiner verabscheuung der hochzeitsreisenden aus. ein kleiner traum im
+albergo in rom, veranlaßt durch die nachbarschaft eines deutschen
+liebespaares, » und grete«, deren abendgespräch er durch die dünne
+zwischenwand belauschen muß, wirft wie nachträglich ein licht auf die
+erotischen tendenzen seines ersten großen traumes. der neue traum
+versetzt ihn wieder nach pompeji, wo eben wieder der vesuv ausbricht,
+und knüpft so an den während der reise fortwirkenden traum an. aber
+unter den gefährdeten personen gewahrt er diesmal -- nicht wie früher
+sich und die gradiva --, sondern den apoll von belvedere und die
+kapitolinische venus, wohl als ironische erhöhungen des paares im
+nachbarraum. apoll hebt die venus auf, trägt sie fort und legt sie auf
+einen gegenstand im dunkeln hin, der ein wagen oder karren zu sein
+scheint, denn ein »knarrender ton« schallt davon her. der traum bedarf
+sonst keiner besonderen kunst zu seiner deutung. (g. p. 31.)
+
+unser dichter, dem wir längst zutrauen, daß er auch keinen einzelnen zug
+müßig und absichtslos in seiner schilderung aufträgt, hat uns noch ein
+anderes zeugnis für die hanold auf der reise beherrschende asexuelle
+strömung gegeben. während des stundenlangen umherwanderns in pompeji
+kommt es ihm »merkwürdigerweise nicht ein einziges mal in erinnerung,
+daß er vor einiger zeit einmal geträumt habe, bei der verschüttung
+pompejis durch den kraterausbruch im jahre 79 zugegen gewesen zu sein«.
+(g. p. 47.) erst beim anblick der gradiva besinnt er sich plötzlich
+dieses traumes, wie ihm auch gleichzeitig das wahnhafte motiv seiner
+rätselhaften reise bewußt wird. was könnte nun dies vergessen des
+traumes, diese verdrängungsschranke zwischen dem traum und dem
+seelenzustand auf der reise anders bedeuten, als daß die reise nicht auf
+direkte anregung des traumes erfolgt ist, sondern in der auflehnung
+gegen denselben, als ausfluß einer seelischen macht, die vom geheimen
+sinne des traumes nichts wissen will?
+
+anderseits aber wird hanold dieses sieges über seine erotik nicht froh.
+die unterdrückte seelische regung bleibt stark genug, um sich durch
+mißbehagen und hemmung an der unterdrückenden zu rächen. seine sehnsucht
+hat sich in unruhe und unbefriedigung verwandelt, die ihm die reise
+sinnlos erscheinen läßt; gehemmt ist die einsicht in die motivierung der
+reise im dienste des wahnes, gestört sein verhältnis zu seiner
+wissenschaft, die an solchem orte all sein interesse rege machen sollte.
+so zeigt uns der dichter seinen helden nach seiner flucht vor der liebe
+in einer art von krisis, in einem gänzlich verworrenen und zerfahrenen
+zustand, in einer zerrüttung, wie sie auf der höhe der krankheitszustände
+vorzukommen pflegt, wenn keine der beiden streitenden mächte
+mehr um so viel stärker ist als die andere, daß die differenz ein
+strammes, seelisches regime begründen könnte. hier greift dann der
+dichter helfend und schlichtend ein, denn an dieser stelle läßt er die
+gradiva auftreten, welche die heilung des wahnes unternimmt. mit seiner
+macht, die schicksale der von ihm geschaffenen menschen zum guten zu
+lenken, trotz all der notwendigkeiten, denen er sie gehorchen läßt,
+versetzt er das mädchen, vor dem hanold nach pompeji geflohen ist,
+ebendahin und korrigiert so die torheit, die der wahn den jungen mann
+begehen ließ, sich von dem wohnort der leibhaftigen geliebten zur
+todesstätte der sie in der phantasie ersetzenden zu begeben.
+
+mit dem erscheinen der zoë bertgang als gradiva, welches den höhepunkt
+der spannung in der erzählung bezeichnet, tritt bald auch eine wendung
+in unserem interesse ein. haben wir bisher die entwicklung eines wahnes
+miterlebt, so sollen wir jetzt zeugen seiner heilung werden und dürfen
+uns fragen, ob der dichter den hergang dieser heilung bloß fabuliert
+oder im anschluß an wirklich vorhandene möglichkeiten gebildet hat. nach
+zoës eigenen worten in der unterhaltung mit der freundin haben wir
+entschieden das recht, ihr solche heilungsabsicht zuzuschreiben. (g.
+p. 124.) wie schickt sie sich aber dazu an? nachdem sie die entrüstung
+zurückgedrängt, welche die zumutung, sich wieder wie »damals« zum
+schlafen hinzulegen, bei ihr hervorgerufen, findet sie sich zur gleichen
+mittagsstunde des nächsten tages am nämlichen orte ein und entlockt nun
+hanold all das geheime wissen, das ihr zum verständnis seines benehmens
+am vortage gefehlt hat. sie erfährt von seinem traum, vom reliefbild der
+gradiva und von der eigentümlichkeit des ganges, welche sie mit diesem
+bilde teilt. sie akzeptiert die rolle des für eine kurze stunde zum
+leben erwachten gespenstes, welche, wie sie merkt, sein wahn ihr
+zugeteilt, und weist ihm leise in mehrdeutigen worten eine neue stellung
+an, indem sie die gräberblume von ihm annimmt, die er ohne bewußte
+absicht mitgebracht, und das bedauern ausspricht, daß er ihr nicht rosen
+gegeben hat. (g. p. 90.)
+
+unser interesse für das benehmen des überlegen klugen mädchens, welches
+beschlossen hat, sich den jugendgeliebten zum manne zu gewinnen, nachdem
+sie hinter seinem wahn seine liebe als treibende kraft erkannt, wird
+aber an dieser stelle wahrscheinlich von dem befremden zurückgedrängt,
+welches dieser wahn selbst bei uns erregen kann. dessen letzte
+ausgestaltung, daß die im jahre 79 verschüttete gradiva nun als
+mittagsgespenst für eine stunde mit ihm rede tauschen könne, nach deren
+ablauf sie versinke oder ihre gruft wieder aufsuche, dieses
+hirngespinst, welches weder durch die wahrnehmung ihrer modernen
+fußbekleidung noch durch ihre unkenntnis der alten sprachen und ihre
+beherrschung des damals nicht existierenden deutschen beirrt wird,
+scheint wohl die bezeichnung des dichters »ein pompejanisches
+phantasiestück« zu rechtfertigen, aber jedes messen an der klinischen
+wirklichkeit auszuschließen. und doch scheint mir bei näherer erwägung
+die unwahrscheinlichkeit dieses wahnes zum größeren teile zu zergehen.
+einen teil der verschuldung hat ja der dichter auf sich genommen und in
+der voraussetzung der erzählung, daß zoë in allen zügen das ebenbild des
+steinreliefs sei, mitgebracht. man muß sich also hüten, die
+unwahrscheinlichkeit von dieser voraussetzung auf deren konsequenz, daß
+hanold das mädchen für die belebte gradiva hält, zu verschieben. die
+wahnhafte erklärung wird hier dadurch im wert gehoben, daß auch der
+dichter uns keine rationelle zur verfügung gestellt hat. in der
+sonnenglut kampaniens und in der verwirrenden zauberkraft des weines,
+der am vesuv wächst, hat der dichter ferner andere helfende und
+mildernde umstände für die ausschreitung des helden herangezogen. das
+wichtigste aller erklärenden und entschuldigenden momente bleibt aber
+die leichtigkeit, mit welcher unser denkvermögen sich zur annahme eines
+absurden inhaltes entschließt, wenn stark affektbetonte regungen dabei
+ihre befriedigung finden, es ist erstaunlich und findet meist viel zu
+geringe würdigung, wie leicht und häufig selbst intelligenzstarke
+personen unter solchen psychologischen konstellationen die reaktionen
+partiellen schwachsinnes geben, und wer nicht allzu eingebildet ist, mag
+dies auch beliebig oft an sich selbst beobachten. und nun erst dann,
+wenn ein teil der in betracht kommenden denkvorgänge an unbewußten oder
+verdrängten motiven haftet! ich zitiere dabei gern die worte eines
+philosophen, der mir schreibt: »ich habe auch angefangen, mir
+selbsterlebte fälle von frappanten irrtümern zu notieren, gedankenloser
+handlungen, die man sich nachträglich motiviert (in sehr unvernünftiger
+weise). es ist erschreckend, aber typisch, wieviel dummheit dabei zu
+tage kommt.« und nun nehme man dazu, daß der glaube an geister und
+gespenster und wiederkehrende seelen, der so viel anlehnungen in den
+religionen findet, denen wir alle wenigstens als kinder angehängt haben,
+keineswegs bei allen gebildeten untergegangen ist, daß so viele sonst
+vernünftige die beschäftigung mit dem spiritismus mit der vernunft
+vereinbar finden. ja selbst der nüchtern und ungläubig gewordene mag mit
+beschämung wahrnehmen, wie leicht er sich für einen moment zum
+geisterglauben zurückwendet, wenn ergriffenheit und ratlosigkeit bei ihm
+zusammentreffen. ich weiß von einem arzt, der einmal eine seiner
+patientinnen an der basedowschen krankheit verloren hatte und einen
+leisen verdacht nicht bannen konnte, daß er durch unvorsichtige
+medikation vielleicht zum unglücklichen ausgange beigetragen habe. eines
+tages, mehrere jahre später, trat ein mädchen in sein ärztliches zimmer,
+in dem er, trotz alles sträubens, die verstorbene erkennen mußte. er
+konnte keinen anderen gedanken fassen als, es sei doch wahr, daß die
+toten wiederkommen können, und sein schaudern wich erst der scham, als
+die besucherin sich als die schwester jener an der gleichen krankheit
+verstorbenen vorstellte. die basedowsche krankheit verleiht den von ihr
+befallenen eine oft bemerkte, weitgehende ähnlichkeit der gesichtszüge,
+und in diesem falle war die typische ähnlichkeit über der
+schwesterlichen aufgetragen. der arzt aber, dem sich dies ereignet, war
+ich selbst, und darum bin gerade ich nicht geneigt, dem norbert hanold
+die klinische möglichkeit seines kurzen wahnes von der ins leben
+zurückgekehrten gradiva zu bestreiten. daß in ernsten fällen chronischer
+wahnbildung (paranoia) das äußerste an geistreich ausgesponnenen und gut
+vertretenen absurditäten geleistet wird, ist endlich jedem psychiater
+wohlbekannt. --
+
+nach der ersten begegnung mit der gradiva hatte norbert hanold zuerst in
+dem einen und dann im anderen der ihm bekannten speisehäuser pompejis
+seinen wein getrunken, während die anderen besucher mit der
+hauptmahlzeit beschäftigt waren. »selbstverständlich war ihm mit keinem
+gedanken die widersinnige annahme in den sinn gekommen«, er tue so, um
+zu erfahren, in welchem gasthof die gradiva wohne und ihre mahlzeiten
+einnehme, aber es ist schwer zu sagen, welchen anderen sinn dies sein
+tun sonst hätte haben können. am tage nach dem zweiten beisammensein im
+hause des meleager erlebt er allerlei merkwürdige und scheinbar
+unzusammenhängende dinge: er findet einen engen spalt in der mauer des
+portikus, dort, wo die gradiva verschwunden war, begegnet einem
+närrischen eidechsenfänger, der ihn wie einen bekannten anredet,
+entdeckt ein drittes, versteckt gelegenes wirtshaus, den »albergo del
+sole«, dessen besitzer ihm eine grünpatinierte metallspange als
+fundstück bei den überresten eines pompejanischen mädchens aufschwatzt,
+und wird endlich in seinem eigenen gasthof auf ein neu angekommenes
+junges menschenpaar aufmerksam, welches er als geschwisterpaar
+diagnostiziert, und dem er seine sympathie schenkt. alle diese eindrücke
+verweben sich dann zu einem »merkwürdig unsinnigen« traum, der folgenden
+wortlaut hat:
+
+»irgendwo in der sonne sitzt die gradiva, macht aus einem grashalm eine
+schlinge, um eine eidechse darin zu fangen, und sagt dazu: ›bitte, halte
+dich ganz ruhig -- die kollegin hat recht, das mittel ist wirklich gut,
+und sie hat es mit bestem erfolge angewendet‹.«
+
+gegen diesen traum wehrt er sich noch im schlafe mit der kritik, das sei
+in der tat vollständige verrücktheit, und wirft sich herum, um von ihm
+loszukommen. dies gelingt ihm auch mit beihilfe eines unsichtbaren
+vogels, der einen kurzen, lachenden ruf ausstößt und die lacerte im
+schnabel fortträgt.
+
+wollen wir den versuch wagen, auch diesen traum zu deuten, d. h. ihn
+durch die latenten gedanken zu ersetzen, aus deren entstellung er
+hervorgegangen sein muß? er ist so unsinnig, wie man es nur von einem
+traume erwarten kann, und diese absurdität der träume ist ja die
+hauptstütze der anschauung, welche dem traum den charakter eines
+vollgiltigen psychischen aktes verweigert und ihn aus einer planlosen
+erregung der psychischen elemente hervorgehen läßt.
+
+wir können auf diesen traum die technik anwenden, welche als das
+reguläre verfahren der traumdeutung bezeichnet werden kann. es besteht
+darin, sich um den scheinbaren zusammenhang im manifesten traum nicht zu
+bekümmern, sondern jedes stück des inhaltes für sich ins auge zu fassen
+und in den eindrücken, erinnerungen und freien einfällen des träumers
+die ableitung desselben zu suchen. da wir aber hanold nicht examinieren
+können, werden wir uns mit der beziehung auf seine eindrücke zufrieden
+geben müssen, und nur ganz schüchtern unsere eigenen einfälle an die
+stelle der seinigen setzen dürfen.
+
+»irgendwo in der sonne sitzt die gradiva, fängt eidechsen und spricht
+dazu« -- an welchen eindruck des tages klingt dieser teil des traumes
+an? unzweifelhaft an die begegnung mit dem älteren herrn, dem
+eidechsenfänger, der also im traum durch die gradiva ersetzt ist. der
+saß oder lag an »einem heißbesonnten« abhang und sprach auch hanold an.
+auch die reden der gradiva im traum sind nach der rede jenes mannes
+kopiert. man vergleiche: »das vom kollegen _eimer_ angegebene mittel ist
+wirklich gut, ich habe es schon mehrmals mit bestem erfolg angewendet.
+bitte, halten sie sich ganz ruhig --.« ganz ähnlich spricht die gradiva
+im traum, nur daß der kollege _eimer_ durch eine unbenannte kollegin
+ersetzt ist; auch ist das »mehrmals« aus der rede des zoologen im traume
+weggeblieben und die bindung der sätze etwas geändert worden. es scheint
+also, daß dieses erlebnis des tages durch einige abänderungen und
+entstellungen zum traume umgewandelt worden ist. warum gerade dieses,
+und was bedeuten die entstellungen, der ersatz des alten herrn durch die
+gradiva und die einführung der rätselhaften »kollegin«?
+
+es gibt eine regel der traumdeutung, welche lautet: eine im traum
+gehörte rede stammt immer von einer im wachen gehörten oder selbst
+gehaltenen rede ab. nun, diese regel scheint hier befolgt, die rede der
+gradiva ist nur eine modifikation der bei tag gehörten rede des alten
+zoologen. eine andere regel der traumdeutung würde uns sagen, die
+ersetzung einer person durch eine andere oder die vermengung zweier
+personen, indem etwa die eine in einer situation gezeigt wird, welche
+die andere charakterisiert, bedeutet eine gleichstellung der beiden
+personen, eine übereinstimmung zwischen denselben. wagen wir es, auch
+diese regel auf unseren traum anzuwenden, so ergäbe sich die
+übersetzung: die gradiva fängt eidechsen wie jener alte, versteht sich
+auf den eidechsenfang wie er. verständlich ist dieses ergebnis gerade
+noch nicht, aber wir haben ja noch ein anderes rätsel vor uns. auf
+welchen eindruck des tages sollen wir die »kollegin« beziehen, die im
+traum den berühmten zoologen _eimer_ ersetzt? wir haben da zum glück
+nicht viel auswahl, es kann nur ein anderes mädchen als kollegin gemeint
+sein, also jene sympathische junge dame, in der hanold eine in
+gesellschaft ihres bruders reisende schwester erkannt hatte. »sie trug
+eine rote sorrentiner rose am kleid, deren anblick an etwas im
+gedächtnis des aus seiner stubenecke hinüberschauenden rührte, ohne daß
+er sich darauf besinnen konnte, was es sei.« diese bemerkung des
+dichters gibt uns wohl das recht, sie für die »kollegin« im traume in
+anspruch zu nehmen. das, was hanold nicht erinnern konnte, war gewiß
+nichts anderes als das wort der vermeintlichen gradiva, glücklicheren
+mädchen bringe man im frühling rosen, als sie die weiße gräberblume von
+ihm verlangte. in dieser rede lag aber eine werbung verborgen. was mag
+das nun für ein eidechsenfang sein, der dieser glücklicheren kollegin so
+gut gelungen?
+
+am nächsten tage überrascht hanold das vermeintliche geschwisterpaar in
+zärtlicher umarmung und kann so seinen irrtum vom vortage berichtigen.
+es ist wirklich ein liebespaar, und zwar auf der hochzeitsreise
+begriffen, wie wir später erfahren, als die beiden das dritte
+beisammensein hanolds mit der zoë so unvermutet stören. wenn wir nun
+annehmen wollen, daß hanold, der sie bewußt für geschwister hält, in
+seinem unbewußten sogleich ihre wirkliche beziehung erkannt hat, die
+sich tags darauf so unzweideutig verrät, so ergibt sich allerdings ein
+guter sinn für die rede der gradiva im traume. die rote rose wird dann
+zum symbol der liebesbeziehung; hanold versteht, daß die beiden das
+sind, wozu er und die gradiva erst werden sollen, der eidechsenfang
+bekommt die bedeutung des männerfanges, und die rede der gradiva heißt
+etwa: laß mich nur machen, ich verstehe es ebenso gut, mir einen mann zu
+gewinnen wie dieses andere mädchen.
+
+warum mußte aber dieses durchschauen der absichten der zoë durchaus in
+der form der rede des alten zoologen im traume erscheinen? warum die
+geschicklichkeit zoës im männerfang durch die des alten herrn im
+eidechsenfang dargestellt werden? nun, wir haben es leicht, diese frage
+zu beantworten: wir haben längst erraten, daß der eidechsenfänger kein
+anderer ist als der zoologieprofessor bertgang, zoës vater, der ja auch
+hanold kennen muß, so daß sich verstehen läßt, daß er hanold wie einen
+bekannten anredet. nehmen wir von neuem an, daß hanold im unbewußten den
+professor gleichfalls sofort erkannt habe, -- »ihm war's dunkel, das
+gesicht des lacertenjägers sei schon einmal, wahrscheinlich in einem der
+beiden gasthöfe, an seinen augen vorübergegangen --«, so erklärt sich
+die sonderbare einkleidung des der zoë beigelegten vorsatzes. sie ist
+die tochter des eidechsenfängers, sie hat diese geschicklichkeit von
+ihm.
+
+die ersetzung des eidechsenfängers durch die gradiva im trauminhalt ist
+also die darstellung für die im unbewußten erkannte beziehung der beiden
+personen; die einführung der »kollegin« an stelle des kollegen _eimer_
+gestattet es dem traum, das verständnis ihrer werbung um den mann zum
+ausdruck zu bringen. der traum hat bisher zwei der erlebnisse des tages
+zu einer situation zusammengeschweißt, »verdichtet«, wie wir sagen, um
+zwei einsichten, die nicht bewußt werden durften, einen allerdings sehr
+unkenntlichen ausdruck zu verschaffen. wir können aber weiter gehen, die
+sonderbarkeit des traumes noch mehr verringern und den einfluß auch der
+anderen tageserlebnisse auf die gestaltung des manifesten traumes
+nachweisen.
+
+wir könnten uns unbefriedigt durch die bisherige auskunft erklären,
+weshalb gerade die szene des eidechsenfanges zum kern des traumes
+gemacht worden ist, und vermuten, daß noch andere elemente in den
+traumgedanken für die auszeichnung der »eidechse« im manifesten traum
+mit ihrem einfluß eingetreten sind. es könnte wirklich leicht so sein.
+erinnern wir uns, daß hanold einen spalt in der mauer entdeckt hatte, an
+der stelle, wo ihm die gradiva zu verschwinden schien, der »immerhin
+breit genug war, um eine gestalt von ungewöhnlicher schlankheit«
+durchschlüpfen zu lassen. durch diese wahrnehmung wurde er bei tag zu
+einer abänderung in seinem wahn veranlaßt, die gradiva versinke nicht im
+boden, wenn sie seinen blicken entschwinde, sondern begebe sich auf
+diesem wege in ihre gruft zurück. in seinem unbewußten denken mochte er
+sich sagen, er habe jetzt die natürliche erklärung für das überraschende
+verschwinden des mädchens gefunden. muß aber nicht das sich durch enge
+spalten zwängen und das verschwinden in solchen spalten an das benehmen
+von lacerten erinnern? verhält sich die gradiva dabei nicht selbst wie
+ein flinkes eidechslein? wir meinen also, diese entdeckung des spaltes
+in der mauer habe mitbestimmend auf die auswahl des elementes »eidechse«
+für den manifesten trauminhalt gewirkt, die eidechsensituation des
+traumes vertrete ebensowohl diesen eindruck des tages wie die begegnung
+mit dem zoologen, zoës vater.
+
+und wenn wir nun, kühn geworden, versuchen wollten, auch für das eine,
+noch nicht verwertete erlebnis des tages, die entdeckung des dritten
+albergo »del sole«, eine vertretung im trauminhalt zu finden? der
+dichter hat diese episode so ausführlich behandelt und so vielerlei an
+sie geknüpft, daß wir uns verwundern müßten, wenn sie allein keinen
+beitrag zur traumbildung abgegeben hätte. hanold tritt in dieses
+wirtshaus, welches ihm wegen seiner abgelegenen lage und entfernung vom
+bahnhofe unbekannt geblieben war, um sich eine flasche kohlensauren
+wassers gegen seinen blutandrang geben zu lassen. der wirt benützt diese
+gelegenheit, um seine antiquitäten anzupreisen, und zeigt ihm eine
+spange, die angeblich jenem pompejanischen mädchen angehört hatte, das
+in der nähe des forums in inniger umschlingung mit seinem geliebten
+aufgefunden wurde. hanold, der diese oft wiederholte erzählung bisher
+niemals geglaubt, wird jetzt durch eine ihm unbekannte macht genötigt,
+an die wahrheit dieser rührenden geschichte und an die echtheit des
+fundstückes zu glauben, erwirbt die fibula und verläßt mit seinem erwerb
+den gasthof. im fortgehen sieht er an einem der fenster einen in ein
+wasserglas gestellten, mit weißen blüten behängten asphodelosschaft
+herabnicken und empfindet diesen anblick als eine beglaubigung der
+echtheit seines neuen besitztums. die wahrhafte überzeugung durchdringt
+ihn jetzt, die grüne spange habe der gradiva angehört, und sie sei das
+mädchen gewesen, das in der umarmung ihres geliebten gestorben sei. die
+quälende eifersucht, die ihn dabei erfaßt, beschwichtigt er durch den
+vorsatz, sich am nächsten tage bei der gradiva selbst durch das
+vorzeigen der spange sicherheit wegen seines argwohnes zu holen. dies
+ist doch ein sonderbares stück neuer wahnbildung, und es sollte keine
+spur im traume der nächstfolgenden nacht darauf hinweisen!
+
+es wird uns wohl der mühe wert sein, uns die entstehung dieses
+wahnzuwachses verständlich zu machen, das neue stück unbewußter einsicht
+aufzusuchen, das sich durch das neue stück wahn ersetzt. der wahn
+entsteht unter dem einfluß des wirtes vom sonnenwirtshaus, gegen den
+sich hanold so merkwürdig leichtgläubig benimmt, als hätte er eine
+suggestion von ihm empfangen. der wirt zeigt ihm eine metallene
+gewandfibel als echt und als besitztum jenes mädchens, das in den armen
+seines geliebten verschüttet aufgefunden wurde, und hanold, der kritisch
+genug sein könnte, um die wahrheit der geschichte sowie die echtheit der
+spange zu bezweifeln, ist sofort gläubig gefangen und erwirbt die mehr
+als zweifelhafte antiquität. es ist ganz unverständlich, warum er sich
+so benehmen sollte, und es deutet nichts darauf, daß die persönlichkeit
+des wirtes selbst uns dieses rätsel lösen könnte. es ist aber noch ein
+anderes rätsel in dem vorfall, und zwei rätsel lösen sich gern
+miteinander. beim verlassen des albergo erblickt er einen
+asphodelosschaft im glase an einem fenster und findet in ihm eine
+beglaubigung für die echtheit der metallspange. wie kann das nur
+zugehen? dieser letzte zug ist zum glück der lösung leicht zugänglich.
+die weiße blume ist wohl dieselbe, die er zu mittag der gradiva
+geschenkt, und es ist ganz richtig, daß durch ihren anblick an einem der
+fenster dieses gasthofes etwas bekräftigt wird. freilich nicht die
+echtheit der spange, aber etwas anderes, was ihm schon bei der
+entdeckung dieses bisher übersehenen albergo klar geworden. er hatte
+bereits am vortage sich so benommen, als suchte er in den beiden
+gasthöfen pompejis, wo die person wohne, die ihm als gradiva erscheine.
+nun, da er so unvermuteterweise auf einen dritten stößt, muß er sich im
+unbewußten sagen: also hier wohnt sie; und dann beim weggehen: richtig,
+da ist ja die asphodelosblume, die ich ihr gegeben; das ist also ihr
+fenster. dies wäre also die neue einsicht, die sich durch den wahn
+ersetzt, die nicht bewußt werden kann, weil ihre voraussetzung, die
+gradiva sei eine lebende, von ihm einst gekannte person, nicht bewußt
+werden konnte.
+
+wie soll nun aber die ersetzung der neuen einsicht durch den wahn vor
+sich gegangen sein? ich meine so, daß das überzeugungsgefühl, welches
+der einsicht anhaftete, sich behaupten konnte und erhalten blieb,
+während für die bewußtseinsunfähige einsicht selbst ein anderer, aber
+durch denkverbindung mit ihr verknüpfter vorstellungsinhalt eintrat. so
+geriet nun das überzeugungsgefühl in verbindung mit einem ihm eigentlich
+fremden inhalt, und dieser letztere gelangte als wahn zu einer ihm
+selbst nicht gebührenden anerkennung. hanold überträgt seine
+überzeugung, daß die gradiva in diesem hause wohne, auf andere
+eindrücke, die er in diesem hause empfängt, wird auf solche weise
+gläubig für die reden des wirtes, die echtheit der metallspange und die
+wahrheit der anekdote von dem in umarmung aufgefundenen liebespaar, aber
+nur auf dem wege, daß er das in diesem hause gehörte mit der gradiva in
+beziehung bringt. die in ihm bereitliegende eifersucht bemächtigt sich
+dieses materials, und es entsteht, selbst im widerspruch mit seinem
+ersten traum, der wahn, daß die gradiva jenes in den armen ihres
+liebhabers verstorbene mädchen war, und daß ihr jene von ihm erworbene
+spange gehört hat.
+
+wir werden aufmerksam darauf, daß das gespräch mit der gradiva und ihre
+leise werbung »durch die blume« bereits wichtige veränderungen bei
+hanold hervorgerufen haben. züge von männlicher begehrlichkeit,
+komponenten der libido, sind bei ihm erwacht, die allerdings der
+verhüllung durch bewußte vorwände noch nicht entbehren können. aber das
+problem der »leiblichen beschaffenheit« der gradiva, das ihn diesen
+ganzen tag über verfolgt, kann doch seine abstammung von der erotischen
+wißbegierde des jünglings nach dem körper des weibes nicht verleugnen,
+auch wenn es durch die bewußte betonung des eigentümlichen schwebens der
+gradiva zwischen tod und leben ins wissenschaftliche gezogen werden
+soll. die eifersucht ist ein weiteres zeichen der erwachenden aktivität
+hanolds in der liebe; er äußert diese eifersucht zu eingang der
+unterredung am nächsten tage und setzt es dann mit hilfe eines neuen
+vorwandes durch, den körper des mädchens zu berühren und sie, wie in
+längst vergangenen zeiten, zu schlagen.
+
+nun aber ist es zeit, uns zu fragen, ob denn der weg der wahnbildung,
+den wir aus der darstellung des dichters erschlossen haben, ein sonst
+bekannter oder ein überhaupt möglicher sei. aus unserer ärztlichen
+kenntnis können wir nur die antwort geben, es sei gewiß der richtige
+weg, vielleicht der einzige, auf dem überhaupt der wahn zu der
+unerschütterlichen anerkennung gelangt, die zu seinen klinischen
+charakteren gehört. wenn der kranke so fest an seinen wahn glaubt, so
+geschieht dies nicht durch eine verkehrung seines urteilsvermögens, und
+rührt nicht von dem her, was am wahne irrig ist. sondern in jedem wahn
+steckt auch ein körnchen wahrheit, es ist etwas an ihm, was wirklich den
+glauben verdient, und dieses ist die quelle der also so weit
+berechtigten überzeugung des kranken. aber dieses wahre war lange zeit
+verdrängt; wenn es ihm endlich gelingt, diesmal in entstellter form zum
+bewußtsein durchzudringen, so ist das ihm anhaftende überzeugungsgefühl
+wie zur entschädigung überstark, haftet nun am entstellungsersatz des
+verdrängten wahren und schützt denselben gegen jede kritische
+anfechtung. die überzeugung verschiebt sich gleichsam von dem unbewußten
+wahren auf das mit ihm verknüpfte, bewußte irrige, und bleibt gerade
+infolge dieser verschiebung dort fixiert. der fall von wahnbildung, der
+sich aus hanolds erstem traum ergab, ist nichts als ein ähnliches, wenn
+auch nicht identisches beispiel einer solchen verschiebung. ja, die
+geschilderte entstehungsweise der überzeugung beim wahne ist nicht
+einmal grundsätzlich von der art verschieden, wie sich überzeugung in
+normalen fällen bildet, wo die verdrängung nicht im spiele ist. wir alle
+heften unsere überzeugung an denkinhalte, in denen wahres mit falschem
+vereint ist, und lassen sie vom ersteren aus sich über das letztere
+erstrecken. sie diffundiert gleichsam von dem wahren her über das
+assoziierte falsche und schützt dieses, wenn auch nicht so unabänderlich
+wie beim wahn, gegen die verdiente kritik. beziehungen, protektion
+gleichsam, können auch in der normalpsychologie den eigenen wert
+ersetzen. --
+
+ich will nun zum traum zurückkehren und einen kleinen, aber nicht
+uninteressanten zug hervorheben, der zwischen zwei anlässen des traumes
+eine verbindung herstellt. die gradiva hatte die weiße asphodelosblüte
+in einen gewissen gegensatz zur roten rose gebracht; das wiederfinden
+des asphodelos am fenster des albergo del sole wird zu einem wichtigen
+beweisstück für die unbewußte einsicht hanolds, die sich im neuen wahn
+ausdrückt, und dem reiht sich an, daß die rote rose am kleid des
+sympathischen jungen mädchens hanold im unbewußten zur richtigen
+würdigung ihres verhältnisses zu ihrem begleiter verhilft, so daß er sie
+im traum als »kollegin« auftreten lassen kann.
+
+wo findet sich nun aber im manifesten trauminhalt die spur und
+vertretung jener entdeckung hanolds, welche wir durch den neuen wahn
+ersetzt fanden, der entdeckung, daß die gradiva mit ihrem vater in dem
+dritten versteckten gasthof pompejis, im albergo del sole wohne? nun, es
+steht ganz und nicht einmal sehr entstellt im traume drin; ich scheue
+mich nur darauf hinzuweisen, denn ich weiß, selbst bei den lesern, deren
+geduld so weit bei mir ausgehalten hat, wird sich nun ein starkes
+sträuben gegen meine deutungsversuche regen. die entdeckung hanolds ist
+im trauminhalt, wiederhole ich, voll mitgeteilt, aber so geschickt
+versteckt, daß man sie notwendig übersehen muß. sie ist dort hinter
+einem spiel mit worten, einer zweideutigkeit geborgen. »irgendwo in der
+sonne sitzt die gradiva,« das haben wir mit recht auf die örtlichkeit
+bezogen, an welcher hanold den zoologen, ihren vater, traf. aber soll es
+nicht auch heißen können: in der »sonne«, d. i. im albergo del sole, im
+gasthaus zur sonne wohnt die gradiva? und klingt das »irgendwo«, welches
+auf die begegnung mit dem vater keinen bezug hat, nicht gerade darum so
+heuchlerisch unbestimmt, weil es die bestimmte auskunft über den
+aufenthalt der gradiva einleitet? ich bin nach meiner sonstigen
+erfahrung in der deutung realer träume eines solchen verständnisses der
+zweideutigkeit ganz sicher, aber ich getraute mich wirklich nicht,
+dieses stückchen deutungsarbeit meinen lesern vorzulegen, wenn der
+dichter mir nicht hier seine mächtige hilfe leihen würde. am nächsten
+tage legt er dem mädchen beim anblick der metallspange das nämliche
+wortspiel in den mund, welches wir für die deutung der stelle im
+trauminhalt annehmen. »hast du sie vielleicht in der _sonne_ gefunden,
+die macht hier solche kunststücke.« und da hanold diese rede nicht
+versteht, erläutert sie, sie meine den gasthof zur _sonne_, die sie hier
+»sole« heißen, von woher auch ihr das angebliche fundstück bekannt ist.
+
+und nun möchten wir den versuch wagen, den »merkwürdig unsinnigen« traum
+hanolds durch die hinter ihm verborgenen, ihm möglichst unähnlichen,
+unbewußten gedanken zu ersetzen. etwa so: »sie wohnt ja in der sonne mit
+ihrem vater, warum spielt sie solches spiel mit mir? will sie ihren
+spott mit mir treiben? oder sollte es möglich sein, daß sie mich liebt
+und mich zum manne nehmen will?« -- auf diese letztere möglichkeit
+erfolgt wohl noch im schlaf die abweisende antwort: das sei ja die
+reinste verrücktheit, die sich scheinbar gegen den ganzen manifesten
+traum richtet.
+
+kritische leser haben nun das recht, nach der herkunft jener bisher
+nicht begründeten einschaltung zu fragen, die sich auf das
+verspottetwerden durch die gradiva bezieht. darauf gibt die
+»traumdeutung« die antwort, wenn in den traumgedanken spott, hohn,
+erbitterter widerspruch vorkommt, so wird dies durch die unsinnige
+gestaltung des manifesten traumes, durch die absurdität im traume
+ausgedrückt. letztere bedeutet also kein erlahmen der psychischen
+tätigkeit, sondern ist eines der darstellungsmittel, deren sich die
+traumarbeit bedient. wie immer an besonders schwierigen stellen kommt
+uns auch hier der dichter zu hilfe. der unsinnige traum hat noch ein
+kurzes nachspiel, in dem ein vogel einen lachenden ruf ausstößt und die
+lacerte im schnabel davonträgt. einen solchen lachenden ruf hatte hanold
+aber nach dem verschwinden der gradiva gehört. er kam wirklich von der
+zoë her, die den düsteren ernst ihrer unterweltsrolle mit diesem lachen
+von sich abschüttelte. die gradiva hatte ihn wirklich ausgelacht. das
+traumbild aber, wie der vogel die lacerte davonträgt, mag an jenes
+andere in einem früheren traum erinnern, in dem der apoll von belvedere
+die kapitolinische venus davontrug.
+
+vielleicht besteht noch bei manchem leser der eindruck, daß die
+übersetzung der situation des eidechsenfanges durch die idee der
+liebeswerbung nicht genügend gesichert sei. da mag denn der hinweis zur
+unterstützung dienen, daß zoë in dem gespräch mit der kollegin das
+nämliche von sich bekennt, was hanolds gedanken von ihr vermuten, indem
+sie mitteilt, sie sei sicher gewesen, sich in pompeji etwas
+interessantes »auszugraben«. sie greift dabei in den archäologischen
+vorstellungskreis, wie er mit seinem gleichnis vom eidechsenfang in den
+zoologischen, als ob sie einander entgegenstreben würden und jeder die
+eigenart des anderen annehmen wollte.
+
+so hätten wir die deutung auch dieses zweiten traumes erledigt. beide
+sind unserem verständnis zugänglich geworden unter der voraussetzung,
+daß der träumer in seinem unbewußten denken all das weiß, was er im
+bewußten vergessen hat, all das dort richtig beurteilt, was er hier
+wahnhaft verkennt. dabei haben wir freilich manche behauptung aufstellen
+müssen, die dem leser, weil fremd, auch befremdlich klang, und
+wahrscheinlich oft den verdacht erweckt, daß wir für den sinn des
+dichters ausgeben, was nur unser eigener sinn ist. wir sind alles zu tun
+bereit, um diesen verdacht zu zerstreuen, und wollen darum einen der
+heikelsten punkte -- ich meine die verwendung zweideutiger worte und
+reden wie im beispiele: irgendwo in der _sonne_ sitzt die gradiva --
+gern ausführlicher in betrachtung ziehen.
+
+es muß jedem leser der »gradiva« auffallen, wie häufig der dichter
+seinen beiden hauptpersonen reden in den mund legt, die zweierlei sinn
+ergeben. bei hanold sind diese reden eindeutig gemeint, und nur seine
+partnerin, die gradiva, wird von deren anderem sinn ergriffen. so, wenn
+er nach ihrer ersten antwort ausruft: ich wußte es, so klänge deine
+stimme, und die noch unaufgeklärte zoë fragen muß, wie das möglich sei,
+da er sie noch nicht sprechen gehört habe. in der zweiten unterredung
+wird das mädchen für einen augenblick an seinem wahne irre, da er
+versichert, er habe sie sofort erkannt. sie muß diese worte in dem sinne
+verstehen, der für sein unbewußtes richtig ist als anerkennung ihrer in
+die kindheit zurückreichenden bekanntschaft, während er natürlich von
+dieser tragweite seiner rede nichts weiß und sie auch nur durch
+beziehung auf den ihn beherrschenden wahn erläutert. die reden des
+mädchens hingegen, in deren person die hellste geistesklarheit dem wahn
+entgegengestellt wird, sind mit absicht zweideutig gehalten. der eine
+sinn derselben schmiegt sich dem wahne hanolds an, um in sein bewußtes
+verständnis dringen zu können, der andere erhebt sich über den wahn und
+gibt uns in der regel die übersetzung desselben in die von ihm
+vertretene unbewußte wahrheit. es ist ein triumph des witzes, den wahn
+und die wahrheit in der nämlichen ausdrucksform darstellen zu können.
+
+durchsetzt von solchen zweideutigkeiten ist die rede der zoë, in welcher
+sie der freundin die situation aufklärt und sich gleichzeitig von ihrer
+störenden gesellschaft befreit; sie ist eigentlich aus dem buche
+herausgesprochen, mehr für uns leser als für die glückliche kollegin
+berechnet. in den gesprächen mit hanold ist der doppelsinn meist dadurch
+hergestellt, daß zoë sich der symbolik bedient, welche wir im ersten
+traume hanolds befolgt fanden, der gleichstellung von verdrängung und
+verschüttung, pompeji und kindheit. so kann sie mit ihren reden
+einerseits in der rolle verbleiben, die ihr der wahn hanolds anweist,
+anderseits an die wirklichen verhältnisse rühren und im unbewußten
+hanolds das verständnis für dieselben wecken.
+
+»ich habe mich schon lange daran gewöhnt, tot zu sein.« (g. p. 90.) --
+»für mich ist die blume der vergessenheit aus deiner hand die richtige.«
+(g. p. 90.) in diesen reden _meldet_ sich leise der vorwurf, der dann in
+ihrer letzten strafpredigt deutlich genug hervorbricht, wo sie ihn mit
+dem archäopteryx vergleicht. »daß jemand erst sterben muß, um lebendig
+zu werden. aber für die archäologen ist das wohl notwendig« (g. p. 141),
+sagt sie noch nachträglich nach der lösung des wahnes, wie um den
+schlüssel zu ihren zweideutigen reden zu geben. die schönste anwendung
+ihrer symbolik gelingt ihr aber in der frage: (g. p. 118) »mir ist's,
+als hätten wir schon vor zweitausend jahren einmal so zusammen unser
+brot gegessen. kannst du dich nicht darauf besinnen?«, in welcher rede
+die ersetzung der kindheit durch die historische vorzeit und das
+bemühen, die erinnerung an die erstere zu erwecken, ganz unverkennbar
+sind.
+
+woher nun diese auffällige bevorzugung der zweideutigen reden in der
+»gradiva«? sie erscheint uns nicht als zufälligkeit, sondern als
+notwendige abfolge aus den voraussetzungen der erzählung. sie ist nichts
+anderes als das seitenstück zur zweifachen determinierung der symptome,
+insofern die reden selbst symptome sind und wie diese aus kompromissen
+zwischen bewußtem und unbewußtem hervorgehen. nur daß man den reden
+diesen doppelten ursprung leichter anmerkt als etwa den handlungen, und
+wenn es gelingt, was die schmiegsamkeit des materials der rede oftmals
+ermöglicht, in der nämlichen fügung von worten jedem der beiden
+redeabsichten guten ausdruck zu verschaffen, dann liegt das vor, was wir
+eine »zweideutigkeit« heißen.
+
+während der psychotherapeutischen behandlung eines wahnes oder einer
+analogen störung entwickelt man häufig solche zweideutige reden beim
+kranken, als neue symptome von flüchtigstem bestand, und kann auch
+selbst in die lage kommen, sich ihrer zu bedienen, wobei man mit dem für
+das bewußtsein des kranken bestimmten sinn nicht selten das verständnis
+für den im unbewußten giltigen anregt. ich weiß aus erfahrung, daß diese
+rolle der zweideutigkeit bei den uneingeweihten den größten anstoß zu
+erregen und die gröbsten mißverständnisse zu verursachen pflegt, aber
+der dichter hatte jedenfalls recht, auch diesen charakteristischen zug
+der vorgänge bei der traum- und wahnbildung in seiner schöpfung zur
+darstellung zu bringen.
+
+
+
+
+iv.
+
+
+mit dem auftreten der zoë als arzt erwache bei uns, sagten wir bereits,
+ein neues interesse. wir würden gespannt sein zu erfahren, ob eine
+solche heilung, wie sie von ihr an hanold vollzogen wird, begreiflich
+oder überhaupt möglich ist, ob der dichter die bedingungen für das
+schwinden eines wahnes ebenso richtig erschaut hat wie die seiner
+entstehung.
+
+ohne zweifel wird uns hier eine anschauung entgegentreten, die dem vom
+dichter geschilderten falle solches prinzipielle interesse abspricht und
+kein der aufklärung bedürftiges problem anerkennt. dem hanold bleibe
+nichts anderes übrig, als seinen wahn wieder aufzulösen, nachdem das
+objekt desselben, die vermeintliche »gradiva« selbst, ihn der
+unrichtigkeit all seiner aufstellungen überführe und ihm die
+natürlichsten erklärungen für alles rätselhafte, z. b. woher sie seinen
+namen wisse, gebe. damit wäre die angelegenheit logisch erledigt; da
+aber das mädchen ihm in diesem zusammenhange ihre liebe gestanden, lasse
+der dichter, gewiß zur befriedigung seiner leserinnen, die sonst nicht
+uninteressante erzählung mit dem gewöhnlichen glücklichen schluß, der
+heirat, enden. konsequenter und ebenso möglich wäre der andere schluß
+gewesen, daß der junge gelehrte nach der aufklärung seines irrtums mit
+höflichem danke von der jungen dame abschied nehme und die ablehnung
+ihrer liebe damit motiviere, daß er zwar für antike frauen aus bronze
+oder stein und deren urbilder, wenn sie dem verkehr erreichbar wären,
+ein intensives interesse aufbringen könne, mit einem zeitgenössischen
+mädchen aus fleisch und bein aber nichts anzufangen wisse. das
+archäologische phantasiestück sei eben vom dichter recht willkürlich mit
+einer liebesgeschichte zusammengekittet worden.
+
+indem wir diese auffassung als unmöglich abweisen, werden wir erst
+aufmerksam gemacht, daß wir die an hanold eintretende veränderung nicht
+nur in den verzicht auf den wahn zu verlegen haben. gleichzeitig, ja
+noch vor der auflösung des letzteren, ist das erwachen des
+liebesbedürfnisses bei ihm unverkennbar, das dann wie selbstverständlich
+in die werbung um das mädchen ausläuft, welches ihn von seinem wahn
+befreit hat. wir haben bereits hervorgehoben, unter welchen vorwänden
+und einkleidungen die neugierde nach ihrer leiblichen beschaffenheit,
+die eifersucht und der brutale männliche bemächtigungstrieb sich bei ihm
+mitten im wahne äußern, seitdem die verdrängte liebessehnsucht ihm den
+ersten traum eingegeben hat. nehmen wir als weiteres zeugnis hinzu, daß
+am abend nach der zweiten unterredung mit der gradiva ihm zuerst ein
+lebendes weibliches wesen sympathisch erscheint, obwohl er noch seinem
+früheren abscheu vor hochzeitsreisenden die konzession macht, die
+sympathische nicht als neuvermählte zu erkennen. am nächsten vormittag
+aber macht ihn ein zufall zum zeugen des austausches von zärtlichkeiten
+zwischen diesem mädchen und seinem vermeintlichen bruder, und da zieht
+er sich scheu zurück, als hätte er eine heilige handlung gestört. der
+hohn auf » und grete« ist vergessen, der respekt vor dem
+liebesleben bei ihm hergestellt.
+
+so hat der dichter die lösung des wahnes und das hervorbrechen des
+liebesbedürfnisses innigst miteinander verknüpft, den ausgang in eine
+liebeswerbung als notwendig vorbereitet. er kennt das wesen des wahnes
+eben besser als seine kritiker, er weiß, daß eine komponente von
+verliebter sehnsucht mit einer komponente des sträubens zur entstehung
+des wahnes zusammengetreten sind, und er läßt das mädchen, welches die
+heilung unternimmt, die ihr genehme komponente im wahne hanolds
+herausfühlen. nur diese einsicht kann sie bestimmen, sich seiner
+behandlung zu widmen, nur die sicherheit, sich von ihm geliebt zu
+wissen, sie bewegen, ihm ihre liebe zu gestehen. die behandlung besteht
+darin, ihm die verdrängten erinnerungen, die er von innen her nicht
+freimachen kann, von außen her wiederzugeben; sie würde aber keine
+wirkung äußern, wenn die therapeutin dabei nicht auf die gefühle
+rücksicht nehmen, und die übersetzung des wahnes nicht schließlich
+lauten würde: sieh', das bedeutet doch alles nur, daß du mich liebst.
+
+das verfahren, welches der dichter seine zoë zur heilung des wahnes bei
+ihrem jugendfreunde einschlagen läßt, zeigt eine weitgehende
+ähnlichkeit, nein, eine volle übereinstimmung im wesen, mit einer
+therapeutischen methode, welche dr. _j. breuer_ und der verfasser im
+jahre  in die medizin eingeführt haben, und deren vervollkommnung
+sich der letztere seitdem gewidmet hat. diese behandlungsweise, von
+_breuer_ zuerst die »kathartische« genannt, vom verfasser mit vorliebe
+als »analytische« bezeichnet, besteht darin, daß man bei den kranken,
+die an analogen störungen wie der wahn hanolds leiden, das unbewußte,
+unter dessen verdrängung sie erkrankt sind, gewissermaßen gewaltsam zum
+bewußtsein bringt, ganz so wie es die gradiva mit den verdrängten
+erinnerungen an ihre kinderbeziehungen tut. freilich, die gradiva hat
+die erfüllung dieser aufgabe leichter als der arzt, sie befindet sich
+dabei in einer nach mehreren richtungen ideal zu nennenden position. der
+arzt, der seinen kranken nicht von vornherein durchschaut und nicht als
+bewußte erinnerung in sich trägt, was in jenem unbewußt arbeitet, muß
+eine komplizierte technik zu hilfe nehmen, um diesen nachteil
+auszugleichen. er muß es lernen, aus den bewußten einfällen und
+mitteilungen des kranken mit großer sicherheit auf das verdrängte in ihm
+zu schließen, das unbewußte zu erraten, wo es sich hinter den bewußten
+äußerungen und handlungen des kranken verrät. er bringt dann ähnliches
+zu stande, wie es norbert hanold am ende der erzählung selbst versteht,
+indem er sich den namen »gradiva« in »bertgang« rückübersetzt. die
+störung schwindet dann, während sie auf ihren ursprung zurückgeführt
+wird; die analyse bringt auch gleichzeitig die heilung.
+
+die ähnlichkeit zwischen dem verfahren der gradiva und der analytischen
+methode der psychotherapie beschränkt sich aber nicht auf diese beiden
+punkte, das bewußtmachen des verdrängten und das zusammenfallen von
+aufklärung und heilung. sie erstreckt sich auch auf das, was sich als
+das wesentliche der ganzen veränderung herausstellt, auf die erweckung
+der gefühle. jede dem wahne hanolds analoge störung, die wir in der
+wissenschaft als psychoneurose zu bezeichnen gewohnt sind, hat die
+verdrängung eines stückes des trieblebens, sagen wir getrost des
+sexualtriebes, zur voraussetzung, und bei jedem versuch, die unbewußte
+und verdrängte krankheitsursache ins bewußtsein einzuführen, erwacht
+notwendig die betreffende triebkomponente zu erneutem kampf mit den sie
+verdrängenden mächten, um sich mit ihnen oft unter heftigen
+reaktionserscheinungen zum endlichen ausgang abzugleichen. in einem
+liebesrezidiv vollzieht sich der prozeß der genesung, wenn wir alle die
+mannigfaltigen komponenten des sexualtriebes als »liebe« zusammenfassen,
+und dies rezidiv ist unerläßlich, denn die symptome, wegen deren die
+behandlung unternommen wurde, sind nichts anderes als niederschläge
+früherer verdrängungs- oder wiederkehrkämpfe und können nur von einer
+neuen hochflut der nämlichen leidenschaften gelöst und weggeschwemmt
+werden. jede psychoanalytische behandlung ist ein versuch, verdrängte
+liebe zu befreien, die in einem symptom einen kümmerlichen
+kompromißausweg gefunden hatte. ja, die übereinstimmung mit dem vom
+dichter geschilderten heilungsvorgang in der »gradiva« erreicht ihre
+höhe, wenn wir hinzufügen, daß auch in der analytischen psychotherapie
+die wiedergeweckte leidenschaft, sei sie liebe oder haß, jedesmal die
+person des arztes zu ihrem objekte wählt.
+
+dann setzen freilich die unterschiede ein, welche den fall der gradiva
+zum idealfall machen, den die ärztliche technik nicht erreichen kann.
+die gradiva kann die aus dem unbewußten zum bewußtsein durchdringende
+liebe erwidern, der arzt kann es nicht; die gradiva ist selbst das
+objekt der früheren, verdrängten liebe gewesen, ihre person bietet der
+befreiten liebesstrebung sofort ein begehrenswertes ziel. der arzt ist
+ein fremder gewesen und muß trachten, nach der heilung wieder ein
+fremder zu werden; er weiß den geheilten oft nicht zu raten, wie sie
+ihre wiedergewonnene liebesfähigkeit im leben verwenden können. mit
+welchen auskunftsmitteln und surrogaten sich dann der arzt behilft, um
+sich dem vorbild einer liebesheilung, das uns der dichter gezeichnet,
+mit mehr oder weniger erfolg zu nähern, das anzudeuten, würde uns viel
+zu weit weg von der uns vorliegenden aufgabe führen. --
+
+nun aber die letzte frage, deren beantwortung wir bereits einigemal aus
+dem wege gegangen sind. unsere anschauungen über die verdrängung, die
+entstehung eines wahnes und verwandter störungen, die bildung und
+auflösung von träumen, die rolle des liebeslebens und die art der
+heilung bei solchen störungen sind ja keineswegs gemeingut der
+wissenschaft, geschweige denn bequemer besitz der gebildeten zu nennen.
+ist die einsicht, welche den dichter befähigt, sein »phantasiestück« so
+zu schaffen, daß wir es wie eine reale krankengeschichte zergliedern
+können, von der art einer kenntnis, so wären wir begierig, die quellen
+dieser kenntnis kennen zu lernen. einer aus dem kreise, der, wie
+eingangs ausgeführt, an den träumen in der »gradiva« und deren möglichen
+deutung interesse nahm, wandte sich an den dichter mit der direkten
+anfrage, ob ihm von den so ähnlichen theorien in der wissenschaft etwas
+bekannt worden sei. der dichter antwortete, wie vorauszusehen war,
+verneinend und sogar etwas unwirsch. seine phantasie habe ihm die
+»gradiva« eingegeben, an der er seine freude gehabt habe; wem sie nicht
+gefalle, der möge sie eben stehen lassen. er ahnte nicht, wie sehr sie
+den lesern gefallen hatte.
+
+es ist sehr leicht möglich, daß die ablehnung des dichters nicht dabei
+halt macht. vielleicht stellt er überhaupt die kenntnis der regeln in
+abrede, deren befolgung wir bei ihm nachgewiesen haben, und verleugnet
+alle die absichten, die wir in seiner schöpfung erkannt haben. ich halte
+dies nicht für unwahrscheinlich; dann aber sind nur zwei fälle möglich.
+entweder wir haben ein rechtes zerrbild der interpretation geliefert,
+indem wir in ein harmloses kunstwerk tendenzen verlegt haben, von denen
+dessen schöpfer keine ahnung hatte, und haben damit wieder einmal
+bewiesen, wie leicht es ist, das zu finden, was man sucht, und wovon man
+selbst erfüllt ist, eine möglichkeit, für die in der literaturgeschichte
+die seltsamsten beispiele verzeichnet sind. mag nun jeder leser selbst
+mit sich einig werden, ob er sich dieser aufklärung anzuschließen
+vermag; wir halten natürlich an der anderen, noch erübrigenden
+auffassung fest. wir meinen, daß der dichter von solchen regeln und
+absichten nichts zu wissen brauche, so daß er sie in gutem glauben
+verleugnen könne, und daß wir doch in seiner dichtung nichts gefunden
+haben, was nicht in ihr enthalten ist. wir schöpfen wahrscheinlich aus
+der gleichen quelle, bearbeiten das nämliche objekt, ein jeder von uns
+mit einer anderen methode, und die übereinstimmung im ergebnis scheint
+dafür zu bürgen, daß beide richtig gearbeitet haben. unser verfahren
+besteht in der bewußten beobachtung der abnormen seelischen vorgänge bei
+anderen, um deren gesetze erraten und aussprechen zu können. der dichter
+geht wohl anders vor; er richtet seine aufmerksamkeit auf das unbewußte
+in seiner eigenen seele, lauscht den entwicklungsmöglichkeiten desselben
+und gestattet ihnen den künstlerischen ausdruck, anstatt sie mit
+bewußter kritik zu unterdrücken. so erfährt er aus sich, was wir bei
+anderen erlernen, welchen gesetzen die betätigung dieses unbewußten
+folgen muß, aber er braucht diese gesetze nicht auszusprechen, nicht
+einmal sie klar zu erkennen, sie sind infolge der duldung seiner
+intelligenz in seinen schöpfungen verkörpert enthalten. wir entwickeln
+diese gesetze durch analyse aus seinen dichtungen, wie wir sie aus den
+fällen realer erkrankung herausfinden, aber der schluß scheint
+unabweisbar, entweder haben beide, der dichter wie der arzt, das
+unbewußte in gleicher weise mißverstanden, oder wir haben es beide
+richtig verstanden. dieser schluß ist uns sehr wertvoll; um seinetwegen
+war es uns der mühe wert, die darstellung der wahnbildung und
+wahnheilung sowie die träume in _jensens_ »gradiva« mit den methoden der
+ärztlichen psychoanalyse zu untersuchen. --
+
+wir wären am ende angelangt. ein aufmerksamer leser könnte uns noch
+mahnen, wir hätten eingangs hingeworfen, träume seien als erfüllt
+dargestellte wünsche, und wären dann den beweis dafür schuldig
+geblieben. nun, wir erwidern, unsere ausführungen könnten wohl zeigen,
+wie ungerechtfertigt es wäre, die aufklärungen, die wir über den traum
+zu geben haben, mit der einen formel, der traum sei eine
+wunscherfüllung, decken zu wollen. aber die behauptung besteht und ist
+auch für die träume in der gradiva leicht zu erweisen. die latenten
+traumgedanken -- wir wissen jetzt, was darunter gemeint ist -- können
+von der mannigfaltigsten art sein; in der gradiva sind es »tagesreste«,
+gedanken, die ungehört und unerledigt vom seelischen treiben des wachens
+übrig gelassen sind. damit aber aus ihnen ein traum entstehe, wird die
+mitwirkung eines -- meist unbewußten -- wunsches erfordert; dieser
+stellt die triebkraft für die traumbildung her, die tagesreste geben das
+material dazu. im ersten traume norbert hanolds konkurrieren zwei
+wünsche miteinander, um den traum zu schaffen, der eine selbst ein
+bewußtseinsfähiger, der andere freilich dem unbewußten angehörig und aus
+der verdrängung wirksam. der erste wäre der bei jedem archäologen
+begreifliche wunsch, augenzeuge jener katastrophe des jahres 79 gewesen
+zu sein. welches opfer wäre einem altertumsforscher wohl zu groß, wenn
+dieser wunsch noch anders als auf dem wege des traumes zu verwirklichen
+wäre! der andere wunsch und traumbildner ist erotischer natur; dabei zu
+sein, wenn die geliebte sich zum schlafen hinlegt, könnte man ihn in
+grober oder auch unvollkommener fassung aussprechen. er ist es, dessen
+ablehnung den traum zum angsttraum werden läßt. minder augenfällig sind
+vielleicht die treibenden wünsche des zweiten traumes, aber wenn wir uns
+an dessen übersetzung erinnern, werden wir nicht zögern, sie gleichfalls
+als erotische anzusprechen. der wunsch, von der geliebten gefangen
+genommen zu werden, sich ihr zu fügen und zu unterwerfen, wie er hinter
+der situation des eidechsenfanges konstruiert werden darf, hat
+eigentlich passiven, masochistischen charakter. am nächsten tage schlägt
+der träumer die geliebte, wie unter der herrschaft der gegensätzlichen
+erotischen strömung. aber wir müssen hier innehalten, sonst vergessen
+wir vielleicht wirklich, daß hanold und die gradiva nur geschöpfe des
+dichters sind.
+
+
+
+
+anzeige.
+
+
+die »=schriften zur angewandten seelenkunde=«, deren erstes heft hiemit
+vor die öffentlichkeit tritt, wenden sich an jenen weiteren kreis von
+gebildeten, die, ohne gerade philosophen oder mediziner zu sein, doch
+die wissenschaft vom seelischen des menschen nach ihrer bedeutung für
+das verständnis und die vertiefung unseres lebens zu würdigen wissen.
+die abhandlungen werden in zwangloser folge erscheinen und jedesmal eine
+einzige arbeit bringen, welche die anwendung psychologischer
+erkenntnisse auf themata der kunst und literatur, kultur- und
+religionsgeschichte und analoger gebiete unternimmt. diese arbeiten
+werden bald den charakter einer exakten untersuchung, bald den einer
+spekulativen bemühung an sich tragen, das eine mal ein größeres problem
+zu umfassen, das andere mal ein beschränkteres zu durchdringen
+versuchen; in allen fällen aber werden sie von der natur originaler
+leistungen sein und es vermeiden, bloßen referaten oder kompilationen zu
+gleichen.
+
+der herausgeber fühlt sich verpflichtet, für die originalität und die
+allgemeine würdigkeit der in dieser sammlung erscheinenden aufsätze
+einzustehen. im übrigen will er weder die unabhängigkeit seiner
+beiträger antasten, noch für die äußerungen derselben verantwortlich
+gemacht werden. daß die ersten nummern der sammlung besondere rücksicht
+auf die von ihm selbst in der wissenschaft vertretenen lehren nehmen,
+soll für die auffassung des unternehmens nicht bestimmend werden. die
+sammlung steht vielmehr den vertretern abweichender meinungen offen und
+hofft, der mannigfaltigkeit von gesichtspunkten und prinzipien in der
+heutigen wissenschaft ausdruck geben zu können.
+
+    =der verlag.=
+    =der herausgeber.=
+
+
+
+
+  [ im folgenden werden alle geänderten textzeilen angeführt, wobei
+    jeweils zuerst die zeile wie im original, danach die geänderte zeile
+    steht.
+
+  untergangen, dann vom reliefbild und der stellung des fußes, die den
+  untergegangen, dann vom reliefbild und der stellung des fußes, die den
+
+  die hier in der villa des diomèdes ihren tod gefunden hatten. aber das
+  die hier in der villa des diomedes ihren tod gefunden hatten. aber das
+
+  indentifizierung der beiden personen einen einzigen konkreten ausdruck
+  identifizierung der beiden personen einen einzigen konkreten ausdruck
+
+  des asphodels am fenster des albergo del sole wird zu einem wichtigen
+  des asphodelos am fenster des albergo del sole wird zu einem wichtigen
+
+  traumgedanken -- wir wissen jetzt, was darunter gemeint ist-- können
+  traumgedanken -- wir wissen jetzt, was darunter gemeint ist -- können
+
+  ]
+
+
+
+
+
+
+
+

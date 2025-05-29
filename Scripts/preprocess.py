@@ -1,7 +1,7 @@
 import os
 import re
 
-BOOKS_DIR = r"C:"  # Raw string for Windows path
+BOOKS_DIR = "../Books"  # Raw string for Windows path
 
 # Define regex patterns
 month_pattern = re.compile(r'\b(?:january|february|march|april|may|june|july|august|september|october|november|december)\b', re.IGNORECASE)

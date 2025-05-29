@@ -1,0 +1,865 @@
+
+
+transcribed from the  thomas j. wise pamphlet by david price, email
+ccx074@pglaf.org.  many thanks to norfolk and norwich millennium library,
+uk, for kindly supplying the images from which this transcription was
+made.
+
+
+
+
+
+                           grimhild’s vengeance
+                              three ballads
+
+
+                                    by
+                              george borrow
+
+                                  edited
+                          _with an introduction_
+                                    by
+                            edmund gosse, c.b.
+
+                                 london:
+                     printed for private circulation
+                                   
+
+               _copyright in the united states of america_
+           _by houghton_, _mifflin & co. for clement shorter_.
+
+
+
+
+introduction
+_borrow and the kjæmpeviser_.
+
+
+the modern poetical literature of denmark opens with a collection of
+epical and lyrical poems from the middle ages, which are loosely
+connected under the title of _kjæmpeviser_ or heroic ballads.  of these
+the latest scholarship recognises nearly 500, but in the time of borrow
+the number did not much exceed 200.  these ballads deal with
+half-historic events, which are so completely masked by fantastic,
+supernatural and incoherent imagery that their positive relation to
+history can rarely be discovered.  nevertheless, they throw a very
+valuable light upon the manners of mediaeval society in scandinavia, and
+they are often of high poetical beauty.  no conjecture can be formed as
+to the authors of these ballads, and even the centuries in which they
+were composed are uncertain.  grimm believed them to be _uralt_, and
+attributed them to the 5th and 6th centuries.  but on linguistic grounds,
+this extreme antiquity cannot be maintained.  it is now supposed that
+they were composed at various times between  and , and that in
+their present form they bear the stamp of the period when they were first
+collected by the danish antiquaries of the sixteenth century.
+
+the circumstances in which this famous collection of folk-songs came into
+public notice were of a romantic nature.  sophia, queen of denmark, when
+sailing across the sound in the year , was driven by stress of
+weather to take shelter in the little island-harbour of hveen, where the
+famous observatory stood, close by the house of the astronomer, tycho
+brahe.  it so happened that at that very time brahe was entertaining as a
+guest the most eminent danish man of letters of that age, anders sörensen
+vedel (–).  vedel, whose labours were encyclopædic, was engaged
+in preserving all the monuments of danish mediaeval history and learning
+which he could discover in the monasteries and libraries of denmark.  he
+had been much encouraged in this work by the monk of roeskilde, peder
+olufsen, who on his death-bed, about , had placed in vedel’s hands
+all the mss. which he had collected.  queen sophia, cloistered in the
+ouranienborg with her antiquary and her astronomer, and waiting for the
+tempest to moderate, desired to be amused with stories of her national
+history.  vedel ventured to read to her some of the legendary poems which
+still lingered among the people, and she was so enchanted with them, that
+she commanded him, when he returned to the mainland, to make a collection
+of these ballads and publish them.
+
+accordingly, in , vedel issued from the private printing-press in his
+house called liljeborg at ribe in jutland, a selection of 100 mediaeval
+ballads, under the title of _et hundred udvalgte danske viser_.  this
+volume is one of the landmarks of scandinavian, and indeed of european,
+literary history.  vedel made another collection, this time of ancient
+love-ballads, which he called _tragica_; it was not published until ,
+long after his death.  but the volume of  is the fountain-head of all
+that has since been written about the heroic ballads of the north, and it
+is impossible to overrate the services of vedel in preserving what was
+even then ready to disappear.  it seems, moreover, that he was careful of
+the text, and later scholarship has come more and more to place
+confidence in his transcripts.
+
+this was, unfortunately, not the case with the next pioneer in the same
+field, although he deserves great credit also.  peter petersen syv
+(–) was a very able philologist, who was also a minor poet of
+ambition.  in  he reprinted and edited vedel’s text, adding 100 more
+_kjæmpeviser_ which had been unknown to vedel.  but his work was not so
+well done; syv was something of a pedant, and unfortunately either too
+critical or not critical enough.  he ventured to correct the
+irregularities of the ballads, and not seldom has spoiled them.  he bore
+the proud title of philologer royal of denmark, and he was above all
+things else a grammarian.  but he added to our store of ballads.  no one,
+during the eighteenth century, advanced on the labours of vedel and syv,
+and their treasuries of beautiful anonymous poetry seem to have attracted
+no attention in the rest of europe.
+
+but in the first decade of the nineteenth century, in consequence of what
+we call the romantic revival, poets and scholars in many countries turned
+simultaneously to the treasure-house of danish balladry.  jamieson’s
+work, to which i shall presently return, dates from ; about the same
+time herder translated one or two _kjæmpeviser_ in his _stimmen der
+völker_, and in  wilhelm carl grimm started his full translation,
+under the title of _altdänische heldenlieder_, _balladen and märchen_,
+which appeared in .  but it appears that grimm had heard and perhaps
+even seen the proofs of a danish edition of the very highest importance,
+the _udvalgte danske viser fra middlealderen_, the first volume of which
+was brought out by abrahamson, nyerup and rahbek in . {9}  abrahamson
+dropped out, but the work was completed by the others, the fifth and last
+volume appearing in .
+
+borrow’s relation to these texts must now be considered, and it offers
+some difficulty.  in  he published a volume of verse entitled
+_romantic ballads translated from the danish_, and in the preface he uses
+these words:—“i expect shortly to lay before the public a complete
+translation of the kiæmpé viser, made by me some years ago.”  it is
+necessary to bear in mind that there are these two collections of
+borrow’s translations from the _kjæmpeviser_, the second of which, as we
+shall see, he did not contrive to publish.
+
+no doubt, he was anxious to emphasise the novelty and rarity of his
+literary adventures.  but his attitude to jamieson is very strange.  as
+early as  robert jamieson (–) had published a volume of
+_popular ballads_, in which he had translated several of the
+_kjæmpeviser_ and had pointed out their value in relation to the ancient
+scottish poems of a similar kind.  sir walter scott paid much flattering
+attention to jamieson’s work, which also attracted a good deal of notice
+in denmark and germany, and inspired the _drei altschottische lieder_ of
+g. d. gräter ().  it is scarcely possible that borrow was not aware
+of all this, yet he never mentions the name of jamieson, and in  he
+spoke boldly of himself as breaking into “unknown and untrodden paths.”
+it is not impossible that sir walter scott’s patronage of jamieson had
+something to do with the ungenerous petulance of borrow’s references to
+the great novelist in _lavengro_.
+
+but borrow’s attitude to the contemporary scholars of denmark is still
+more surprising.  without saying so in exact words, he gives us to
+understand that he translated all the _kjæmpeviser_ from the original
+edition of vedel.  it would be rash to say that borrow was not acquainted
+with the _danske viser_ of , for he does, in one place, quote,
+whether at first-hand or not, from vedel’s preface.  but it requires
+great faith to accept his own account of his approach to the poems.  in
+_lavengro_, at a point which knapp has dated , borrow tells with
+brilliant picturesqueness how he purchased, by permitting the wife of an
+elderly yeoman to kiss his cheek, “a strange and uncouth-looking volume”
+which had formed part of the kit of some red-haired fishermen who were
+wrecked on the norfolk coast:—
+
+    it was not very large, but instead of the usual covering was bound in
+    wood, and was compassed with strong iron clasps.  it was a printed
+    book, but the pages were not of paper, but vellum, and the characters
+    were black, and resembled those generally termed gothic. . . .  and
+    now i had in my possession a danish book, which, from its appearance,
+    might be supposed to have belonged to the very old danes indeed: but
+    how was i to turn it to any account?  i had the book it is true, but
+    i did not understand the language, and how was i to overcome that
+    difficulty?  hardly by poring over the book; yet i did pore over the
+    book again, but with all my poring i could not understand it; and
+    then i became angry, and i bit my lips till the blood came; and i
+    occasionally tore a handful from my hair and flung it upon the floor,
+    but that did not mend the matter, for still i did not understand the
+    book, which however i began to see was written in rhyme. . . .  for
+    the book was a book of ballads, about the deeds of knights and
+    champions, and men of huge stature. . . . collected by one anders
+    vedel.
+
+this story of a vellum copy of the rare edition of  thrown up on the
+shore of norfolk with a common sailor’s effects is told in borrow’s best
+style.  but how far is it true?  whether it is entirely or only partly
+romance, the inference that borrow translated the _kjæmpeviser_ by the
+light of nature from this “gothic” text must be abandoned.  he  or 
+not have handled a copy of vedel, but he made his translations, as
+internal evidence amply proves, from the five volumes of abrahamson,
+nyerup and rahbek, published between  and .  this was a cheap and
+highly accessible edition, and was in the hands of the booksellers
+complete at least six years before borrow began to read danish.  he
+accepted the text of these scholars and their arrangement; he translated
+their notes word for word,—and gave them out as his own; his volume of
+ and the privately printed later ballads are wholly founded upon
+abrahamson, nyerup and rahbek, and yet, so far as i can discover, he
+never mentions their names in any part of his writings.  he professed
+that the public should believe his knowledge to be wholly derived from a
+mysterious black-letter volume washed up on the sands of his native
+county, and read by him with agonies of labour by the pure light of
+divination.
+
+in , , a prospectus was put forth in which “_the songs of
+scandinavia_, _translated by dr. bowring and mr. borrow_” was offered to
+subscribers at the price of a guinea.  this was an attempt on the part of
+borrow, languidly assented to by bowring, to give publicity to some 70
+_kjæmpeviser_ which the former had translated since the publication of
+his _romantic ballads_ of .  “i am terribly afraid,” writes borrow,
+“of being forestalled in the kæmpe viser by some of those scotch
+blackguards,” a hit, no doubt, at jamieson.  he was working hard at his
+translations, and he was further stimulated by meeting in london with the
+danish theologian and poetical student, nikolai frederik severin
+grundtvig, who had done much to popularise the _kjæmpeviser_ in his
+native country.  but bowring proved a broken reed, and borrow suffered
+once again one of those disappointments which so naturally embittered
+him.  it was not until , however, some seven years before his death,
+that he finally gave up all hope.  the mss. of his translations of the
+_kjæmpeviser_ passed into the hands of mrs. macoubrey.
+
+the ballad of _grimhild’s vengeance_ (_grimhilds hevn_) is given in three
+versions by abrahamson, nyerup and rahbek.  borrow has closely followed
+the editors of  and has translated each of the versions.  he added a
+number of notes, the ms. of which is mutilated, but not so much so as to
+prevent us from observing that these are translated word for word from
+the appendix of abrahamson, nyerup and rahbek, but, so far as can be
+discerned from the fragmentary and mutilated manuscripts at our disposal,
+without a sign of acknowledgment.
+
+                                                             edmund gosse.
+
+
+
+
+grimhild’s vengeance
+_song the first_
+
+
+it was the proud dame grimhild
+   prepares the mead and beer,
+and unto her the valiant knights
+   she bids from far and near.
+
+she bade them come and not delay
+   to tournament and strife;
+it was the hero hogen
+   who lost his youthful life.
+
+it was the hero hogen
+   along the shore went he,
+and there he found upon the sand
+   the maiden of the sea.
+
+“now hail, thou maiden of the sea,
+   of wisdom thou art rife;
+say, if i go to hvenild’s land,
+   can i retain my life?”
+
+“of castles hast thou plenty, knight,
+   and store of gold so red,
+if thou shouldst go to hvenild’s land
+   thou wilt be smitten dead.”
+
+it was the hero hogen,
+   he straight drew forth his blade,
+and he struck off at a single blow
+   the head of the ocean-maid.
+
+then out amid the sound he cast
+   the head all dropping gore;
+the body rolled down after it,
+   in the deep they joined once more.
+
+it was the hero hogen,
+   he further wandered on,
+until the ferry-carl he spied
+   the ocean beach upon.
+
+“now list to me, good ferry-carl,
+   convey me o’er the sound,
+and i’ll give thee my good gold ring,
+   it weighs full fifteen pound.”
+
+“i will not take thee o’er the sound
+   for all thy gold so red,
+if thou dost go to hvenild’s land
+   thou wilt be smitten dead.”
+
+it was the hero hogen
+   his faulchion round did whirl,
+and he struck off at a single blow
+   the head of the ferry-carl.
+
+he gave the gold ring off his arm
+   unto the dead man’s wife:
+“take that as an atoning gift
+   for the ferryman’s young life.”
+
+sir gunter and sir gernot {17}
+   the vessel pushed from shore;
+so wrathful was the weather then,
+   so wild the waters’ roar.
+
+so furious then the weather was,
+   so wild the waters grew,
+asunder soon in hogen’s hand
+   the oar of iron flew.
+
+the iron oar asunder flew
+   in hero hogen’s hand,
+then with their broad and gilded shields
+   the heroes steered to land.
+
+they ’gan to scour their faulchions
+   when they to land had won;
+and there so proud a damsel stood,
+   and their employ looked on.
+
+o she was slender at the waist,
+   and just of proper height;
+swelling was her white bosom,
+   and maidenlike her gait.
+
+they went away to nörborough,
+   where the gate was wont to stand:
+“o where is now the porter
+   who here should be at hand?”
+
+“o here am i the porter,
+   to watch and ward i wait;
+did i but know whence ye were come
+   i’d bear your message straight.”
+
+“o’er many a league of land and sea
+   we hither have repaired;
+dame grimhild is our sister,
+   the truth is now declared.”
+
+in then went the porter,
+   his stand by the board he took;
+quoth he: “before our portal wait
+   two knights of noble look.
+
+“two men of birth illustrious
+   now wait before our gate;
+the one he bears a fiddle,
+   and a gilded helm his mate.”
+
+“o he no fiddle bears, i trow,
+   for any noble’s pay;
+and whencesoever they are come
+   a prince’s sons are they.”
+
+it was the proud dame grimhild drew
+   her mantle o’er her head;
+she hurried to the castle hall,
+   and in her brothers bade.
+
+“o will ye go to bower now
+   and drink the mead and wine?
+or will ye sleep in beds of silk
+   with two fair maids of mine?”
+
+it was the proud dame grimhild drew
+   her mantle o’er her head,
+and into the stone chamber
+   to her warriors all she sped.
+
+“here sit ye all my valiant men
+   and drink the mead and wine;
+now who will hero hogen slay,
+   though he be brother mine?
+
+“whoe’er will do the doughty deed
+   of striking hogen dead,
+shall master of my castles be,
+   and of my gold so red.”
+
+then answered her a warrior,
+   a baron of that land:
+“o i will earn the prize this day,
+   forsooth with this good hand.
+
+“o i will do the doughty deed,
+   strike hero hogen dead;
+then i will o’er thy castles rule,
+   and o’er thy gold so red.”
+
+then answered folker spillemand,
+   with mighty iron spear:
+“i’ll set my mark upon thee, knave,
+   before thou scap’st from here.”
+
+and at the first blow he has laid
+   full fifteen warriors low:
+“ha bravely, folker spillemand,
+   you touch your fiddle bow!”
+
+he smote to death the warriors,
+   a bridge of them he made;
+and broad and long i ween it was,
+   full rough with them he play’d.
+
+above were laid the oxen hides,
+   below the pease so small;
+that trick has vanquished hogen,
+   he fell down first of all.
+
+it was the hero hogen
+   would have bounded up with speed:
+“no, no, desist, my brother,
+   thou know’st what was agreed.
+
+“no, no, desist, my brother,
+   prove true to what you swore,
+if ever you should fall to earth
+   you’d never rise up more.”
+
+so brave was hero hogen
+   to his word he true was found;
+upon his two knees stood he then,
+   and got his mortal wound.
+
+but still three warriors slaughtered he,
+   they were not of the least,
+towards hammeren went he then to find
+   his father’s treasure-chest.
+
+fortune was yet to him so kind,
+   the damsel proud he won;
+and she was haughty hvenild,
+   he begot with her a son.
+
+that gallant son, hight ranke,
+   avenged his father well;
+grimhild entombed by niflung’s gold
+   of hunger-pain did yell.
+
+then soon from out the land to bern
+   in lombardy he strayed;
+and there ’mongst danish men he was,
+   and prowess high displayed.
+
+his mother she remained at home,
+   from her got hveen its name
+’mongst knights and warriors through the world,
+   so widely goes its fame.
+
+
+
+
+grimhild’s vengeance
+_song the second_
+
+
+it was the proud dame grimhild
+   the wine with spices blends;
+and unto many a hero free
+   she messengers outsends.
+
+“go bid them come to battle,
+   go bid them come to strife;
+i reckon many a hero free
+   shall lose his youthful life.”
+
+’twas hero hogen’s mother
+   she has dreamt a wondrous dream,
+that the stately courser tumbled
+   as they rode him o’er the stream.
+
+“that dream, dear son, a meaning has,
+   i rede thee cautious be;
+beware thee of thy sister,
+   she deals in treachery.”
+
+it was the hero hogen
+   he rode along the strand:
+the mermaid there he found at play
+   upon the yellow sand.
+
+“now tell me, pretty mermaid,
+   the future thou dost know,
+shall i the prize in hvenland win,
+   and warriors overthrow?”
+
+“now listen, hero hogen,
+   thou art of kemps the flower,
+enough of land thou dost possess,
+   enough of fame and power.
+
+“and thou both gold and silver hast,
+   and castles fair to see,
+if thou dost go to hvenland,
+   for thy best it will not be.
+
+“goods and dominion hast thou, knight,
+   and store of gold so red,
+if thou dost go to hven this year
+   thou wilt be smitten dead.”
+
+it was the hero hogen, he
+   grew wrathful at her speech;
+he strook the wretched mermaid
+   that she fell dead on the beach.
+
+“there do thou lie and rest thee now,
+   thou foul and wicked fay;
+i know well how to guard me
+   and my enemies to slay.”
+
+there rode up to the portal
+   of dame grimhilda’s home,
+two men of noble bearing,
+   their steeds were all in foam.
+
+the blow they gave the portal
+   rang all the castle through:
+“o where art thou the porter,
+   why dost thou not undo?”
+
+then up and spoke the porter,
+   so ready to deceive:
+“i dare admit no stranger, sirs,
+   without my lady’s leave.”
+
+he hied him to dame grimhild,
+   to her he said in haste:
+“two knights before our castle wait,
+   admittance they request.”
+
+“o that is folker spillemand,”
+   dame grimhild she did say;
+“and that is hero hogen,
+   my brothers both are they.”
+
+down went dames and maidens then
+   to see the twain alight;
+they all were slender in the waist,
+   and just of proper height.
+
+it was the proud dame grimhild
+   herself in scarlet clad;
+then out she hastened to the court,
+   the heroes in she bade.
+
+“’tis custom of our castle none
+   a faulchion shall unsheath,
+i cannot bear the sight of one
+   since good king sigfred’s death.”
+
+“’twas i that slew king sigfred
+   e’en with my own right hand,
+’twas i that slew king ottelin
+   and him could few withstand.
+
+“’twas then i lost my acton good,
+   and trusty courser grey,
+in yonder ice-cold winters
+   when besieging troy we lay.”
+
+then up the hall she led them
+   to a hundred of her train;
+with naked faulchions brandished, they
+   confront the heroes twain.
+
+“if any knight among ye be
+   who eat here of my bread,
+will dare to slay my brother,
+   i will give him gold so red.”
+
+when heard that folker spillemand
+   he would no longer wait;
+his sword from out the sheath he drew,
+   down shivered fell the gate.
+
+when he had bared the mighty blade
+   he felt at heart so light;
+he slew full fifteen warriors
+   with blows of manly might.
+
+“ha, ha,” said folker spillemand,
+   “right goes my fiddle now”—
+and then the hero hogen slew
+   full twenty blow by blow.
+
+it was the proud dame grimhild
+   with wrath well nigh was wode:
+“much better had ye stayed at home
+   than come to our abode.
+
+“here will a hundred widows be
+   ’ere ye this fight have done.”
+then answered hero hogen:
+   “’twas by thyself begun.”
+
+it was the hero hogen,
+   his helmet lifted he:
+“all under my cuirass of steel
+   i burn so furiously.
+
+“i’m weary, weary to the heart,
+   and weak in verity;
+o would to god in heaven is
+   a horn of wine had i.”
+
+he lifted up his vizor,
+   of human blood a draught
+he took—“_in nomine domini_”
+   the hero hogen quaffed.
+
+see, there the knights of grimhild
+   lie slaughtered every one;
+and that has hero hogen,
+   and valiant folker done.
+
+“god bless thee, folker spillemand,
+   who here a corse dost lie,
+full well and without treachery
+   thy faulchion thou didst ply.
+
+“full four and twenty fell for one,
+   their death from him they found;
+he slew them like a warrior,
+   ere sank he on the ground.
+
+“ah, brother, by my heart beloved,
+   thy coming cost me dear;
+how woeful is my destiny
+   that i should lose thee here.
+
+“and if to me is granted
+   to live another day,
+my sister this shall expiate,
+   i her will burn or slay.”
+
+the evil fate’s o’ertaken her.
+   she’s paid for all her ill;
+king hogen’s son caused grimhild
+   to starve within the hill.
+
+
+
+
+grimhild’s vengeance
+_song the third_
+
+
+o, where will ye find kempions
+   so bold and strong of hand,
+as hogen and his brother dear,
+   sir folker spillemand?
+
+forward stepped she, bodild,
+   hero hogen’s mother, crying:
+“methought the gallant coursers all
+   were either dead or dying.
+
+“and i possess full wit enow
+   that vision to explain;
+if to the hvenish land ye go
+   there’ll many a man be slain.”
+
+out rode the valiant brothers where
+   the river rolled its tide,
+there they the mermaid found asleep
+   beneath a green hill’s side.
+
+“awake, awake, thou mermaiden,
+   thou creature wondrous fair;
+say, will my life in danger be
+   if i to hven repair?”
+
+“o turn thee, hero hogen, back,
+   thou art a knight so bold,
+thou dost in thy own land possess
+   full many a tower and hold.
+
+“return, return to thine own land,
+   seek not the warrior joust,
+if thou dost to thy sister go
+   thy young life it will cost.”
+
+it was the hero hogen then
+   his sword he straight drew out;
+it was the wretched mermaiden
+   from whom the head he smote.
+
+“by thee i now am prophesied,
+   and dead thou liest there;
+i to the land of hven will go,
+   soon as the wind is fair.”
+
+then forward went the heroes two,
+   they found the ferry-house:
+“arise, arise, good ferryman,
+   and come here out to us.
+
+“now listen what i say to thee,
+   convey us o’er the sound,
+and i will give thee this gold ring,
+   it weighs full fifteen pound.”
+
+“thy bright gold ring keep thou thyself,
+   i it will not possess,
+i never to the town should come
+   but ’twould bring me distress.
+
+“i never should seek the town but i
+   should therefore sure be chidden;
+i shall not bear thee o’er to-day,
+   my lady’s me forbidden.”
+
+and hero hogen grew so wroth,
+   so wroth grew he in mood;
+the ferryman’s head hewed he off,
+   so widely reeked the blood.
+
+then straight the bloody head he cast
+   mid öresund’s swift water;
+and, bidding them meet in the deep,
+   he cast the body after.
+
+sir gunter and sir gernot, they
+   their vessel steered from land;
+but when they reached the middle sound
+   the tempest was at hand.
+
+o then the oars asunder snapped
+   in folker’s hardy hand;
+here hogen guided with his shield
+   the ship with toil to land.
+
+then cast they out their anchors,
+   all on the yellow sand;
+it was the hero hogen,
+   he stepped the first to land.
+
+the others they did not delay,
+   but each as he could best
+arrayed himself right manfully,
+   and folker ’bove the rest.
+
+abroad the warden standing was,
+   he on the rampart strode:
+“o, there are come our country to,
+   two athelings so proud.
+
+“o kemps are come our country to,
+   and men so bold to see;
+they all yclad in iron are,
+   their steeds come springing free.
+
+“the one he bears a hawk in flight,
+   gold on his buckler gleams;
+the other bears a fiddle, and
+   a prince’s son he seems.”
+
+out came she, dame grimhild,
+   she so fair to speak was able:
+“he does not bear a fiddle
+   for he serves a noble’s table.
+
+“but they two gallant warriors are,
+   two sprouts of dukely tree;
+to know them i have cause enough,
+   they brothers are to me.”
+
+it was the count sir gunselin,
+   his warriors he bespake:
+“o, hither hero hogen comes,
+   a fray with him we’ll make.
+
+“o, we will fight with them to-day,
+   and we will slay them all;
+then his red gold and forest green
+   shall in our power fall.”
+
+then just within the portal
+   hero hogen answer made:
+“with you i’ll blythely hazard that,
+   if ye be not afraid.”
+
+out then went the heroes all,
+   so sorely fast they hied;
+then unto old as well as young
+   such evil did betide.
+
+in hand of folker spillemand
+   the sword asunder flew;
+he seized a big steel spear, above
+   the door that met his view.
+
+and seven such gallant warriors
+   he slew at the first blow:
+“in drotten’s holy name,” he said,
+   “my fiddle be known now.
+
+“now merrily my fiddle goes,
+   ye dance and spring around;
+i sweat with strong exertion
+   in my acton narrow bound.”
+
+it was the count sir gunselin,
+   at grimhild’s feet he kneeled:
+“o part us from those hardy knights,
+   or help against them yield.”
+
+“fight on, fight on, my good men all,
+   on whom i bread bestow;
+from fighting ye must not desist
+   till folker lyeth low.”
+
+“now hear thou, sister grimhild,
+   i am gored with many a wound;
+thou ne’er to me wert true or good,
+   and that i now have found.
+
+“now i’ve not closed an eye, an eye
+   for days and nights full seven;
+i’ll avenge my murder certainly
+   ere life from me is riven.
+
+“gone is my sword so trusty,
+   and my good steel spear’s in twain;
+but all my care i would forget
+   could i a weapon gain.”
+
+then answered him young hubba yern,
+   he stood by him so near:
+“i’ll lend to thee the gallant sword,
+   my brother loved so dear.
+
+“methink thou art a hero bold,
+   and mighty strong beside;
+and that maybe in verity
+   on thy fiddle bow espied.”
+
+“ah, thanks to thee, young hubba yern!
+   a true kemp thee i call;
+i’ll serve thee faithful in return,
+   so shall my brothers all.”
+
+then hewed he, folker spillemand,
+   ’twas heard up to the sky;
+he’d rather perish like a man
+   than basely quit and fly.
+
+                                * * * * *
+
+                                 london:
+               printed for thomas j. wise, hampstead, n.w.
+                   _edition limited to thirty copies_.
+
+
+
+
+footnotes:
+
+
+{9}  the question of priority is rather obscure, but it appears, from a
+letter written by grimm in , , in reply to the critics of his
+work, that his translation was begun in , when he was not aware of
+the work undertaken by abrahamson, nyerup and rahbek, but that before his
+book was published, nyerup communicated to him some of the results of the
+investigations of the three danish editors.  grimm seems to have worked
+upon an edition of syv published in copenhagen in , which accounts
+for the corrupt state of some of grimm’s text.  a good deal of unpleasant
+controversy was awakened on the subject, but all this has now long
+slumbered under the dust of a century.
+
+{17}  squires in attendance upon hogen.
+
+
+
+
+
+

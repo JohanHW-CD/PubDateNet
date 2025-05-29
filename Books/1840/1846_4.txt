@@ -1,0 +1,2837 @@
+
+phrenology examined.
+
+
+
+
+                          phrenology examined.
+
+                             by p. flourens,
+     member of the french academy, perpetual secretary of the royal
+        academy of sciences (institute of france), member of the
+      royal societies of london and edinburg, of the royal academy
+      of sciences of stockholm, of munich, and of turin, etc. etc.
+       professor of comparative physiology at the natural history
+                            museum at paris.
+
+                “j’ai un sentiment clair de ma liberté.”
+
+                    bossuet, traité du libre arbitre.
+
+             translated from the second edition of , by
+                      charles de lucena meigs, m.d.
+                    memb. amer. phil. soc. etc. etc.
+
+                              philadelphia:
+                            hogan & thompson.
+                                  .
+
+         entered according to act of congress, in the year ,
+                       by charles d. meigs, m. d.
+       in the clerk’s office of the district court for the eastern
+                        district of pennsylvania.
+
+
+
+
+to dr. james jackson, of boston.
+
+
+my dear sir:
+
+perhaps i have taken too great a liberty in sending to you in this public
+manner, and in praying you to accept a copy of m. flourens’ ingenious
+work. i have a very sincere desire that you should read the inquiry;
+for i feel sure, that if you approve of it, the studious portion of our
+countrymen who  peruse it, will concur in the opinion of a gentleman
+so justly distinguished as yourself in every good word and work, and
+so capable of judging as to the salutary or evil tendency of the
+productions of our teeming press.
+
+inasmuch as many of our countrymen have heretofore felt, and many do
+now feel, desirous to know the truth as to the question of the multiple
+nature of the human mind, i have here translated the examination, in
+order that they might have an opportunity to learn what is thought of
+gall’s doctrines by one of the best and most precise thinkers in europe.
+
+professor flourens, by his writings on the brain and nervous system, by
+his courses of lectures at the jardin des plantes, by numerous writings
+on various scientific subjects, by his position in the institute, has
+acquired a place among the literary and scientific celebrities of the
+present age. the amiable and elegant manners, and the fine disposition of
+this distinguished character, coincide with his acknowledged learning,
+and exactness, and zeal, to accumulate upon him the public respect and
+esteem. it is therefore with great confidence that i present to you this
+copy of his criticism upon phrenology, since i suppose that every writing
+of so good a man might prove acceptable to you, and to the studious
+portion of our countrymen generally.
+
+i invoke your approbation of what i cannot but deem a masterly criticism
+of the doctrines of gall. so highly have i appreciated it, that i cannot
+readily suppose it possible to rise from its perusal, without being
+convinced that gall was wholly mistaken in his views of the human mind;
+and of course, that all the cranioscopists, mesmerizers, and diviners,
+who have followed his track, or risen up on the basis of his opinions,
+are equally in error.
+
+in order to have a just view of human responsibility, it is indispensable
+to entertain the justest notions of the nature of the human mind. if
+phrenology _be an unsubstantial hypothesis_, no phrenologist is fit
+to be a juror, a judge, or a legislator: for since all human law—the
+whole social compact—and indeed all divine law, as relative to human
+propensities and actions—is founded on some real nature of the soul
+and mind, there is risk that manifestly erroneous conceptions of the
+freewill, of the conscience, of the judgment, and the perceptive powers,
+&c.  mislead the juror, the judge, and the legislator, in their vote,
+their opinion, and their notion of rights and wrongs.
+
+if i am correct in entertaining these apprehensions as to the influence
+of false metaphysics on the public characters i have enumerated, there is
+abundant cause to rejoice when a blow is struck, like that pulverizing
+blow which is given in this work, to so considerable an error. there are
+thousands among the young and ardent and curious of our countrymen and
+countrywomen, whose minds  be likewise led astray from the truth; but
+if it be mischievous for the judge and the juror and the legislator
+to entertain erroneous views upon the nature of the understanding, the
+mind, or the soul, it is equally to be deprecated where the error is sown
+broadcast in the land.
+
+tares, if not in themselves poisonous, serve at best to choke up the
+useful or beautiful plants that ought to be cultivated in the fields of
+science or morals; but you will find that m. flourens regards them as
+poisons.
+
+has not m. flourens clearly refuted the phrenologists? and has he not, in
+doing so, performed a useful and an acceptable service?
+
+i pray you to believe that i am, with the most grateful respect and the
+sincerest esteem,
+
+                   your obliged and faithful servant,
+
+                                                        charles d. meigs.
+
+philadelphia, dec. 10, .
+
+
+
+
+to the memory of descartes.
+
+
+
+
+author’s preface.
+
+
+having been a witness to the progress of phrenology, i was led to the
+composition of the following treatise.
+
+each succeeding age has a philosophy of its own.
+
+the seventeenth century recovered from the philosophy of descartes; the
+eighteenth recovered from that of locke and condillac: is the nineteenth
+to recover from that of gall?
+
+this is a really important question.
+
+i propose, in this work, to examine phrenology as it appears in the
+writings of gall, of spurzheim, and of broussais.
+
+my wish is to be brief. there is, however, one great secret in the art of
+being brief: it is to be clear.
+
+i frequently quote descartes: i even go further; for i dedicate my work
+to his memory. i am writing in opposition to a bad philosophy, while i am
+endeavouring to recall a sound one.
+
+
+
+
+contents.
+
+
+         i. of gall.—of his doctrine in general                 17
+
+        ii. of gall.—of the faculties                           47
+
+       iii. of gall.—the organs                                 59
+
+        iv. of spurzheim                                        96
+
+         v. of broussais                                       115
+
+        vi. broussais’s psycology                              121
+
+       vii. broussais’s physiology                             125
+
+      viii. of gall                                            127
+
+    note i. anatomical relations supposed by gall to exist
+              between the organs of the external senses and
+              the organs of the intellectual faculties         131
+
+        ii. difference between instinct and understanding      133
+
+       iii. gall as an observer                                137
+
+        iv. the animal spirits                                 139
+
+         v. exaggeration of broussais, even in phrenology      140
+
+        vi. contractility of broussais                         142
+
+       vii. real labours of gall as to the brain               143
+
+
+
+
+i.
+
+of gall.
+
+of his doctrine in general.
+
+
+the great work in which gall sets forth his doctrine is well known.[1]
+that work shall serve as the groundwork of my examination. i shall
+examine in succession each of the questions studied by the author; merely
+introducing some slight changes in the order in which they are arranged.
+
+the entire doctrine of gall is contained in two fundamental propositions,
+of which the first is, that understanding resides exclusively in the
+brain, and the second, that each particular faculty of the understanding
+is provided in the brain with an organ proper to itself.
+
+now, of these two propositions, there is certainly nothing new in the
+first one, and perhaps nothing true in the second one.
+
+let us commence our examination with the first proposition.
+
+i say that in the first proposition, namely, that the brain is the
+exclusive seat of the understanding, there is nothing new. gall himself
+admits this to be the case.
+
+“for a long time,” says he, “both philosophers and physiologists, as
+well as physicians, have contended that the brain is the organ of the
+soul.”[2] the opinion that the brain, (as a whole, or such and such
+parts of the brain considered separately,) is the seat of the soul,
+is, in fact, as old as learning itself. descartes placed the soul in
+the _pineal gland_, willis in the _corpora striata_, lapeyronie in the
+_corpus callosum_, &c. &c.
+
+as to the more recent authorities, gall quotes sœmmerring, who says
+precisely that, “the brain is the exclusive instrument of all sensation,
+all thought, and all will,”[3] &c. he quotes haller, who proves (proves
+is the very expression made use of by gall himself,) that “sensation does
+not take place at the point where the object touches the nerve, the point
+where the impression is made, but in the brain.”[4] he might have quoted
+many other authorities to the same effect.
+
+were not cabanis’s writings anterior to the time of gall? and did not
+he say, “in order to obtain a just idea of those operations whose result
+is thought, the brain must be considered as a peculiar organ designed to
+produce it, just as the stomach and the bowels are designed to produce
+digestion, the liver to secrete the bile,” &c.?[5] a proposition so
+extravagant as to become almost ridiculous, but which is in truth the
+very proposition of gall himself, except as to some exaggeration in the
+terms employed.
+
+antecedently to the time of gall, both sœmmerring and cuvier, in the
+comparative anatomy of the various classes of animals, had investigated
+the ratio existing between the development of the encephalon and that
+of the intellectual power. the following remarkable phrase is from the
+pen of cuvier: “the proportion of the brain to the medulla oblongata, a
+proportion which is greater in man than in all other animals, is a very
+good index of the perfection of the creature’s intelligence, because
+it is the best index of the preeminence of the organs of reflection
+above the organs of the external senses.”[6] and this other still more
+remarkable phrase: “in animals the intelligence appears to be greater in
+proportion as the volume of the hemispheres is greater.”[7]
+
+gall, in an especial manner, contends against the assertion of bichat,
+who remarks that “the influence of the passions is exerted invariably
+upon the organic life, and not upon the animal life; all the signs that
+characterise them are referable to the former and not to the latter.
+gestures, which are the mute exponents of the sentiments and the
+understanding, afford a remarkable proof of this truth. when we wish
+to signify something relative to the memory, the imagination, to our
+perception, to the judgment, &c. the hand moves involuntarily towards
+the head: if we wish to express love, joy, grief, hatred, it is directed
+towards the region of the heart, the stomach, or the bowels.”[8]
+
+doubtless, there is much that might be criticised in the foregoing words
+of bichat; nevertheless, to say that the passions expend their influences
+upon the organic life, is not the same thing as to say that they reside
+or exist there. bichat had already remarked, that “every species of
+sensation has its centre in the brain, for sensation always supposes both
+impression and perception.”[9] furthermore, regarding this distinction,
+(which as yet has not been drawn with sufficient clearness,) between the
+parts that are the seats of the passions, and the parts that are affected
+by their action, gall might have found in descartes the following
+remark, which is not less judicious than acute.
+
+“although,” says he, writing to leroy, “the spirits that move the
+muscles come from the brain, we must, nevertheless, assign as seats of
+the passions, the places that are most considerably affected by them;
+hence, i say, the principal seat of the passions, as far as they relate
+to the body, is the heart, because it is the heart that is most sensibly
+affected by them; but their place is in the brain, in as far as they
+affect the soul, for the soul cannot suffer immediately, otherwise than
+through the brain.”[10]
+
+as i am quoting descartes, who, i ask, more clearly than descartes has
+perceived that the soul can have only a very circumscribed seat in the
+economy, and that that circumscribed seat is the brain itself?
+
+“we know,” says he, “that, properly speaking, it is not inasmuch as the
+soul is in the members that serve as organs to the exterior senses, that
+the soul feels, but inasmuch as she is in the brain, where she exercises
+the faculty denominated common sense.”[11]
+
+he elsewhere observes: “surprise is expressed because i do not recognise
+any other point of sensation except that which exists in the brain; but
+all physicians and surgeons will, i hope, assist me in proving this
+point, for they are aware of the common fact that a person who has been
+subjected to amputation of a limb, continues to feel pain in a part that
+he no longer possesses.”[12]
+
+here then, according to descartes, we find that the soul is situated,
+that is to say, _feels_ in the brain, and only in the brain. the
+following passage shows with what precision he excluded even the
+external senses from any participation with the functions of the soul.
+
+“i have shown,” says he, “that size, distance, and form are perceived
+only by the reason; and that, by deducing them the one from the
+other.”[13]
+
+“i cannot agree with the assertion that this error (the error caused
+by the bent appearance of a stick partly plunged into water,) is not
+corrected by the understanding but by the touch; for, although the sense
+in question makes us judge that the stick is straight, yet that cannot
+correct the error of vision; but furthermore, it is requisite that reason
+should teach us to confide, in this case, rather to our judgment after
+touching, than to the judgment that we come to after using our eyes; but
+this reason cannot be attributed to the sense, but to the understanding
+alone; and in this very example, it is the understanding that corrects
+the error of the sense.”[14]
+
+the brain, then, is the exclusive seat of the soul; and all sensation,
+even those operations that appear to depend upon the simple external
+sense, is function of the soul.
+
+gall falls back upon condillac, who, much less rigorous in this
+particular than descartes, says, that “all our faculties proceed from
+the senses.”[15] but when condillac speaks thus, he evidently speaks
+by ellipsis, for he immediately adds these words: “the senses are only
+occasional causes. they do not feel; it is the soul that alone feels,
+through the medium of the organs.”[16]
+
+now, if it be the _soul_ only that feels, _à fortiori_, it is the soul
+only that _remembers_, that _judges_, that _imagines_, &c. _memory_,
+_judgment_, _imagination_, &c., in a word, all our faculties, are
+therefore of the soul, and therefore come from the soul, and not from the
+senses.
+
+there is no philosopher who has exaggerated more than helvetius the
+influence of the senses upon the intelligence. but helvetius says, “in
+whatsoever manner we interrogate experience, she always answers that any
+greater or lesser superiority of mind is independent of any greater or
+lesser perfection of the senses.”[17]
+
+but i leave helvetius and condillac, and i return to descartes, to
+willis, to lapeyronie, to haller, sœmmerring, cuvier, &c. they all
+perceived and all asserted that the brain is the seat of the soul,
+and that it is so to the exclusion of the senses. therefore, the
+proposition that the brain is the exclusive seat of the soul is not a
+new proposition, and hence does not originate with gall. it belonged to
+science before it appeared in his doctrine. the merit of gall, and it is
+by no means a slender merit, consists in his having understood better
+than any of his predecessors the whole of its importance, and in having
+devoted himself to its demonstration. it existed in science before gall
+appeared—it  be said to reign there ever since his appearance. taking
+each particular sense, he excluded them all, one after another, from
+all immediate participation in the functions of the understanding.[18]
+far from being developed in the direct ratio of the intellection, most
+of them are developed in an inverse ratio. taste and smell are more
+developed in the quadruped than in man. sight and hearing are more so
+in the bird than in the quadruped. the brain alone is in all classes
+developed in the ratio of the understanding. the loss of a sense does
+not lead to the loss of the intelligence. the understanding survives the
+loss of sight and hearing. it might survive the loss of all the senses.
+to interrupt the communication between the sense and the brain, is enough
+to insure the loss of the sense. the mere compression of the brain, which
+abolishes the intellection, abolishes all the senses. far, therefore,
+from being organs of the intelligence, the organs of the senses are not
+even organs of the senses, they do not even exercise their functions as
+organs of the senses, except through the medium of the intelligence, and
+this intelligence resides only in the brain.
+
+the brain alone, therefore, is the organ of the soul;—is it the whole
+brain—the brain taken _en masse_? gall thought so, and spurzheim followed
+gall’s opinion; and all the phrenologists who have come after them have
+followed the examples of gall and spurzheim.
+
+yet, after all, it amounts to nothing. if we deprive an animal of its
+cerebellum, it loses only its locomotive action. if we deprive it of
+its tubercula quadrigemina, it loses its sight only; if we destroy its
+medulla oblongata, it loses its respiratory movements, and in consequence
+thereof, its life.[19] neither of these parts, therefore, that is to say,
+the cerebellum, the tubercula quadrigemina, and the medulla oblongata, is
+the organ of the understanding.
+
+the brain, properly so called, is so, and it alone. if we remove from an
+animal the brain, properly so called, or the hemispheres, it immediately
+loses its understanding, and loses nothing but its understanding.[20]
+
+the brain, en masse, the _encephalon_, is then a multiple organ; and
+this multiple organ consists of four particular organs: the cerebellum,
+the seat of the principle that regulates the movements of locomotion; the
+tubercula quadrigemina, seats of the principle that regulates the sense
+of sight; the medulla oblongata, in which resides the principle that
+determines the respiratory motions; and the brain proper, the seat, and
+the exclusive seat of the intelligence.[21]
+
+therefore, when the phrenologists promiscuously place the intellectual
+and moral faculties in the brain, considered en masse, they deceive
+themselves. neither the cerebellum, the quadrigeminal tubercles, nor
+the medulla oblongata can be regarded as seats of these faculties. all
+these faculties dwell solely in the brain, properly so called, or the
+hemispheres.
+
+the question as to the precise seat of the intelligence, has undergone a
+great change since the time of gall. gall believed that the intelligence
+was seated indifferently in the whole encephalon, and it has been proved
+that it resides only in the hemispheres.
+
+further, it is not the encephalon taken en masse that is developed in
+the ratio of the intelligence of the creature, but the hemispheres.
+the mammifera are the animals most highly endowed with intelligence;
+they have, other things being equal, the most voluminous hemispheres.
+birds are the animals most highly endowed with power of motion; their
+cerebellum is, other things being equal, the largest. reptiles are the
+most torpid and apathetic of animals; they have the smallest brain, &c.
+
+every thing concurs then to prove, that the encephalon, in mass, is a
+multiple organ with multiple functions, consisting of different parts, of
+which some are destined to subserve the locomotive motions, others the
+motions of the respiration, &c., while one single one, the brain proper,
+is designed for the purposes of the intellection.
+
+this being conceded, it is evident that the entire brain cannot be
+divided, as the phrenologists divide it, into a number of small organs,
+each of which is the seat of a distinct intellectual faculty; for
+the entire brain does not serve the purposes of what is called the
+intelligence. the hemispheres alone are the seats of the intellectual
+power; and consequently, the question as to whether the organ, the seat
+of the intelligence  be divided into several distinct organs, is a
+question relative solely to the uses and powers of the hemispheres.
+
+gall avers, and this is the second fundamental proposition of his
+doctrine, that the brain is divided into several organs, each one of
+which lodges a particular faculty of the soul. by the word _brain_, he
+understood the _whole brain_, and he thus deceived himself. let us reduce
+the application of his proposition to the hemispheres alone, and we
+shall see that he has deceived himself again.
+
+it has been shown by my late experiments, that we  cut away, either
+in front, or behind, or above, or on one side, a very considerable slice
+of the hemisphere of the brain, without destroying the intelligence.
+hence it appears, that quite a restricted portion of the hemispheres 
+suffice for the purposes of intellection in an animal.[22]
+
+on the other hand, in proportion as these reductions by slicing away the
+hemispheres are continued, the intelligence becomes enfeebled, and grows
+gradually less; and certain limits being passed, is wholly extinguished.
+hence it appears, that the cerebral hemispheres concur, by their whole
+mass, in the full and entire exercise of the intelligence.[23]
+
+in fine, as soon as one sensation is lost, all sensation is lost; when
+one faculty disappears, all the faculties disappear. there are not,
+therefore, different seats for the different faculties, nor for the
+different sensations. the faculty of feeling, of judging, of willing any
+thing, resides in the same place as the faculty of feeling, judging, or
+willing any other thing, and consequently this faculty, essentially a
+unit, resides essentially in a single organ.[24]
+
+the understanding is, therefore, a unit.
+
+according to gall, there are as many particular kinds of intellect as
+there are distinct faculties of the mind. according to him, each faculty
+has its perception, its memory, its judgment, will, &c., that is to say,
+all the attributes of the understanding, properly so called.[25]
+
+“all the intellectual faculties,” says he, “are endowed with the
+perceptive faculty, with attention, recollection, memory, judgment, and
+imagination.”[26]
+
+thus each faculty perceives, remembers, judges, imagines, compares,
+creates; but these are trifles—for each faculty _reasons_. “whenever,”
+says gall, “a faculty compares and judges of the relations of analogous
+or different ideas, there is an act of comparison, there is an act of
+judgment: a sequence of comparisons and judgments constitutes reasoning,”
+&c.[27]
+
+therefore, each and every faculty is an understanding by itself, and gall
+says so expressly. “there are,” says he, “as many different kinds of
+intellect or understanding as there are distinct faculties.”[28] “each
+distinct faculty,” says he, further, “is intellect or understanding—each
+_individual intelligence_ (the words are precise) has its proper
+organ.”[29]
+
+but, admitting all these _kinds of intellects_, all these _individual
+understandings_, where are we to seek for the general intelligence, the
+understanding, properly so called? it must, as you  please, be either
+an _attribute_ of each faculty,[30] or the _collective expression_ of
+all the faculties, or even the mere simple _result_ of their common and
+simultaneous action;[31] in one word, it cannot be that positive and
+single faculty which we understand, conceive of, and feel in ourselves,
+when we pronounce the word _soul_ or _understanding_.
+
+now here is the sum and the substance of gall’s psycology. for the
+understanding, essentially a unit faculty, he substitutes a multitude
+of little understandings or faculties, distinct and isolate. and, as
+these faculties, which perform just as he wills them to do—which he
+multiplies according to his pleasure,[32] seem in his eyes to explain
+certain phenomena which are not well explained by the lights of ordinary
+philosophy, he triumphs!
+
+he does not perceive that an explanation, which is words merely, adapts
+itself to any and to every thing. in the time of malebranche, every thing
+was explained by _animal spirits_; barthez explained every thing by his
+_vital principle_, &c.
+
+“this,” says gall, “explains how the same man  possess a judgment
+that is ready and sure as to certain objects, while it is imbecile
+as to certain others; how he  have the liveliest and most fruitful
+imagination upon some subjects, while it is cold and sterile upon
+others.”[33]
+
+“grant,” says he, further, “to the animals certain fundamental faculties,
+and you have the dog that follows the chase with _passion_; the weasel
+that strangles the poultry with _rage_; the nightingale that sings with
+_fervour_ beside his mate,”[34] &c.
+
+no doubt of it. but what sort of philosophy is that, that thinks to
+explain a fact by a word? you observe such or such a penchant in an
+animal, such or such a taste or talent in a man; _presto_, a particular
+faculty is produced for each one of these peculiarities, and you suppose
+the whole matter to be settled. you deceive yourself; your _faculty_ is
+only a _word_,—it is the name of the fact,—and all the difficulty remains
+just where it was before.
+
+besides, you speak only of the facts that you suppose yourself able
+to explain; you say nothing of those that you render by your system
+wholly inexplicable. you say not one word as to the unity of the
+understanding, the unity of the _me_, or you deny it. but the unity of
+the understanding, the unity of the _me_, is a fact of the conscious
+sense, and the conscious sense is more powerful than all the philosophies
+together.
+
+gall is always talking about observation, and he was indeed, as an
+observer, full of ingenuity. but, in order to follow out an observation,
+it must be traced to the very end, and we must accept all that it yields
+to our research; and observation every where gives, and shows every
+where, and above all things else, the unity of the understanding, the
+unity of the _me_.
+
+gall’s philosophy consists only in transmuting into a particular
+understanding each separate _mode_[35] of the understanding, properly so
+called.
+
+descartes had already said, “there are in us as many faculties as there
+are truths to be known.... but i do not think that any useful application
+can be made of this way of thinking; and it seems to me rather more
+likely to be mischievous, by giving to the ignorant occasion for
+imagining an equal number of little entities in the soul.”[36]
+
+it  well be supposed that gall, who in the word understanding sees
+nothing but an abstract word, expressive of the sum of our intellectual
+faculties, would also, in the word _will_, perceive nothing more than an
+abstract word, expressing the sum of our moral faculties.
+
+he had given a definition of _reason_: “the result of the simultaneous
+action of all the intellectual faculties.”[37] in the same way he defined
+_will_ to be “the result of the simultaneous action of the superior
+intellectual faculties.”[38] but gall always deceives himself; for reason
+and will are not _results_—they are _powers_, and primary powers of
+thought.
+
+gall, in a manner equally singular, defines _moral liberty_ or _free
+will_.
+
+“moral liberty,” says he, “is nothing more than the faculty of _being
+determined_, and of determining under motive.”[39] not so: liberty is
+precisely the power to determine against all motive. locke well defined
+liberty as _power_: to be determined, is to allow one’s self to be
+determined—that is, to _obey_.
+
+gall says again, “unlimited liberty supposes not only that man governs
+himself independently of all law, but that he is the creator of his own
+nature.”[40] not at all; it supposes that he  have choice—and in fact
+he does choose.
+
+lastly, gall says, “a phenomenon such as that of absolute liberty, would
+be a phenomenon occurring without any cause whatever.”[41] why without
+cause? the cause is in the power of choosing—and this power is a fact.
+
+gall’s whole doctrine is one series of errors, which press upon each
+other cumulatively. he resolves that the part of the brain in which
+the understanding resides shall be divided into many small organs,
+distinct from each other; a physiological error. he decries the unity
+of the understanding, and looks upon the will and the reason as mere
+results—psycological errors. in the free will he perceives merely a
+compulsory determination,[42] and consequently a mere result—this is a
+moral error.
+
+man’s liberty is a positive faculty, and not the simple passive result of
+the preponderance of one _motive_ over another _motive_, of one _organ_
+over another _organ_.[43]
+
+reason, will, liberty, are therefore, not as in gall’s doctrine,
+_positive faculties_, _active powers_; or rather, they are
+the understanding itself. reason, will, liberty, are in fact
+the understanding, as _conceiving_, _willing_, _choosing_, or
+_deliberating_.[44]
+
+the consciousness which feels itself to be one, feels itself free. and
+you will remark, that these two great facts given out by the inward
+sense, the consciousness, to wit, the unity of the understanding and the
+positive power of the free will, are precisely the two first facts denied
+by the philosophy of gall.
+
+and take good care to observe further, that if there be in us any thing
+that belongs to the _consciousness_, it is evidently and par excellence
+the sense of our personal unity; or what is more, the consciousness of
+our moral liberty.
+
+man is a moral force, only inasmuch as he is a free force. any philosophy
+that attempts the liberty of man, attempts, without knowing it, morals
+itself. man then is free, and as he is a moral agent only in proportion
+as he is free, it would seem that his liberty is the only attribute of
+his soul from which providence has designed to remove all the boundaries.
+
+“what is here very remarkable,” says descartes, “is that, of all within
+me, there is not one thing so perfect or so great, but that i know it
+might be greater and more perfect. thus, for example, if i consider my
+faculty of conceiving, i find it of very small extent, and very limited.
+if, in the same manner, i examine the memory, the imagination, or any
+other one of my faculties, i find not one that is not very limited and
+very small. within me there is only my will or my liberty of free will,
+which i feel to be so great that i conceive not the idea of another more
+full and of greater extent.”[45]
+
+
+
+
+ii.
+
+of gall.
+
+of the faculties.
+
+
+gall’s philosophy consists wholly in the substitution of _multiplicity_
+for _unity_. in place of one general and single brain,[46] he substitutes
+a number of small brains: instead of one general sole understanding,
+he substitutes several individual understandings.[47] these pretended
+_individual understandings_ are the _faculties_.
+
+now, gall admits the existence of twenty-seven of these faculties, each
+one of them (since each one is a peculiar understanding) endowed with its
+perceptive faculty, its memory, its judgment, its imagination; &c.[48]
+
+hence, there are twenty-seven perceptive faculties, twenty-seven
+memories, twenty-seven judgments, twenty-seven imaginations, &c.
+
+for, if we are to follow gall, each attribute is not less distinct than
+each faculty. the memory, the judgment, imagination, &c. of one faculty
+are not the memory, judgment, or imagination of another faculty.
+
+“the sense of numbers,” says he, “possesses a judgment for the relations
+of numbers; the sense of the arts, a judgment for works of art; but where
+the fundamental faculty is wanting, the judgment relative to objects of
+that faculty must necessarily be wanting likewise.”[49]
+
+he says further: “it is impossible for an individual to possess
+imagination and judgment for any object with the fundamental faculty for
+which he has not been gifted by nature.”[50]
+
+thus, beyond all doubt: there are twenty-seven faculties; and as there
+are twenty-seven faculties, there must be twenty-seven memories,
+judgments, imaginations, &c.
+
+in one word, there is no such thing as a general understanding; but
+there are twenty-seven special understandings, with three or four times
+twenty-seven distinct attributes of each. such is the entire psycology
+of gall.
+
+to proceed. gall’s twenty-seven faculties are: the instinct of
+propagation, love of offspring, self-defence, the carnivorous
+instinct, the sense of property, friendship, cunning, pride, vanity,
+circumspection, memory for things, memory for words, sense of locality,
+sense of persons, sense of language, of relations of colours, relations
+of sounds, relations of numbers, of mechanics, of comparative sagacity,
+the metaphysical genius, sarcasm, poetic talent, benevolence, imitation,
+religion, firmness.
+
+gall says that these faculties are innate,[51] and this assertion
+certainly will not be contested.
+
+locke, who so vigorously opposed the doctrine of innate ideas, never
+decried the _innateness_ of our faculties. he always regarded them as
+natural, that is to say, _innate_.[52]
+
+condillac himself, who charges locke with having considered the faculties
+of the soul as _innate_, in making these charges confounds the _faculties
+of the soul_ with the _operations of the soul_.[53]
+
+now, that which is perfectly true as to the _operations of the soul_,
+is by no means so as regards her _faculties_. all the faculties of the
+soul are innate and contemporary, for they are nothing more than _modes_
+of the soul; indeed, they are the soul itself, viewed under different
+aspects. but the operations of the soul succeed each other, and beget
+each other. there can be no memory without previous perception; there can
+be no judgment without recollection. in order that there  be a will,
+there must have been a judgment, &c.
+
+after saying that the faculties are innate, gall says also that they are
+_independent_.[54]
+
+and if, by the word _independent_, he means distinct, there is nothing
+less contestible. but if, by this word _independent_, he understood (as
+indeed he does understand) that each faculty is a real understanding, the
+question is altered and the difficulty begins.
+
+for, if each individual faculty is a proper understanding, it follows
+that there are as many understandings as there are faculties, and the
+understanding ceases to be _one_, and the _me_ is no longer _one_. i
+am well aware that this is exactly what gall means; he says it, and
+reiterates it throughout his work. he says it, but does not prove it. and
+how should he prove it? can we prove any thing against our consciousness?
+
+“i remark here, in the first place,” says descartes, “that there is a
+great difference between the mind and the body, in that the body is, by
+its nature, always divisible, and the mind wholly indivisible. for, in
+fact, when i contemplate it—that is, when i contemplate my own self—and
+consider myself as a thing that thinks, i cannot discover in myself any
+parts, but i clearly know and conceive that i am a thing absolutely one
+and complete.”[55]
+
+gall reverses the common philosophy, and it is worthy of remark, that
+the whole of his philosophy, which he thinks so novel,[56] is, to the
+very letter, nothing more nor less than this very inversion. according to
+common philosophy, there is one general understanding—a unit; and there
+are faculties which are but modes of this understanding. gall asserts
+that there are as many kinds of peculiar intelligences as there are
+faculties, and that the understanding in general is nothing more than a
+mode or attribute of each faculty. he says so expressly.
+
+his words are: “the intellectual faculty and all its subdivisions, such
+as perception, recollection, memory, judgment, and imagination, are not
+fundamental faculties, but merely their general attributes.”[57]
+
+gall first inverts the common philosophy, and then contends for the
+existence of all the consequences of that common philosophy.
+
+he suppresses the _me_, but insists that there is a soul. he abolishes
+the freewill, and yet contends that there is such a thing as morals. he
+makes of the idea of god an idea that is merely relative and conditional,
+but yet asserts that there  be such a thing as religion.
+
+i say he abolishes the _me_; for the _me_ is the soul. the soul is the
+understanding, general and one; but if there be no understanding as
+general, there can be no soul.
+
+according to gall, there is nothing real and positive except the
+_faculties_.
+
+and these faculties alone are possessed of organs. “none of my
+predecessors,” says he, “had any knowledge of those forces which alone
+are the functions of special cerebral organs.”[58]
+
+by the contrary reasoning, neither the will, nor the reason, nor the
+understanding, are possessed of any organs, for they are nothing but
+forces; they are nothing but nouns collective—words.
+
+“these observations  suffice,” says gall, “to convince the reader that
+there cannot exist any special organ of the will, or the freewill.”[59]
+he adds: “it is equally impossible that there should be any peculiar
+organ of the reason.”[60]
+
+finally he says: “from all that i have now said it follows, that the idea
+of an organ of the intellect or understanding is quite as inadmissible as
+the idea of an organ of the instinct.”[61]
+
+hence there can be nought but the faculties; and, according to gall,
+these faculties are so distinct, that he attributes to each particular
+one a separate organ.[62] he divides the understanding into little
+understandings.
+
+descartes expressed himself in the following words: “we do not conceive
+of any body, except as divisible; whereas the human mind cannot conceive
+of itself except as indivisible; for in fact we are incapable of
+conceiving of half a soul.”[63] gall, however, settles that point. he
+makes half souls. he retrenches or adds as many faculties as suits his
+plan. these faculties are separated by material limits. he goes so far
+as to say that such or such a faculty acts with greater or less facility
+upon such or such another faculty, according as one happens to be
+situated nearer to or farther off from the other.
+
+“as the organ of the arts,” says he, “is located far from that of the
+sense of colour, the circumstance explains why historical painters have
+rarely been colourists.”[64]
+
+thus, we find that the faculties alone are possessed of _forces_. these
+forces alone are endowed with organs; and these organs, by which they are
+kept separate from each other, separate them to distances sufficiently
+great to hinder, in certain cases, one given faculty from exercising any
+influence over another. therefore, there is no such thing as unity; there
+is no unit faculty, no unit understanding; there is no _me_; and if there
+be no _me_, there can be no soul.
+
+in the same way he abolishes the _freewill_. will, liberty, reason, in
+his view,[65] are nothing but _results_, as i have already stated.
+
+“to the end,” says he, “that man  not be confined merely to the
+ability to wish—in order that he  actually will—the concurrence of
+several superior faculties is requisite. the motives must be weighed,
+compared, and judged; the decision resulting from this operation is
+denominated will.”[66]
+
+“reason,” he further adds, “supposes a concerted action of the superior
+faculties. it is the judgment pronounced by the superior intellectual
+faculties.”[67]
+
+hence, the will is nothing but a _decision_; reason is nothing but a
+_judgment_. the faculties _concert together_. what a singular philosophy,
+which always substitutes the fictions of language for the facts of the
+conscious sense, and which is satisfied with those fictions!
+
+freewill is either a power, a force, or it is nothing. he resolves that
+it is merely a _result_. gall therefore abolishes the freewill.
+
+indeed, he makes of the idea of god nothing but a relative and
+conditional idea, for he supposes that this idea comes from a particular
+organ; and he supposes that that organ  possibly, in some case, be
+wanting.
+
+“it cannot be doubted,” says gall, “that the human race are endowed with
+an organ by means of which it recognises and admires the author of the
+universe.”[68]
+
+“god exists,” adds he, “for there is an organ to know and adore him.”[69]
+
+but he continues: “climate and other circumstances  obstruct the
+development of the cerebral part, by means of which the creator designed
+to reveal himself to his creature man.”[70]
+
+again: “if there were a people whose organization should be altogether
+defective in this respect, they would be as little susceptible as any
+other kinds of animal, of the religious idea or sentiment.”[71]
+
+further: “there is no god for beings whose organization does not bear the
+original stamp of determinate faculties.”[72]
+
+what! if i happen not to possess a little peculiar organ, (for it
+ be wanting,) can i not feel that god exists! and how can i be an
+intelligence, knowing myself, and yet not knowing that god is? i do not
+more strongly feel that i am, than that god is. “this idea,” (the idea of
+god) says descartes, “is born and produced along with me, just as is the
+idea of myself.”[73]
+
+my understanding, which perceives itself and feels itself to be an
+effect, necessarily perceives the intelligent cause which produced it.
+“it is a very evident thing,” says descartes again, “that there must
+be at least as much reality in a cause as in the effect it produces;
+and since i am a thing that thinks, whatsoever be in fact the cause of
+my being, i am compelled to confess, that _it also_ is something that
+thinks.”[74]
+
+hitherto i have considered gall’s philosophy only under its speculative
+points of view; what would it be, if considered in a practical relation?
+
+in one of his happy moments, diderot wrote the following very remarkable
+phrase: “the ruin of liberty overthrows all order and all government,
+confounds vice and virtue together, sanctions every monstrous infamy,
+extinguishes all shame and all remorse, and degrades and deforms without
+recovery the whole human race.”[75]
+
+nothing astonishes a phrenologist.
+
+“let us imagine,” says gall, “a woman in whom the love of offspring is
+but little developed, ... if, unfortunately, the organ of murder be very
+much developed in her, need we be surprised if her hand....”[76] &c.
+
+organization explains every thing.
+
+“these last named facts show us,” says gall, “that this detestable
+inclination (the inclination to commit murder) has its source in a vice
+of the organization.”[77]
+
+“let those haughty men,” says he again, “who cause nations to be
+slaughtered by thousands, know that they do not act of their own
+accord, but that nature herself has filled their hearts with rage and
+destructiveness.”[78]
+
+no, indeed! this is not what they must know; for, thanks be to god, it is
+not true. what they ought to know, what they ought to be told, is, that
+although providence has left to man the power to do evil, he has also
+endowed him with the power to do good. that which man ought to know, that
+which should be instilled into his mind and heart is, that he has a free
+power, and that this power ought not to be misdirected; and that he who
+in his own nature misdirects it, no matter under what form of philosophy
+he takes refuge, is a being who degrades his nature.
+
+under the title of _fundamental faculties_, gall confounds all things
+together—the passions, the instinct, the intellectual faculties. these
+faculties, which are at the basis of his whole philosophy, he knows not
+even how to denominate them. he calls them instincts,[79] inclinations,
+senses, memories, &c. there is a memory or sense of things, a memory
+or sense of persons, &c. he confounds the instinct that leads certain
+animals to live in elevated regions with pride, which is a moral
+sentiment in man;[80] the carnivorous instinct with courage;[81] he
+believes that conscience, (which is the soul judging itself,) is nothing
+but a modification of a particular sense, the sense of benevolence,
+&c.[82]
+
+the hesitation of his mind is visible every where.
+
+“i leave it to the reader,” says he, “to decide whether the fundamental
+faculty to which this penchant relates, should be denominated sense of
+elevation, self-esteem,” &c.[83]
+
+“to speak correctly,” continues he, “firmness is neither a penchant nor
+a faculty; it is a mode-of-being, which gives to a man a distinctive
+quality, which is called character.”[84]
+
+finally, he writes the following paragraph, perhaps the most singular
+one that he ever wrote, for it shows in the clearest manner how little
+confidence he had in his own psycology.
+
+“if we are materialists because we do not admit the existence of a
+unit-faculty of the soul, but recognise several primitive faculties,
+we ask whether the ordinary division of the faculties of the soul
+into understanding, will, attention, memory, judgment, imagination,
+and affections and passions, expresses nothing more than a primitive
+unit-faculty? if it be asserted that all these faculties are merely
+modifications of a sole and same faculty, what can hinder us from making
+the same assertion as to the faculties whose existence we do admit.”[85]
+
+to be sure, nothing prevents you. or rather every thing constrains you
+to do so. there is therefore one sole faculty, of which all the other
+faculties are but moods. you return then to the common philosophy, and
+consequently you no longer possess a peculiar philosophy.
+
+the problem proposed by gall is at the same time physiological,
+psycological, and anatomical.
+
+in our first article an account has been given of gall’s _physiology_,
+and it has been shown to be generally disproved by direct experiment.
+in the present one his _psycology_ has been examined, and it is confuted
+by the consciousness (_le sens intime_). it only remains for us now to
+examine his _anatomy_.
+
+
+
+
+iii.
+
+of gall.
+
+the organs.
+
+
+of all gall’s writings, his anatomy is that which has been most talked
+of, and yet it is the part least known.
+
+in the year , gall read to the first class of the institute a memoir
+on the anatomy of the brain;[86] and m. cuvier made a report upon that
+memoir. but neither in that memoir nor in the report do we find one
+word of _special anatomy_, of _secret anatomy_, of what might be called
+_anatomy of the doctrine_; or, in other terms, and as it would be
+expressed at the present day, of _phrenological anatomy_.
+
+the anatomy of gall’s memoir is nothing but a very ordinary anatomy.
+he insists that the cerebral nerves, all of them without exception,
+rise upwards from the medulla oblongata towards the encephalon; that
+the cineritious matter produces the white matter: he divides the fibres
+of the brain into _divergent_ and _convergent_; he supposes that each
+convolution of this organ, instead of being a full and solid mass, as is
+generally thought, is merely a fold[87] of nervous or medullary fibres,
+&c. &c.
+
+such are the questions discussed by gall; and it is sufficiently clear
+that, whatever side we take upon these questions, his doctrine assuredly
+would neither gain nor lose any thing.
+
+whether such or such a nerve ascends or descends; whether the white
+matter is produced by the gray; or whether, which is, to say the least,
+quite as probable, this be nonsense; whether this or that fibre goes out
+or comes in, diverges or converges, &c. &c. the doctrine of the plurality
+of brains, the doctrine of individual intelligences, will be neither more
+nor less true, more nor less doubtful.[88]
+
+m. cuvier, in his report, observed: “it is essential to repeat, were it
+merely for the information of the public, that the anatomical questions
+we have been considering, have no immediate and necessary connexion with
+the physiological doctrines taught by m. gall, as to the functions and
+relative volume of different parts of the brain; and that all that we
+have inquired into as to the structure of the brain, might be either true
+or false, without affording the least conclusion in favour of or against
+the doctrine.”[89]
+
+it is necessary not to make any mistake as to the real point of the
+question. gall’s doctrine goes to establish one and only one thing, to
+wit, _the plurality of intelligences_ and _the plurality of brains_.[90]
+that is what constitutes the special and peculiar doctrine; that
+is to say, different from the common doctrine, which admits but one
+understanding and a single brain. whatever goes to prove the plurality
+of understandings and brains belongs to gall’s doctrine; and whatever
+does not tend to prove the plurality of understandings and brains is in
+opposition to that doctrine.
+
+gall’s works then really contain two very distinct anatomies: one is
+a _general anatomy_, which has nothing in particular to do with his
+doctrine; the other is a _special anatomy_, which, supposing it to be
+true, would constitute the basis of his doctrine.
+
+now, a great deal has been said about gall’s general anatomy; but as to
+his special anatomy, i know of no one who has spoken of it. gall himself
+says as little as possible about it. in other matters he tells his
+opinions both very clearly and very positively: in this particular we are
+obliged to guess at them.
+
+when gall, in his _psycology_, substitutes the _faculties_ for the
+understanding, he defines those _faculties_. he defines them, as we have
+already seen, to be _individual intelligences_. how happens it, then,
+that in his anatomy, when he substitutes the organs of the brain for the
+brain itself, he does not define these organs? how strange! gall’s whole
+doctrine, all _phrenology_, rests upon the _organs of the brain_; for,
+without distinct cerebral organs, there can be no independent faculties;
+and without independent faculties there can be no phrenology: and gall
+does not say, nor has any phrenologist said for him, what is the thing
+called a _cerebral organ_.
+
+the truth is: gall never had any settled opinion upon what he called the
+organs of the brain; he never saw those _organs_, and he imagined them
+for the use of his _faculties_. he did what so many others have done. he
+commenced with imagining a hypothesis, and then he imagined an anatomy
+to suit his hypothesis.
+
+when the doctrine of animal spirits was believed, the brain was composed
+of pipes and tubes to convey these spirits.
+
+“the cortical substance which is found in the hemispheres of the brain,”
+says pourfour du petit, “furnishes the whole of the medullary portion,
+which is a mere collection of an infinite number of pipes.”[91]
+
+“the small arteries of the cortical part of the brain,” says haller,
+“transmit a spirituous liquor into the medullary and nervous tubes.”[92]
+
+it is evident that the _organs_ of gall have no more real existence than
+the _pipes_ of pourfour du petit, or the _tubes_ of haller. they are two
+structures that have been imagined, as suitable for two hypotheses.
+
+in searching for the primary idea, the secret notion that led gall to
+his doctrine of the _plurality of the intelligences_, i detect it in the
+analogy that he supposed to exist between the functions of the senses and
+the faculties of the soul.
+
+he sees the functions of the senses constituting distinct functions, and
+insists that the faculties of the soul must constitute equally distinct
+faculties; he sees each particular sense possessing an organ proper to
+itself, and thinks that each faculty of the soul must have its proper
+organ;[93] in one word, he looks upon the outer man, and constructs the
+inner man after the image of the outer man.
+
+according to gall, every thing between an organ of a sense and an organ
+of a faculty, between a faculty and sense, is similar. a faculty is a
+sense. his words are: the _memory or the sense of things_, the _memory
+or the sense of persons_, the _memory or the sense of numbers_. he talks
+of the _sense of language_, the _sense of mechanics_, the _sense of the
+relations of colours_, &c. &c.
+
+“as we must admit,” says he, “five different external senses, since their
+functions are essentially different, ... so we must agree, after all, to
+acknowledge the different faculties and the different inclinations as
+being essentially different moral and intellectual forces, and likewise
+connected with organic apparatuses, which are special to each and
+independent of each other.”[94]
+
+“who,” says he, “can dare to say that sight, hearing, taste, smell, and
+touch, are simple modifications of faculties? who could dare to derive
+them from a single and same source, from a single and same organ? in
+the same way, the twenty-seven qualities and faculties which i recognise
+as fundamental or primary forces, ... cannot be regarded as the simple
+modifications of any one faculty.”[95]
+
+on the one hand, gall gives to the _faculties_ all the independence of
+the _senses_; and on the other, he gives the _senses_ all the attributes
+of the _faculties_.
+
+“here,” says he, “are new reasons why i have always maintained in my
+public discourses, though these assertions are in opposition to the ideas
+that prevail among philosophers, that each organ of a sense possesses
+absolutely its own functions; that each of these organs has its peculiar
+faculty of receiving and even of perceiving impressions, its own
+conscience, its own faculty of reminiscence,”[96] &c.
+
+gall did not foresee that a physiological experiment (and a very sure one
+it is) would one day demonstrate that the sense receives the impression
+but does not perceive it, and that, consequently, it is endowed neither
+with _conscience_ nor _reminiscence_, &c.
+
+when the cerebral lobes or hemispheres[97] are removed from an animal,
+the animal immediately loses its sight.
+
+and yet nothing, as regards the eyes themselves, has been changed;
+objects continue to be depicted upon the retina, the iris retains its
+contractility, and the optic nerve its excitability. the retina continues
+to be sensible of light, for the iris contracts or dilates according as
+the light admitted to it is more or less intense.
+
+no change has taken place as to the structure of the eye, and yet the
+animal does not see! therefore it is not the eye that perceives, nor is
+it the eye that sees.[98]
+
+the eye does not see; it is the understanding that sees by means of the
+eyes.[99]
+
+when gall concludes from the independence of the external senses to
+the independence of the faculties of the soul, he confounds, as to the
+sense itself, two things that are essentially distinct, impression and
+perception. impression is multiple; perception is single.
+
+when the hemispheres are removed, the animal instantly loses its
+perception; it no longer sees nor hears,[100] &c. notwithstanding all the
+organs of the senses, the eye, the ear, &c. subsist, and the impressions
+take place.
+
+therefore the principle that perceives is _one_. lost for one sense, it
+is lost for all the senses. and if it be _one_ for the external senses,
+how can it be other than _one_ for the faculties of the soul?
+
+gall therefore cannot suppose the existence of several distinct
+principles for the faculties of the soul, otherwise than because he
+supposes several distinct principles for the perceptions; and he only
+supposes several principles for the perceptions because he confounds
+impression with perception. the whole of his psycology arises from a
+mistake; and the whole of his anatomy is constructed for the sake of his
+psycology.
+
+in psycology he endeavours to prove that the faculties of the soul are
+merely _internal senses_; in anatomy, he endeavours to prove that the
+organs of the faculties of the soul only repeat and reproduce the organs
+of the _external senses_.
+
+now an _organ_, that is to say, under the present point of view, the
+_nerve_ of an _external sense_, is nothing more than a _fascicle_ of
+_nervous fibres_. therefore the brain, under the theory, can be nothing
+but a collection of _fascicles_ of _fibres_.[101]
+
+according to gall, the origin, the development, the structure and mode of
+termination, as to the organs of the faculties of the soul and the organs
+of the external senses, every thing is similar, every thing is in common.
+and yet the primitive difficulty remains unsolved.
+
+when i say an _organ of the senses_, i speak of a very determinate
+nervous apparatus. but is the same thing true when i say an organ of the
+brain? what is an organ of the brain? is it a _fascicle_ of _fibres_?
+is it each particular fibre? but if it be a _fascicle_ of _fibres_,
+there are too few of them, for there are not twenty-seven of them; and
+twenty-seven are necessary, for there are twenty-seven faculties. if it
+be each particular fibre, then there are too many of them, and far too
+many, because there are only twenty-seven faculties. what are we to do in
+this difficulty? we must do as gall does: sometimes say it is a fascicle
+of fibres; at other times, that it is each fibre in particular.
+
+in one place he says: “the brain consisting of several divisions whose
+functions are totally different, there are several primary bundles, which
+contribute by their development to produce it. among these bundles we
+place the anterior and posterior pyramids, the bundles that come off
+direct from the corpora olivaria, and some others that are concealed in
+the interior of the medulla oblongata.”[102]
+
+_and there are yet some others_; be it so; but they never can amount to
+twenty-seven.
+
+again he says: “a more extensive development of the same conjecture,
+might perhaps dispose the reader to consider each nervous fibrilla,
+whether in the nerves or in the brain itself, as a little special
+organ.”[103]
+
+even this is not all. for the sake of gall’s doctrine, the anatomy of the
+brain must have a connexion with cranioscopy. and gall takes great care
+to place all his organs upon the surface of the brain.
+
+“the possibility of a solution of the problem under consideration,” says
+he, “supposes the organs of the soul to be situated at the surface of the
+brain.”[104] indeed, were they not situated at the surface of the brain,
+how could the cranium bear the impression of them? and what would become
+of cranioscopy?
+
+cranioscopy has nothing to fear. gall has made provision for it; all the
+organs of the brain are placed at the surface of the brain; and gall most
+judiciously adds, “this explains the relation or the correspondence that
+exists between craniology and the doctrine of the cerebral functions
+(cerebral physiology), the sole aim and end of my researches.”[105]
+
+but as to the pretended _organs of the brain_, are they really situated
+at the surface of the brain, as gall asserts? in plain terms, is the
+surface of the brain the only active part of the organ? here is a
+physiological experiment that shows how very much mistaken gall is.
+
+you can slice off a considerable portion of an animal’s brain, either in
+front, behind, on one side, or on the top, without his losing anyone of
+his faculties.[106]
+
+the animal , therefore, lose all that gall calls surface of the brain,
+without losing any of his faculties. therefore it cannot be that the
+organs of the faculties reside at the _surface of the brain_.
+
+and comparative anatomy is not less opposite to gall’s opinions than
+is direct experiment itself. i shall not follow him here in the detail
+of his localizations. how could these localizations have any meaning?
+he does not even know whether an organ is a _fascicle of fibres_, or a
+_fibre_.[107]
+
+for example; he places what he calls the instinct of propagation in the
+cerebellum, and what he calls the _instinct of the love of offspring_, in
+the posterior cerebral lobes; and he looks upon these two localizations
+as the very surest in his book.
+
+“i should wish,” says he, “that all young naturalists might begin their
+researches with the study of these two organs. they are both easily to be
+recognised,”[108] &c.
+
+what! the cerebellum, so different in its structure from the great brain,
+is the cerebellum, like the brain,[109] to be considered an organ of
+instinct? and what is more, is it to be regarded as the organ of a single
+instinct only, while the brain shall have twenty-six of them?
+
+i have already said that the cerebellum is the seat of the principle that
+presides over the locomotion[110] of the animal, and that it is not the
+seat of any instinct.
+
+gall places the love of offspring in the posterior lobes of the
+brain.[111] now, the love of offspring, and especially maternal love,
+is every where to be found among the superior animals; it is found in
+all the mammifera, in all the birds.[112] the posterior lobes of the
+brain, therefore, ought to be found in all these beings. not at all: the
+posterior lobes are wanting in most of the mammifera; they are wanting in
+all the birds.
+
+gall locates the faculties that are common to both man and animals,
+in the posterior part of the brain; in the anterior part he places
+those[113] that are peculiar to man alone. according to this plan, the
+most _persistent_ portion of the brain will be the posterior portion,
+and the least persistent the anterior portion. but the inverse of the
+proposition holds. the parts that are most frequently wanting are the
+_posterior parts_, and those that are most invariably present are the
+_anterior parts_.[114]
+
+if, from the brain, i pass on to consider the cranium, all the foregoing
+is found to be of still greater force. how can the localizations that
+are destitute of meaning as to the brain—how can they, i say, have any
+meaning as relative to the cranium itself?
+
+the cranium, especially the external surface of it, represents the
+superficial configuration of the brain but very imperfectly. gall knows
+it. “i was the first,” says he, “to maintain that it is impossible for us
+to determine with exactitude the development of certain circumvolutions,
+by the inspection of the external surface of the cranium. in certain
+cases, the exterior lamina of the cranium is not parallel with the
+internal lamina.”[115] “there are certain species in which there is no
+frontal sinus; in others, the cells betwixt the two bony laminæ are found
+throughout the whole skull,”[116] &c. &c.
+
+the cranium represents the convolutions of the brain only upon its
+inner surface; it does not represent them upon its external superficies.
+and as to the _fibres_, as to the _bundles of fibres_, it does not even
+represent them on its inner surface; for the fibres are covered with
+a layer of gray matter, and the bundles of fibres are situated in the
+interior of the nervous mass.
+
+gall is aware of all this, and nevertheless he inscribes his twenty-seven
+faculties upon the skulls.[117] such confidence surprises one. nothing
+is known of the intimate structure of the brain,[118] and yet people
+are bold enough to trace upon it their circumscriptions, their circles,
+their boundaries. the external surface of the skull does not represent
+the brain’s surface, it is admitted; and yet they inscribe upon this
+surface twenty-seven names, each of which names is written within a small
+circle, each little circle corresponding to one precise faculty! and what
+is stranger yet, people are to be found who, under each of these names
+inscribed by gall, imagine that there is concealed something more than a
+name!
+
+those who, seeing the success of gall’s doctrine, imagine that the
+doctrine therefore rests upon some solid foundation, know very little of
+mankind. gall knew mankind better. he studied them in his own way, but he
+studied them very closely. let us hear his own words:
+
+“in society, i employ many expedients to find out the talents and
+inclinations of people. i start the conversation upon a variety of
+topics. in general, we let fall in conversation whatsoever has little or
+no concern with our faculties and penchants; but when the interlocutor
+touches upon one of our favourite subjects, we at once become interested
+in it.... do you wish to spy out the character of a person, without the
+fear of being misled as to your conclusions, even though he might be
+on his guard? set him to talking about his childhood and boyhood; make
+him relate his schoolboy exploits; his conduct towards his parents, his
+brothers and sisters, and his playfellows, and his emulators.... ask
+him about his games, &c. few persons think it necessary to dissemble
+upon these points; they do not suspect they are dealing with one who
+knows perfectly well that the basis of character remains ever the same;
+and that the objects only that interest us change with the progress of
+years.... besides, when i discover what it is that a person admires or
+despises; when i see him act; when he is an author, and i merely read his
+book, &c. &c. the whole man stands unveiled before me.”[119]
+
+descartes _shut himself up in a stove_,[120] in order that he might
+meditate. according to gall, there is no necessity for one’s shutting
+himself up in a stove.
+
+descartes says: “now i shall shut my eyes, i shall stop my ears, i shall
+turn my senses aside; i shall even efface from my memory every image
+of corporeal objects, or at least, as that can hardly be done, i will
+repute them as vain and false; and thus, shut up within myself, and
+contemplating what is within me, i shall endeavour gradually to become
+more and more familiarly acquainted with my own real nature.”[121]
+
+according to gall, there is no occasion for this absolute gathering
+one’s self together within. all that is needful is to look at and touch
+the skulls of people. gall’s doctrine succeeded just as lavater’s did.
+men will always be looking out for external signs by which to discover
+secret thoughts and concealed inclinations: it is vain to confound their
+curiosity upon this point: after lavater came gall; after gall some one
+else will appear.
+
+we soon become wearied of a true philosophy, because it is true; because
+the search after truth, of whatsoever kind, requires strenuous and
+continual efforts. it is impossible, moreover, always to have the very
+same philosophy: even the same philosopher cannot be always approved of.
+approbation must change its object, especially in france.
+
+it was for the french that fontenelle wrote these words: “the approbation
+of mankind is a sort of forced state, which seeks nothing so much as to
+come to an end.”[122]
+
+descartes goes off to die in sweden, and gall comes to reign in france.
+
+
+
+
+iv.
+
+of spurzheim.
+
+
+spurzheim published two works; the first of which is entitled,
+“observations sur la phrénologie, ou la connaissance de l’homme moral
+et intellectuel, fondée sur les fonctions du système nerveux:”[123]
+the title of the second is, “essai philosophique sur la nature morâle
+et intellectuelle de l’homme;”[124] and these two works are merely a
+reproduction of the doctrine of gall. spurzheim makes gall’s book over
+again—the same book that they commenced together—and abridges it.
+
+spurzheim tells us how he heard gall, and having heard him, felt himself
+drawn to participate in his labours, and propagate his doctrine.
+
+“in , i attended for the first time a course of lectures which
+m. gall had from time to time repeated at vienna for four years. he
+spoke then of the necessity there was for a brain to give out the
+manifestations of the soul; and of the plurality of organs; ... but he
+had not as yet begun to examine into the structure of the brain.[125]
+from the very first, i found myself much attracted by the doctrine of the
+brain; and from the period of my first attention to that subject to the
+present moment, i have never lost sight of it as an object of study.
+after finishing my studies in , i joined m. gall, in order to pursue
+in a special manner the anatomical part of the researches.[126] in ,
+we left vienna for the purpose of travelling together; from which time,
+up to the year , we made our observations in common,” &c.[127]
+
+in fact, the two authors, uniting their labours, first published,
+in , their fine memoir upon the anatomy of the brain,[128] and
+subsequently, in  and , the two first volumes of gall’s great
+work.[129]
+
+in the year  they separated, and that separation even proved useful.
+gall, when writing independently, has a freer movement. had he continued
+united with spurzheim, he either would not have written the last chapter
+of his fourth volume, or he would have written it very differently, and
+we should not have obtained the definite expression of his doctrine.
+
+that chapter, entitled “philosophy of man,” is gall’s philosophy entire.
+it is in that chapter that he says what he does understand by faculties,
+by understanding, by will, &c. &c. and it is there that he defines
+the faculties of the individual understandings;[130] understanding, a
+simple _attribute of each faculty_;[131] will, a simple result of the
+simultaneous action of superior faculties, &c.[132]
+
+spurzheim never would have imagined the doctrine: he found it already
+concocted; he follows it, and in doing so, always hesitates. he did not
+imagine it; and perhaps never could have had the facilities enjoyed
+by gall for carrying it successfully into the world. gall’s mind was
+full of address. we have seen his method of studying men.[133] in his
+great work there is a dominant tone of philosophy; for the doctrine was
+already established at the period of the publication of that work. when
+the doctrine was inchoate, gall’s tone was not quite so grave, for it
+is above all things necessary to awaken the public curiosity, and the
+philosophic tone does not answer for that purpose.
+
+charles villers has preserved some of his souvenirs, touching the first
+impressions produced by the doctrine.[134] “if,” writes gall at the
+period in question, “the exterminating angel was under my orders, wo to
+kæstner, to kant, to wieland, and others like them.... why is it, that
+no one has ever preserved for our times, the skulls of homer, virgil,
+cicero, &c.?”[135]
+
+“at one time,” says charles villers, “every body in vienna was trembling
+for his head, and fearing that after his death it would be put in
+requisition to enrich dr. gall’s cabinet. he announced his impatience
+as to the skulls of extraordinary persons—such as were distinguished
+by certain great qualities or by great talents—which was still greater
+cause for the general terror. too many people were led to suppose
+themselves the objects of the doctor’s regards, and imagined their
+heads to be especially longed for by him, as a specimen of the utmost
+importance to the success of his experiments. some very curious stories
+are told on this point. old m. denis, the emperor’s librarian, inserted a
+special clause in his will, intended to save his cranium from m. gall’s
+scalpel.”[136]
+
+gall and spurzheim differ from each other upon several points: upon the
+offices of the external senses; upon the names of the faculties of the
+soul; upon their number; and upon the classification of the faculties,
+&c. let us examine a few of the points more particularly.
+
+1. _offices of the external senses._ “m. gall is disposed,” says
+spurzheim, “to attribute to the external senses, as well as to each
+and every internal faculty, not only perception, but also memory,
+reminiscence, and judgment.... it seems to me that such facts (the facts
+cited by gall) do not prove the conclusion. in the first place, memory,
+being nothing more than the repetition of knowledge, must have its seat
+in the point where perception takes place. the impressions of the nerves
+that give rise to the sensation of hunger, &c. are indisputably perceived
+in the head, which likewise has the reminiscence of hunger.... i do
+not believe we can conclude that the eyes or the ears are the seats of
+reminiscence.”[137]
+
+spurzheim is right, as we have sufficiently seen;[138] perception is not
+in the organ of the sense.
+
+but the error that spurzheim combats is not the whole of gall’s error; it
+is only a particular and secondary error:[139] the error that he does not
+perceive, the error that he follows, is a general and capital one. from
+the independence of the external senses, gall concludes the independence
+of the faculties of the soul: he reasons upon an apparent analogy, which
+conceals a profound dissimilitude; and spurzheim reasons just as gall
+does.
+
+“in the nervous system,” says he, “we find the five external senses
+separate and independent of each other.”[140] “the faculties of the
+external senses are attached to different organs; they  exist
+separately. the same holds true of the internal senses.”[141] “we assert
+that there is a particular organ for each species of sentiment or
+thought, as there is for each species of exterior sensation.”[142]
+
+like gall, spurzheim denominates the faculties of the soul _internal
+senses_; in the same spirit he says: “the _sense of colour_, the _sense
+of number_, _sense of language_, _sense of comparison_, _sense of
+causality_,”[143] &c. &c.
+
+both authors begin by calling the faculties of the soul _internal
+senses_; and then, misled by the word, they conclude from the
+_independence of the external senses_, to the _independence_ of their
+_internal senses_; that is to say, the independence of the faculties of
+the soul.
+
+2. _names of the faculties._ spurzheim accuses gall of having given
+denominations only to actions, and not to the principles of those actions.
+
+“finding,” says he, “a relation betwixt the development of a cerebral
+part and a sort of action, m. gall denominated the cerebral part from the
+action; thus, he spoke of the organs of music, poetry, &c.”[144] “the
+nomenclature,” says he further, “ought to be conformed to the faculties,
+without regard to any action whatever.... when we attribute to an organ
+cunning, management, hypocrisy, intrigue, &c. we do not make known the
+primary faculty which contributes to all these modified actions.”[145]
+
+gall replies: “m. spurzheim cannot have forgotten how often we reasoned
+without end, with a view to determine the primitive destination of an
+organ.... i confess, that there are several organs, with whose primary
+faculties i am not yet acquainted; and i continue to denominate them from
+the degree of activity that led me to the discovery of them. m. spurzheim
+thinks himself more fortunate: his metaphysical temperament has led him
+to the discovery of the fundamental or primitive faculty of every one of
+the organs. let us put it to the proof.”[146]
+
+indeed, spurzheim’s expedient for rendering himself master of the primary
+faculties is very simple. he creates a word: he calls the instinct of
+propagation _amativity_, the propensity to steal, _convoitivity_; courage
+is _combativity_, &c. &c.
+
+gall and spurzheim talk a great deal about nomenclature; but they do not
+perceive, that as to nomenclature, the first difficulty, and indeed the
+only one, is to get at simple facts. whoever has come to simple facts, is
+very nigh to a good nomenclature.
+
+descartes says: “had some one clearly explained the simple ideas that
+exist in the imagination of men, and which constitute all that they
+think, i should venture to hope for a language that it would be very easy
+to learn, ... and, which is the principal matter, that would assist the
+judgment, representing to it things so distinctly that it would be almost
+impossible for it to be deceived; whereas, on the contrary, the words we
+now have possess, so to speak, only confused significations, to which the
+human mind has been so long accustomed, that it therefore understands
+scarcely any thing perfectly well.”[147]
+
+3. _number of the faculties._ spurzheim adds eight faculties to those
+established by gall, and gall is vexed by it. one does not see why.
+
+what! shall gall endow twenty-seven faculties, and spurzheim not have the
+same privilege for seven or eight?[148] shall gall have a faculty for
+_space_, one for _number_, &c. and spurzheim be refused one for _time_,
+one for _extent_, &c.? is not spurzheim half right, when he says:
+
+“one does not readily perceive why m. gall should desire to suggest to
+his readers that his method of treating the doctrine of the brain is the
+only admissible one, and that there are no other organs than those he has
+recognised; that the organs do nothing but what he attributes to them;
+... that all he says and all he does (and that only) bears the stamp of
+perfection; and that his decision constitutes the supreme law.”[149]
+
+4. _classification and attributes of the faculties._ gall, by giving
+the same attributes to all the faculties, and to each faculty all the
+attributes of the understanding, in fact forms out of the faculties only
+two groups: the group of faculties that he supposes common to man and the
+animals, and the group of faculties that he supposes to be proper to man
+alone. spurzheim divides and subdivides them.
+
+none of the formulas required for the classification agreed upon are
+omitted.[150]
+
+in the first place, there are two _orders_ of faculties: the _affective_
+and the _intellectual faculties_; then each of these _orders_ is divided
+into _genera_. the first _order_ has two _genera_: the affective
+faculties common to man and animals,[151] and the affective faculties
+peculiar to man alone.[152] the second has three genera: the faculties
+or _internal senses_ which make external objects known;[153] the
+faculties or internal senses which make known the relations of objects in
+general;[154] and the faculties or internal senses that _reflect_.[155]
+
+what an apparatus for saying very simple things; for saying that there
+are _propensities_,[156] _sentiments_,[157] and _intellectual faculties_!
+what singular personification of all these faculties: faculties that
+know; faculties that reflect![158] spurzheim elsewhere speaks of _happy
+faculties_.[159] indeed, what arbitrariness in the distribution of facts!
+and gall, too, is he not half right?
+
+“by what right,” says he, “does m. spurzheim exclude from the
+intellectual faculties imitation, wit, ideality or poetry,
+circumspection, secretivity, constructivity? how are perseverance,
+circumspection, imitation; how are they sentiments? what reason have we
+for counting among the propensities constructivity rather than melody,
+benevolence, or imitation?”[160]
+
+gall, by endowing each faculty with all the attributes of an
+understanding, makes as many understandings as faculties. spurzheim makes
+several kinds of understandings: understandings that know, understandings
+that reflect, &c. he restores the _sensitive_ and _rational souls_.
+
+in fine, gall and spurzheim rarely agree as to their faculties. in
+_hope_ gall sees nothing more than an attribute; spurzheim beholds it
+as a primary faculty. in _conscience_ gall sees nothing but an effect
+of _benevolence_; spurzheim looks upon it as a peculiar faculty. gall
+resolves that there is only one organ of _religion_, and spurzheim
+insists upon three—the organ of causality, that of supernaturality, and
+that of veneration, &c. &c.
+
+we should never end, were we to follow them throughout their debates. i
+have said enough to show the case, and i now pass on to broussais.
+
+
+
+
+v.
+
+of broussais.
+
+
+broussais appears to have been born solely for the purpose of imagining
+or propagating systems.
+
+guided by facts which he seized upon with a rare sagacity, broussais
+begins by bringing back certain affections to their real seats;[161] but
+soon, by an immoderate generalization of this fine result, he perceives
+all affections in the same affection, all diseases in the same malady;
+he imagines one _abstract affection_, by means of which he explains all
+other affections: _fevers_ are nothing but irritations of the digestive
+apparatus; _insanity_ is nothing but an _irritation_ of the brain;[162]
+and he who is so intolerant of the _personifications_ proposed by others,
+makes one _personification_ more; in fine, his exclusive and headstrong
+genius carries him beyond himself, and, as if merely to amuse him after
+the fatigue of forming his systems, plunges him into the question of
+_phrenology_, where he enjoys himself so much the more, because he finds
+in it his own accustomed method, his own ideas, and his own language:
+there are plenty of faculties to bring back to their organs, plenty of
+localizations to establish.
+
+broussais ought not to be judged of by his “cours de phrénologie.”[163]
+the five or six first _lessons_, or, as he calls them, _generalities_,[164]
+are merely a confused mixture of ideas: the notions of condillac rejected
+by cabanis, and the ideas of the phrenologists.
+
+he says that sensibility is the _common origin_ of the faculties;[165] he
+calls _perception_ a _primary faculty_,[166] &c. &c.; and condillac would
+not speak differently.
+
+but, on the other hand, he says that there are as many _memories_ as
+there are organs;[167] that the instincts and the sentiments possess a
+memory, as the _external perceptions_[168] have theirs; that the mind
+is the _sum of the faculties_,[169] &c.; and gall could not say it more
+clearly.
+
+broussais is particularly opposed to the _moi_ of descartes. “seduced,”
+says he, “by the _moi_ of descartes, philosophers have been led to reason
+according to the testimony of their consciousness....”[170] and according
+to what testimony does broussais think they ought to reason?
+
+he thinks it very funny to call the _moi_ an _intra-cranial entity_,[171]
+_intra-cranial central being_,[172] _person_ par excellence, &c.[173]
+
+he laughs at the _moi_ of descartes; he forgets that the _moi_ of gall
+is either nothing else than the sum (_ensemble_) of the intellectual
+faculties, or nothing else than a word; and he makes for himself a
+_peculiar moi_,[174] which he locates in the organ of _comparison_. “we
+owe,” says he, “to the organ of general comparison the distinction of one
+person expressed by the sign _me_.”[175]
+
+broussais was never designed for compliance with the ideas of others; a
+yoke oppresses him; he is never truly broussais, except in the midst of
+conflict. in  he publishes a volume,[176] and the medical doctrines
+are shook for half a century: we ought to read that volume over again,
+and forget the “cours de phrénologie.”
+
+
+
+
+vi.
+
+broussais’s psycology.
+
+
+the fact is, broussais is busier with his own opinions than with what
+gall thought; and here is a specimen of his way of thinking: “the
+understanding and its different manifestations are,” says he, “the
+phenomena of the nervous actions.”[177] “the faculties,” says he further,
+“are the actions of the material organs,”[178] &c.
+
+broussais’s whole psycology is contained in these words. the organ, and
+the phenomenon produced by the organ. to speak more clearly, the organ
+and the action of the organ. to speak like cabanis, the organ and the
+_secretion_ of the organ, or _thought_.[179] that’s all!
+
+the understanding, therefore, is merely a _phenomenon_, a product, an
+act. but if this be the case, how can there be a _continuity of the
+moi_? now, the consciousness which gives me the _unity_ of the _moi_,
+gives me not less assuredly the _continuity_ of the _moi_. descartes’
+admirable words are: “i find that there is in us an _intellectual
+memory_.”[180]
+
+the consciousness tells me that i am _one_, and gall insists that i
+am _multiple_; the consciousness tells me i am _free_, and gall avers
+that there is no _moral liberty_; the consciousness endows me with the
+continuity of my understanding, but cabanis and broussais tell me that
+my understanding is nothing but an _act_.
+
+philosophers will talk.
+
+
+
+
+vii.
+
+broussais’s physiology.
+
+
+the whole of broussais’s physiology is founded upon _irritation_.
+he says, “irritation constitutes the basis of the physiological
+doctrine.”[181] but what is irritation? broussais replies: “it is the
+exaggeration of contractility.”[182] but then, what is _contractility_?
+
+in haller, the term _irritability_ (for that is his term for
+_contractility_) possesses a precise meaning and import. _irritability_
+is a property of muscular fibre, by which it shortens or contracts
+itself when touched.
+
+haller demonstrated, and it is his glory, that the muscle alone _moves_
+when it is touched. what is that to broussais? he goes back again to
+the vague irritability of glisson and de gorter: like those authors, he
+assigns it to every tissue, and, like them, he explains every thing by
+means of it.
+
+broussais’s _irritation_ is merely haller’s _irritability_ exaggerated
+and deformed.
+
+the genius of broussais was too impatient to allow him to proceed step by
+step up to the idea—too impassioned to hinder him from being satisfied
+with the name—and for that very reason he appears to have been by nature
+fitted for success in a school where the name is every thing.
+
+but here is the great difference. gall and broussais laboured for the
+school: descartes toiled for the human mind.
+
+
+
+
+viii.
+
+
+i return to gall.
+
+those who wish to learn gall’s doctrine, will always go up to gall
+himself. spurzheim already alters the spirit of that doctrine, and gall
+complains of it. “m. spurzheim,” says he, “knows my discoveries better
+than any body else, but he tries to introduce among them a spirit quite
+foreign to that in which they were begun, continued and perfected.”[183]
+
+gall, moreover, was a great anatomist. his idea of tracing the fibres
+of the brain is, as to the anatomy of that organ, the fundamental idea.
+the idea is not his own: two french anatomists, vieussens and pourfour
+du petit, had admirably understood it long before his time; but at the
+period of his appearance it had been long forgotten. the brain was not
+then dissected by any one: it was cut in slices.
+
+it was a great merit in gall to have recalled the true method of
+dissecting the brain; and there was still greater address on his part,
+in connecting with his labours in positive anatomy, his doctrine of
+independent faculties and multiple brain.
+
+this strange doctrine has had a fortune still more strange. gall and
+spurzheim forgot to place _curiosity_ among their primary faculties. they
+were wrong. but for the credulous curiosity of mankind, how could they
+have explained the success of their doctrine?
+
+fortunately, a system never lives otherwise than as a system lives. that
+of the moment is abandoned for the sake of another: and almost always
+for a perfectly opposite one. systems multiply and pass away; and we are
+indebted to the systems themselves for an escape from the mischiefs of
+systems.
+
+
+
+
+notes.
+
+
+
+
+note i.
+
+anatomical relations supposed by gall to exist between the organs of the
+external senses, and the organs of the intellectual faculties.
+
+    page 82. _according to gall, the origin, the development, the
+    structure and mode of termination, as to the organs of the
+    faculties of the soul and the organs of the external senses,
+    every thing is similar, every thing is in common._
+
+
+it is known that two substances compose the nervous system—the gray
+matter, and the white or fibrous matter. well, according to gall, one
+of these substances produces the other. the _gray matter_ produces the
+_white matter_.
+
+wherever, therefore, there happens to be any _gray matter_, white matter
+must appear; that is to say, _nervous fibres_,[184] _nervous filaments_,
+nerves. all the nerves in the body must arise in this way. the spinal
+nerves arise from the gray matter which is in the interior of the spinal
+marrow; the cerebral nerves from the gray matter that is in the interior
+of the medulla oblongata.
+
+hence, the nerves of the body are _organs of the senses_.
+
+on the other hand, the brain and the cerebellum,[185] which are _the
+organs of the faculties of the soul_, must arise like the nerves: the
+brain from the gray matter of the _pyramidal eminences_; the cerebellum
+from the gray matter that surrounds the _restiform bodies_.
+
+in the second place, whenever a nerve traverses a mass of gray matter, it
+receives from it, according to gall, certain new nervous filaments; and
+in this way it grows and developes itself. the cerebrum and cerebellum
+will not fail therefore to grow and be developed likewise. the primitive
+bundles of the cerebellum, (_the restiform bodies_,) will grow by means
+of the filaments which will be imparted to them by the gray matter of the
+_ciliary body_: the primitive bundles of the cerebrum, (the _pyramidal
+eminences_,) by the filaments imparted to them by, first, the gray matter
+of the _pons varolii_; secondly, by that of the _optic strata_; and then
+by that of the olivary bodies, _corpora striata_, &c. &c.
+
+finally, in the same manner as a nerve of sense expands at its
+termination, and by means of such expansion forms the organ of the
+sense, so the primitive bundles of fibres of the brain and of the
+cerebellum terminate in expansions, and constitute the _organs of the
+internal senses_; that is to say, the lobes of the cerebellum and the
+hemispheres of the brain.[186]
+
+
+
+
+note ii.
+
+difference between instinct and understanding.
+
+    page 64 (note). _and he does not see that as to the instincts
+    and the understanding all is contrast._
+
+
+here is what i have elsewhere said upon this question, so long debated,
+of the _instinct and understanding of animals_.
+
+“there is a most complete difference between _instinct_ and
+_understanding_.
+
+“in _instinct_ all is blind, necessary, and invariable. in
+_understanding_ every thing is elective, conditional, and modifiable.
+
+“the beaver which builds its house, and the bird that constructs its
+nest, act only by instinct.
+
+“the dog and the horse, that learn even the meaning of several of our
+words, and who pay obedience to us, do so by understanding.
+
+“in _instinct_ all is innate. the beaver builds without having learned
+to build: all that he does is from fatality. the beaver builds under the
+impulsion of a constant and irresistible force.
+
+“in _understanding_, every thing results from experience and
+_instruction_. the dog obeys only because he has learned to obey: he is
+perfectly free in this respect; for he obeys only because he will obey.
+
+“finally, in regard to _instinct_ every thing is particular. that
+admirable industry that the beaver exhibits in the construction of his
+hut, can be employed in no other occupation than the building of his hut.
+now, in _understanding_ every thing is general; for the dog could apply
+the same flexibility of attention, and of conception, which he uses in
+obeying, to do any other thing.
+
+“in animals there are, therefore, two distinct and primary
+forces—_instinct_ and _understanding_. as long as our conceptions of
+these forces were confused, all our views and opinions in regard to
+the actions of animals remained obscure and contradictory. among these
+actions, some exhibited man every where superior to the brute; while
+others appeared to accord to the brute creation the superiority over
+man—a contradiction almost as deplorable as absurd! by the distinction
+that separates blind and necessary actions from elective and conditional
+ones—or, in a word, instinct from intelligence—all contradiction
+disappears, and order succeeds to confusion. whatever in animals is
+_understanding_, does not in any degree approach the excellence of
+the human understanding; and whatsoever, under the appearance of
+_understanding_, seemed superior to the human understanding, is in fact a
+mere result of a mechanical and blind force.”[187]
+
+here is what i say as to the boundaries between the intelligence of man
+and of animals.
+
+“animals receive, through their senses, impressions similar to those that
+we receive through the medium of our senses; like ourselves, they retain
+the traces of these impressions: these impressions, when preserved, form
+for them, as well as for us, numerous and various associations: they
+combine them, they draw from them inferences, and deduce judgments from
+them: therefore they possess understanding.
+
+“but the whole of their understanding stops at that point. the
+understanding they possess is not one that can consider itself: it cannot
+see itself, does not know itself. they do not possess _reflection_, that
+supreme faculty with which the mind of man is endowed, and which enables
+him to turn his intellectual power inwards, so as to study and know the
+nature of his own understanding.
+
+“reflection, thus defined, is then the boundary that separates human
+intelligence from that of the brute creation: and in fact it cannot be
+denied that this furnishes a strong line of demarcation between them.
+thought, which contemplates itself; understanding, which sees itself and
+studies itself; knowledge, which knows itself; these evidently constitute
+an order of determinate phenomena of a decided character, and to which no
+brute animal can ever attain. this is, if one might so speak, a purely
+intellectual domain; and it appertains to man alone. in one word, animals
+feel, know, think; but man is the only one of all created beings to whom
+has been given the power of feeling that he feels, of knowing that he
+knows, and of thinking that he thinks.”[188]
+
+i will quote, also, the following passage from my work sur _l’instinct et
+l’intelligence des animaux_, p. 178, et seq.
+
+“ ... there are three facts: _instinct_, _understanding of brutes_, and
+_human understanding_; and each of these facts has its definite limits.
+
+“instinct acts without knowing; understanding knows in order to act; the
+human understanding alone knows, and knows itself.
+
+“reflection, closely defined, is the _knowledge of thought by thought_.
+and this power of thought over thought gives us a whole order of new
+relations. as soon as the mind perceives itself it judges itself; as
+soon as it can act upon itself it is free; as soon as it becomes free it
+becomes moral.
+
+“man is only moral because he is free.
+
+“the brute animal follows its body; in the midst of this body, which
+shrouds it completely in matter, the human mind is free, and so free that
+it can, whenever it prefers to do so, immolate its very body.
+
+“‘the great power of the will over the body,’ says bossuet, ‘consists in
+this prodigious effect, that man is so completely master of his frame,
+that he can even sacrifice it for the sake of some greater good in view.
+to rush into the midst of blows, and plunge into a flight of arrows from
+a blind impetuosity, as happens among brute creatures, shows nothing
+superior to the body itself; but to resolve to die with understanding,
+and for reasons, notwithstanding the whole disposition of the body to the
+contrary, evinces a principle superior to the body; and among all the
+tribes of animals, man is the only one in whom this principle exists.’”
+
+
+
+
+note iii.
+
+gall, as an observer.
+
+    page 93. _he studied them (mankind) in his own way, but he
+    studied them very closely._
+
+
+gall was a practical observer. he observed and studied always, and with
+so much the greater success because “people never suspected that they
+had to do (these are his own words) with a man who knew perfectly well
+that the basis of human character continues to be always the same, and
+that merely the objects that interest us change with the progress of
+years.”[189]
+
+he examined “families, schools, hospitals, &c.”[190] and he never was
+satisfied with appearances only. “the occupations that we pursue as our
+business, generally prove nothing either as to our faculties or our
+propensities: but those which we engage in as recreation are almost
+always in conformity with our tastes and our talents.”[191]
+
+his observations on men were more serviceable to him in judging of and
+describing their characters, than the _bumps on the skull_.
+
+“i often said to my friends, show me the fundamental forces of the soul,
+and i will find the organ and the seat for each one of them.[192] ...
+when i had become convinced that a distinguished talent, and one fully so
+recognised, was especially the work of nature, i examined the head of the
+individual, ... &c.”[193]
+
+gall’s progression, then, was from _observation_ to the _cranium_; he
+first proceeded from _observation_ to the _cranium_, and next from the
+_cranium_ to the _brain_.
+
+furthermore, gall began by studying the _physiognomy_—the _features_ of
+the _countenance_—like lavater.
+
+he at first thought that a good memory was connected with a certain
+_conformation of the eyes_: “i remarked,” says he, “that they all had
+large projecting eyes.... i suspected, therefore, that there ought
+to exist some connexion between memory and this conformation of the
+eyes.”[194] again he says, “it  be perceived, from the progress of
+these researches, that the first step consisted in the discovery of
+certain organs; that it was by degrees only that we allowed facts to
+speak in order to deduce from them general principles; and that it was
+subsequently, and towards the close, that we had learned to know the
+brain.”[195]
+
+thus it appears that the study of the brain came later than the doctrine;
+and that is the reason why the anatomy of the brain is a mere series of
+mistakes and conjectures—i mean here the _special anatomy_, the _secret
+anatomy_, the _phrenological anatomy_; i mean the anatomy made out to
+suit the doctrine. i have already sufficiently discriminated between it
+and the _real anatomy_.[196]
+
+
+
+
+note iv.
+
+of the animal spirits.
+
+    page 116. _he who is so intolerant of the personifications
+    proposed by others makes one personification more._
+
+
+broussais explains every thing by the word _irritation_, just as gall
+explains every thing by the word _faculties_, and as malebranche
+explained them by _animal spirits_.
+
+after serving descartes, the _animal spirits_ were in the service of
+malebranche; they served all the authors of the seventeenth century.
+
+malebranche commences one of his chapters with these words: “every body
+agrees that the _animal spirits_....”[197] he had no idea that every body
+would agree some day, that the _animal spirits_ is mere nonsense.
+
+there were animal spirits of all sorts; as gall had _faculties_ of all
+sorts: there were _agitated_[198] animal spirits, _languid_ animal
+spirits.[199] there were even _libertine_ animal spirits.
+
+“wine is so spirituous,” says malebranche, “that it is _animal spirits_
+almost completely formed, but libertine spirits.”[200]
+
+the animal spirits seemed to have become the _ultima ratio_ of the
+philosophers.
+
+the author of a book, in other respects to be esteemed, thus defined
+_imagination_: “imagination is a perception of the soul’s caused by the
+internal motion of the animal spirits.”[201]
+
+that author had no doubt that he was saying something.
+
+
+
+
+note v.
+
+exaggeration of broussais, even in phrenology.
+
+    page 120. _we ought to read that volume over again, and forget
+    the cours de phrénologie._
+
+
+broussais does not adopt merely the general ideas of the phrenologists—he
+adopts even the smallest of them.
+
+gall had located the _instinct_ of _murder_ in a given part of the brain;
+and he supposed, be it understood, that this part existed only in the
+brain of the carnivorous animals. but see, it is found in the brain of
+the herbivora; and one would suppose that the phrenologists would be in
+trouble about it. don’t deceive yourself, the _instinct of murder_ is
+the _instinct of destruction_. spurzheim denominates it _destructivity_;
+and the herbivorous animals must possess it, for they eat plants and
+consequently _destroy_ them.
+
+“the herbivora” says broussais, “effect a real destruction among
+plants.[202] an attempt has been made to turn these ideas into ridicule,
+even in an academy.... it was in a learned society of this kind
+considered ridiculous in the phrenologists to compare the destruction of
+vegetables to that of animals. for my own part i do not see why the idea
+should be rejected, if the fundamental object of the organ be to procure
+the means of alimentation, which seems to be quite certain.”[203]
+
+gall imagines an organ for religion; he thinks it peculiar to man, and
+denominates it the _organ of theosophy_. the same organ is found quite
+down in the scale as low as the sheep;[204] and do not suppose that
+broussais is at all shocked by the discovery. if necessary he will go
+further than all the phrenologists taken together.
+
+“the phrenologists” says he, “have denied that this sentiment (the
+sentiment of veneration) belongs to the animals. i am not of that
+opinion. a certain shade of _veneration_ exists in many species, among
+the vertebrate, that choose their leaders, and  according to a
+signal given by their chiefs and obey them. thus even among the sheep you
+ see a chief.”[205]
+
+who would have believed it? broussais finds gall too timorous.
+
+“there is,” says he, “no central organ. this is considered as one of the
+most powerful objections to gall. as far as i know he never answered it.
+as for me, i shall be more frank, perhaps more bold: i shall say it is
+impossible that there should be one, &c.”[206]
+
+
+
+
+note vi.
+
+contractility of broussais.
+
+    page 126. _he assigns it to every tissue, and, like them, he
+    explains every thing by means of it._
+
+
+he assigns it to every tissue. haller attributed this property to the
+muscles alone, “but it is a common property of the tissues.”[207]
+
+he explains every thing by means of it: every thing, even _innervation_
+itself. but he is constrained to add: “doubtless _something more occurs_
+in the interior of the nervous tissue; doubtless we are unacquainted and
+ignorant as to how _that other thing_ is connected with the motions in
+question, and how it  employ them in the act of innervation,” &c.[208]
+
+so we perceive, in the first place, _contractility_ explains
+_innervation_; and then, that _something more_ is wanting. and as nervous
+contractility is nothing but a mental fiction (a nerve never moves, never
+_contracts_, when it is touched) the whole matter tapers down to this
+_something more_, or to _that other thing_.
+
+see how very far from being rigorous are those who construct systems.
+
+
+
+
+note vii.
+
+real labours of gall as to the brain.
+
+    page 128. _gall, moreover, was a great anatomist._
+
+
+he found that the medullary substance of the brain was fibrous
+throughout;[209] he saw the fibres of the medulla oblongata decussate
+before they form the pyramidal eminences,[210] those of the corpora
+olivaria, &c.; that is to say, all the ascending fibres of the medulla
+oblongata across the pons varolii, thalami nervor opticorum, and the
+corpora striata, as far as the vault of the hemispheres; he saw the
+bundles formed by these fibres increased in magnitude at each of these
+passages; he distinguished the fibres which go out in order to expand
+in the hemispheres, from those that go in in order to give birth to the
+commissures: many nerves that were regarded as coming out immediately
+from the brain, were by him traced even into the medulla oblongata, &c.
+
+and i repeat that all these facts, with the discovery of which he has
+enriched the science of anatomy, all of them are the results of a happy
+thought of his—the idea of _tracing_ the fibres of the brain, or to use
+a common expression, of substituting in the dissection of the brain the
+method of _developments_ for that of _sections_.
+
+those of gall’s opinions which it seems ought not to be adopted, are:
+that in which he supposes the nerve fibres to be born (he understands
+the word to the letter) of the gray matter; that in which he contends
+that the convolutions of the brain are merely foldings of the medullary
+fibres, and can therefore be _unfolded_; that in which he compares the
+rete mucosum of the skin to the gray matter of the encephalon, &c., &c.
+
+gall had a mind which impelled him to the formation of hypotheses; and
+even in his real anatomy there is a decided smack of a system-author.
+
+
+the end.
+
+
+
+
+footnotes
+
+
+[1] anatomie et physiologie du système nerveux en général, et du cerveau
+en particulier, avec des observations sur la possibilité de reconnaître
+plusieurs dispositions intellectuelles et morales de l’homme et des
+animaux par la configuration de leurs têtes; 4 vol. 4to, avec planches.
+paris, de  à .
+
+[2] t. ii. p. 217. “it is generally understood,” says he further, “that
+the brain is the peculiar organ of the soul.” t. ii. p. 14.
+
+[3] gall, t. ii. p. 221.
+
+[4] gall, t. ii. p. 222. haller, elem. physiolog. etc., t. iv. p. 304.
+sensus præterea sedem in cerebro esse, atque ad cerebrum per nervos
+mandari, alia sunt quæ ostendunt.
+
+[5] rapports du physique et du moral de l’homme, iie mémoire, § vii.
+
+[6] leçons d’anat. comp. t. ii. p. 153.
+
+[7] ibid. p. 173.
+
+[8] recherches phys. sur la vie et la mort, art. vi. § ii.
+
+[9] ibid.
+
+[10] descartes, lettre à regius ou leroy, t. viii. p. 515, edit, par m.
+cousin.
+
+[11] t. v. p. 34. “i remark,” says he again, “that the mind does not
+receive the impression from all parts of the body, but from the brain
+only.”—t. i. p. 344.
+
+[12] t. vi. p. 347.
+
+[13] t. ii. p. 357.
+
+[14] t. ii. p. 358.
+
+[15] “the principal object of this work,” says he, “is to show how all
+our knowledge, and all our faculties come from the senses.”—traité des
+sensations, préambule de l’extrait raisonné.
+
+[16] traité des sensations, préam. de l’extrait raisonné.
+
+[17] de l’homme, de ses facultés intellectuelles, etc. t. i. p. 186.
+liege, .
+
+[18] he very properly distinguishes the senses from the understanding;
+but, as will be elsewhere seen, he endows each sense with all the
+attributes of the understanding. he escapes from one error only to fall
+into another.
+
+[19] see my recherches expérimentales sur les propriétés et les fonctions
+du système nerveux, 2d edit. paris, .
+
+[20] ibid.
+
+[21] see my recherches expérimentales sur les propriétés et les fonctions
+du système nerveux, 2d edit. paris, .
+
+[22] see my recherches expérimentales sur les propriétés et les fonctions
+du système nerveux.
+
+[23] ibid.
+
+[24] see my recherches expérimentales sur les propriétés et les fonctions
+du système nerveux.
+
+[25] “from what i have now said, it clearly follows that the aperceptive
+faculty, the faculty of reminiscence, and that of memory, are nothing but
+attributes common to all the fundamental faculties.”—gall, t. iv. p. 319.
+“all that i have just said, is also applicable to the judgment and the
+imagination,” &c.—ibid. p. 325. “the sentiments and the propensities also
+have their judgment, their imagination, their recollection, and their
+memory.”—ibid. p. 327.
+
+[26] ibid. 328.
+
+[27] ibid. 327.
+
+[28] gall, t. iv. p. 339.
+
+[29] ibid. p. 341.
+
+[30] “the _intellectual faculty_ and all its subdivisions, such as
+perception, recollection, memory, judgment, imagination, &c. are not
+fundamental faculties, but merely general attributes of them.”—gall, t.
+iv. p. 327.
+
+[31] “reason,” says gall, “is the result of the simultaneous action of
+all the intellectual faculties.”—gall, t. iv. p. 341.
+
+[32] gall enumerates twenty-seven of these faculties, spurzheim
+enumerates twenty-five, &c.
+
+[33] gall, t. iv. p. 325.
+
+[34] ibid. p. 330.
+
+[35] “i find in myself,” says descartes, “divers faculties of thought,
+that have each their own way, ... whence i conclude, they are distinct
+from me, as modes are distinct from things.”—t. i. p. 332.
+
+[36] t. viii. p. 169.
+
+[37] gall, iv. p. 341.
+
+[38] ibid.
+
+[39] ibid. t. ii. p. 100.
+
+[40] gall, t. ii. p. 97.
+
+[41] ibid.
+
+[42] “it is a law of moral liberty, that man shall be always determined,
+and that he shall himself determine from the most numerous and most
+powerful motives.”—t. ii. p. 137.
+
+[43] “but an organ  act with greater energy, and furnish a more
+powerful motive.”—t. ii. p. 104.
+
+[44] “there is no person who, upon contemplating himself, does not feel
+and experience that will and liberty are one and the same; or rather,
+that there is no difference between that which is voluntary and that
+which is free.”—t. i. p. 496.
+
+[45] descartes, t. i. p. 299. “it is always in our power to prevent
+ourselves from pursuing a good which is clearly known to us, provided we
+should think it a good to show in that way our free will.”—descartes,
+t. vi. p. 133. “the fulness of liberty consists in the great use of
+our positive ability to follow the worse, while we truly know the
+better.”—ibid. p. 138.
+
+[46] the question here relates solely to the brain, properly so called,
+(the lobes or cerebral hemispheres.) the rest of the encephalon does not
+serve in the operations of the understanding. see the preceding article,
+p. 29, et seq.
+
+[47] _individual intelligences_—an expression of gall’s. “each individual
+intelligence has its own proper organ.”—iv. 341.
+
+[48] even the instincts, according to gall, have their memory,
+imagination, &c. “the instinct of propagation, that of the love of
+offspring, pride, vanity, possess, beyond contradiction, their perceptive
+faculty, their recollection, their memory, judgment, imagination, and
+their own attention.”—t. iv. p. 331. “the propensities and the sentiments
+likewise possess their judgment, their taste, their imagination, their
+recollection, and their memory.”—iv. 344.
+
+[49] gall, t. iv. p. 325.
+
+[50] ibid.
+
+[51] see particularly t. ii. p. 5.
+
+[52] “had i to do with readers wholly free from prejudice, i should, in
+order to convince them of this, (the supposition of innate ideas,) have
+nothing to do but show them that mankind acquire all the knowledge they
+possess by the simple use of their natural faculties.”—philos. essay on
+the human understanding.
+
+[53] “locke contents himself,” says he, “with acknowledging that the soul
+perceives, doubts, believes, reasons, knows, wills, and reflects: that we
+are convinced of the existence of these _operations_; ... but he seems to
+have regarded them as something innate.” a short time before he had said,
+“we shall see that all the faculties of the soul appeared to him to be
+innate qualities.”—traité des sensations. (extrait raisonné.)
+
+[54] see t. iii. p. 81.
+
+[55] t. i. p. 343.
+
+[56] “i  now flatter myself,” says he, “that the reader is
+sufficiently prepared for quite a new philosophy, deduced directly from
+the fundamental forces.”—t. iii. p. 11.
+
+[57] t. iv. p. 327.
+
+[58] t. iv. p. 319.
+
+[59] t. iv. p. 341.
+
+[60] ibid.
+
+[61] ibid.
+
+[62] “each individual understanding possesses its own proper organ.”—t.
+iv. p. 341.
+
+[63] t. i. p. 230.
+
+[64] t. iv. p. 105.
+
+[65] see the preceding articles.
+
+[66] t. iv. p. 340. “from all these faculties comes at last decision. it
+is this decision ... which is really will and wishing.”—t. ii. p. 105.
+
+[67] t. iv. p. 341.
+
+[68] t. iv. p. 269.
+
+[69] t. iv. p. 271.
+
+[70] t. iv. p. 252.
+
+[71] t. iv. p. 252.
+
+[72] t. iv. p. 10.
+
+[73] t. i. p. 290.
+
+[74] t. i. p. 287.
+
+[75] article “liberté,” diction. encyclop.
+
+[76] t. iii. p. 155. such phrases cannot be concluded.
+
+[77] t. iii. p. 213.
+
+[78] ibid. 219.
+
+[79] “this term, instinct, is applicable,” says he, “to all the
+fundamental forces.”—t. iv. p. 334. and he does not see that as to the
+instincts and the understanding all is contrast. upon this difference
+of instinct and understanding, see my work de l’instinct et de
+l’intelligence des animaux, etc. paris, , 2d edit.
+
+[80] it is true that this approximation astonishes him. “the predilection
+of animals for elevated places depends,” says he, “upon the same parts
+as pride, which is in man a moral sentiment! let the reader imagine the
+astonishment excited in my mind by such a phenomenon.”—t. iii. 311.
+
+[81] “co-existing with the love of war, it (the carnivorous instinct)
+constitutes the intrepid warrior.”—t. iii. p. 258. “i know a head which,
+as to the organ of murder, approaches that of madeline albert, and the la
+bouhours, except only that nature has executed it upon a grander scale.
+to witness suffering, is for this person to have the keenest enjoyment.
+whoever does not love blood, is in his eyes contemptible.”—t. iii. p.
+259. the pen refuses to transcribe such things, which fortunately,
+however, are pure extravagances.
+
+[82] “from my reflections it follows that conscience is nothing but a
+modification, an affection of the moral sense,” (organ.)—t. iv. p. 210.
+“from all that i have said as to conscience, it follows that it can by
+no means be regarded as a fundamental quality: that it is really only an
+affection of the moral sense—or benevolence.”—t. iv. p. 217.
+
+[83] t. iii. p. 321.
+
+[84] t. iv. p. 272.
+
+[85] t. ii. p. 287.
+
+[86] recherches sur le système nerveux en général et sur celui du cerveau
+en particulier; mémoire présenté à l’institut de france, le 14 mars,
+; suivi d’observations sur le rapport qui en a été fait à cette
+compagnie par ses commissaires, par f. j. gall et g. spurzheim. paris,
+.
+
+[87] “the nervous membrane of the brain forms these folds, which are
+denominated its convolutions.”—anat. et physiol. du système nerveux, t.
+iii. p. 82.
+
+[88] spurzheim justly remarks: “admitting that the direction of the
+fibres is known, that we know their consistence to be greater or less,
+that their colour is more or less white, that their magnitude is more
+or less considerable, &c. what conclusions can we, from all these
+circumstances, draw as to their functions? none at all.”—obser. sur la
+phrénologie, ou la connaissance de l’homme moral et intellectuel fondée
+sur les fonctions du système nerveux, p. 83. paris, .
+
+[89] rapport sur un mémoire de mm. gall et spurzheim, rélatif à l’anat.
+du cerveau. séances des 25 avril et 2 mai, .
+
+[90] “the determination of the fundamental forces and the seat of
+their organs constitutes the most striking portion of my discoveries.
+the knowledge of the primary faculties and qualities, and the seat of
+their material conditions, constitutes precisely the phrenology of the
+brain.”—gall, anat. et phys. du syst. nerv., t. iii. p. 4.
+
+[91] lettre d’un médecin des hôpitaux du roi. namur. .
+
+[92] elementa physiologiæ, t. iv. p. 384.
+
+[93] “but if it be supposed that each fundamental faculty, as well as
+each particular sense, is dependent on a particular part of the brain,”
+&c. gall, anat. et phys. du syst. nerv., t. iii. p. 392.
+
+[94] t. iv. p. 9.
+
+[95] t. iv. p. 9.
+
+[96] t. ii. p. 234.
+
+[97] the brain, properly so called.
+
+[98] _i_ see with _my_ eyes.—m.
+
+[99] see my recherches expérimentales sur les propriétés et les fonctions
+du système nerveux, 2d edit. .
+
+[100] ibid.
+
+[101] see at the end of this work the first note on gall’s anatomy.
+
+[102] t. i. p. 271. spurzheim explains himself in like manner. “the
+organs of the internal faculties are as separate as the bundles of the
+nerves of the five senses.”—observ. sur la phrénol., &c. p. 74. “it is
+found that the brain is composed of many bundles, which must have their
+functions.”—ibid. p. 94. “the organs ... are composed of divergent
+bundles, of convolutions, and of the commissures.”—ibid.
+
+[103] t. iv. p. 8. “bonnet believes, and it is probable, that each nerve
+fibre has its own proper action.”—ibid.
+
+[104] t. iii. p. 2.
+
+[105] t. iii. p. 4.
+
+[106] see my recherches expérimentales sur les propriétés et les
+fonctions du système nerveux, 2d edit. . see also the first article
+of this work.
+
+[107] it must, however, be one or the other; for it must be something.
+might it be a convolution, as has been since said? but there are not
+seven and twenty convolutions, &c. &c.
+
+[108] t. ii. p. 163.
+
+[109] gall, as we have seen, confounds understanding with instinct.
+literally, he divides understanding into many instincts, and then out of
+each instinct constructs an intellectual faculty. see the second article
+of this work. “the term instinct suits all the fundamental faculties.”—t.
+iv. p. 334. for the characters peculiar to the instincts, see my work
+entitled “de l’instinct et de l’intelligence des animaux,” 2d edit. .
+
+[110] see my recherches expérimentales sur les propriétés et les
+fonctions du système nerveux, 2d edit. .
+
+[111] “the organ of philogeniture, or the last convolution of the
+cerebral lobes.”—spurzheim, obser. sur la phrén., &c. p. 117.
+
+[112] with very few exceptions.
+
+[113] “the qualities and faculties common to man and animals, are
+situated in the posterior portions,” &c.—t. iii. p. 79, and t. iv. p. 13.
+“the qualities and faculties that man exclusively enjoys, are situated
+in the cerebral portions, of which the brute creation is deprived; and
+we must consequently seek for them in the antero superior portion of the
+frontal bone.”—t. iii. page 79.
+
+[114] “the anterior parts of the brain are not wanting in the mammifera,
+but the posterior parts,” says leuret, very justly, in his fine work
+on the circumvolutions of the brain, entitled, anat. compar. du syst.
+nerveux, consideré dans ses rapports avec l’intelligence, t. i. p. 588.
+paris, .
+
+[115] t. iii. p. 20.
+
+[116] t. iii. p. 26.
+
+[117] it is curious to see how m. vimont, a very decided phrenologist
+as well as an able anatomist, expresses himself on the subject of the
+_localizations_ of gall and spurzheim. “gall’s work,” says m. vimont,
+“is fitter to lead into error than to give a just idea of the seats of
+the organs.”—traité de phrén. t. ii. p. 12. “gall says he has remarked,
+that horses whose ears are widely separated at the roots, are sure-footed
+and courageous. possibly the fact  be true; but i cannot comprehend
+the connexion that  exist betwixt the outward mark and the quality of
+courage, whose seat, in the horse, gall indicates at a point where there
+is no brain.”—ibid. 281. “spurzheim indicates the region of the frontal
+sinuses as the seat of gentleness, while courage is located upon the
+muscles that go to be inserted on the os occipitis.”—ibid. p. 117. such
+are m. vimont’s remarks, yet this same m. vimont inscribes the following
+twenty-nine names on the skull of a goose!
+
+    1. conservation.
+    2. choice of aliment.
+    3. destruction.
+    4. cunning.
+    5. courage.
+    6. choice of locality.
+    7. concentration.
+    8. attachment to life, or marriage.
+    9. attachment.
+    10. reproduction.
+    11. attachment to the product of conception.
+    12. property.
+    13. circumspection.
+    14. perception of substance.
+    15. configuration.
+    16. extent.
+    17. distance.
+    18. geometrical sense.
+    19. resistance.
+    20. localities.
+    21. order.
+    22. time.
+    23. language.
+    24. eventuality.
+    25. construction.
+    26. musical talent.
+    27. imitation.
+    28. comparison.
+    29. gentleness.
+
+“all this upon the cranium of a goose!” says m. leuret upon this
+occasion, (page 355.) “and there is no place so small but it is
+occupied.... the faculties are so crowded,” adds he, “that it would be a
+marvellous thing to be able to write their names upon the brain.... it
+would be a greater marvel to discover them.”
+
+[118] gall himself says: “in whatever region we examine the two
+substances that compose the brain, it is with difficulty that we can
+discern any difference between them as to their structure, &c.”—t. iii.
+p. 70.
+
+[119] t. iii. p. 63.
+
+[120] “i remained a whole day shut up in an oven.”—t. i. 133.
+
+[121] t. i. p. 263.
+
+[122] eloge de tournefort.
+
+[123] one volume, 8vo. paris, . phrenology is the very name given by
+spurzheim to the doctrine of gall.
+
+[124] one volume, 8vo. paris, .
+
+[125] observ. sur la phrénol. &c. p. 8.
+
+[126] observ. sur la phrén. p. 20.
+
+[127] ibid. p. 22.
+
+[128] rech. sur le syst. nerv. en général, &c. par f. j. gall et g.
+spurzheim.
+
+[129] anat. et phys. du syst. nerveux, &c., the work which has been
+examined in the three preceding articles.
+
+[130] t. iv. p. 341.
+
+[131] ibid. p. 327.
+
+[132] ibid. p. 341.
+
+[133] in the preceding article, p. 93.
+
+[134] lettre de charles villers à georges cuvier, sur une nouvelle
+théorie du cerveau, par le docteur gall, &c. metz, .
+
+[135] lettre de charles villers, &c. p. 34.
+
+[136] ibid.
+
+[137] observ. sur la phrén., &c. p. 10.
+
+[138] especially in the last article.
+
+[139] and which was not taken up by gall, except from the necessity he
+was under of assimilating at all points the external senses with the
+faculties of the soul.
+
+[140] observ. sur la phrén., &c. p. 65.
+
+[141] ibid. p. 67.
+
+[142] ibid. p. 75.
+
+[143] see particularly the essai philosophique sur la morâle et
+intellectuelle de l’homme, p. 54, et seq.
+
+[144] observ. sur la phrén. p. 17.
+
+[145] ibid. p. 127.
+
+[146] anat. et phys. du syst. nerv., &c. t. iii. p. 19. this volume came
+out the same year as spurzheim’s observ., &c.
+
+[147] t. iv. p. 67.
+
+[148] the eight organs added by spurzheim, are the organs of
+habitativity, order, time, right, supernaturality, hope, extent,
+weight. gall’s remarks upon these eight organs proposed by spurzheim
+are as follows: “m. spurzheim, it is true, recognises eight organs
+more than i admit. as to the organs of habitativity, order, time, and
+supernaturality, i have already spoken. i admit an organ of the moral
+sense, or sense of right (_juste_), but i have very strong reasons
+for believing that benevolence is nothing more than a very strong
+manifestation of the moral sense; therefore i treat these two organs
+under the rubric of a single organ. what m. spurzheim says on the organs
+of hope, of extent, and of weight, has not as yet convinced me: and, in
+fact, he has hitherto proved nothing in respect to them.”—t. iii. p. 25.
+
+[149] essai philosophique, &c. p. 216.
+
+[150] see the essai philosophique, &c. p. 47, et seq.
+
+[151] the sense of amativity, the sense of philogeniture, the sense of
+destructivity, the sense of affectivity, the sense of thievishness,
+the sense of secretivity, the sense of circumspection, the sense of
+approbation, the sense of self-love. (what a chaos, and what words!)
+
+[152] the sense of benevolence, the sense of veneration, the sense
+of firmness, the sense of duty, the sense of hope, the sense of the
+marvellous, the sense of ideality, the sense of gaiety, the sense of
+imitation.
+
+[153] the sense of individuality, of extent, of configuration, of
+consistence, of weight, of colour.
+
+[154] the sense of localities, of numeration, of order, of phenomena, of
+time, of method, of artificial language.
+
+[155] the sense of comparison, the sense of causality.
+
+[156] “some of the affective faculties produce only a desire, an
+inclination.... i shall call them propensities.”—observ. sur la phrénol.,
+&c. p. 124.
+
+[157] “other affective faculties are not restricted to a simple
+inclination, but something beyond; which is what is called sentiment or
+feeling.”—ibid.
+
+[158] “the intellectual faculties are also double: some of them know;
+others reflect.”—essai philosophique, &c. p. 225.
+
+[159] “the faculties peculiar to man are happy in themselves, per
+se.”—ibid. p. 167.
+
+[160] anat. et phys. du syst. nerv. &c. t. iii. p. 27.
+
+[161] see his histoire des phlegmas. chron. .
+
+[162] see his work entitled, “de l’irritation et de la folie,” .
+
+[163] cours de phrénologie, 1 vol. 8vo. .
+
+[164] cours de phrénologie, p. 82.
+
+[165] ibid. p. 140.
+
+[166] ibid. p. 37.
+
+[167] “memory is not an isolated faculty; and there are as many memories
+as organs.”—p. 131.
+
+[168] “the instincts and the sentiments have a memory as well as the
+external perceptions.”—p. 36.
+
+[169] “ ... the study of the human mind, not indeed that of a fictitious
+one bearing this mysterious appellation, but of the _ensemble_ of the
+mental faculties of man.”—p. 82.
+
+[170] page 48.
+
+[171] “the favorers of the intra-cranial entity.”—p. 153.
+
+[172] “their central intra-cranial being, to which they attribute all
+their faculties.”
+
+[173] “suppose they had called this being _person par excellence_....”—p.
+75.
+
+[174] let us examine, as to this particular (_moi_) me, all broussais’s
+_variorums_. in one place the _me_ comes from only one organ—the organ
+of general comparison: “we owe to the organ of general comparison the
+distinction of our person expressed by the sign _me_.”—cours de phrén.,
+p. 684. further on it comes from two—the organ of comparison and the
+organ of causality: “the organ of causality is as necessary to the
+distinction of the _me_, and of the _person_, as the organ of general
+comparison.”—ibid. p. 685. next there is no organ at all: “to assign to
+the _me_ a special organ appears to me to be out of the question.”—ibid.
+p. 119. and then it comes from every where: “there is no special and
+central organ, and our perception of ourselves has for its basis the
+sensitive perceptions.”—ibid. p. 119.
+
+[175] cours de phrénologie, p. 684.
+
+[176] examen de la doctrine médicale, etc. .
+
+[177] cours de phrénologie, p. 717.
+
+[178] cours de phrénologie, p. 77. he also says, “their central
+intra-cranial being, to which they attribute all the faculties of a
+man, is not cognisable by any of our senses, ... it is therefore a pure
+hypothesis.”—ibid. p. 153. thus there is no _mind_ (pure hypothesis);
+no _faculties_ but those of the _organs_ (the faculties are the acts
+of _material organs_); no understanding, except as a simple phenomenon
+of the nervous action (understanding and all its manifestations are
+_phenomena of nervous action_); consequently, there is no psycology;
+there is nothing but physiology; and even (for it should be clearly
+understood) nothing but broussais’s physiology.
+
+[179] “in order to form for one’s self a just notion of the operations
+which result in the production of thought, it is necessary to conceive
+of the brain as a peculiar organ, specially designed for the production
+thereof, just as the stomach is designed to effect digestion, the liver
+to form the bile, &c.”—cabanis, rapports du physique et du moral de
+l’homme, iie mémoire, § vii.
+
+[180] whence he concludes still more admirably, to the immortality of
+the soul. “i cannot,” says he, “conceive otherwise of those who die,
+than that they pass into a more pleasing and tranquil life than ours,
+even carrying with them the remembrance of the past: for i find there
+is within us an intellectual memory.... and although religion teaches
+us many things upon this subject, i must, notwithstanding, confess my
+infirmity on this point, which it appears to me that i possess in common
+with most people, which is, that although we might wish to believe, and
+even might suppose ourselves to be firm believers in the doctrines of
+religion, we are not so deeply touched with those things that are taught
+by faith alone, and which our mere reason cannot attain, as by those that
+are instilled into us by natural and very evident reasons.”—t. viii. p.
+684.
+
+[181] de l’imitation et de la folie, p. 4.
+
+[182] “the exaggeration of the phenomena of contractility is what
+constitutes irritation.”—ibid. p. 77.
+
+[183] anat. et physiol. du système nerveux, &c. iii. 15.
+
+[184] the white matter is every where fibrous. no person has contributed
+more than gall to the demonstration of this great fact. he justly
+remarks: “those authors who, with sœmmerring and cuvier, &c., recognise
+the fibrous structure of the brain, in many of its parts, have
+nevertheless, not yet ventured to say that it is so in all its parts.”—t.
+i. 235.
+
+[185] the cerebellum serves only for the motions of locomotion. (see the
+first article of this work.) but, i am here setting forth gall’s opinions.
+
+[186] “the particular systems of the brain terminate in fibrous
+expansions arranged in layers, just as the other nervous systems expand
+in fibres at their peripheral extremity.”—t. i. 318. “all the diverging
+bundles of the brain, after they come out from the last apparatus of
+reinforcement, expand in layers and form convolutions.”—t. i. 283. “the
+nerves of sensation and motion expand in the skin and the muscles; the
+nerves of the senses, each in the external instrument to which they
+belong: for example, the pituitary membrane upon the bones of the nose:
+the nerve of taste in the tongue, and the expansion of the optic nerve
+in the retina.... nature obeys precisely the same law in the brain. the
+different parts of the brain originate and are reinforced at different
+points; they form fibrous bundles of various sizes, which terminate in
+expansions. all these expansions of the various bundles constitute, when
+reunited, the hemispheres of the brain.”—t. iii. p. 3.
+
+i here speak only of the _diverging fibres_. coming from the interior,
+they proceed towards the exterior: the _converging fibres_ coming from
+the exterior, that is, according to gall, from the gray matter that
+envelopes the brain and the cerebellum, are directed inwards. the
+former constitute the _convolutions_, while the latter compose the
+_commissures_. but i shall, further on, return to this subject.
+
+[187] see my work, de l’instinct et de l’intelligence des animaux, &c. p.
+46, 2d edit.
+
+[188] opus citat. p. 49.
+
+[189] t. iii. p. 64.
+
+[190] t. iii. p. 64.
+
+[191] t. iii. p. 64.
+
+[192] t. iii. p. 58.
+
+[193] t. iii. p. 59.
+
+[194] t. i. p. 3.
+
+[195] t. i. p. 18.
+
+[196] t. i. p. 64 & 67.
+
+[197] de la rech. de la verité, liv. ii. chap. ii.
+
+[198] ibid.
+
+[199] ibid.
+
+[200] du bel esprit, p. 80.
+
+[201] ibid.
+
+[202] cours de phrén. 218.
+
+[203] p. 221.
+
+[204] see m. leuret: anat. comp. du syst. nerv. &c. .
+
+[205] cours de phrén. p. 350.
+
+[206] ibid. p. 117.
+
+[207] de l’irritation et de la folie, p. 2.
+
+[208] ibid. p. 76.
+
+[209] steno had already said, “if the medullary substance be every where
+fibrous, as in fact, in most parts it appears to be, you must confess
+that the disposal of these fibres must be arranged with great skill,
+since the whole diversity of our feelings and motions depend upon them.
+we wonder at the artifice of the fibres in each muscle, but how much more
+are they worthy of admiration in the brain, where these fibres, enclosed
+within so small a space, perform each its own function without confusion
+and without disorder.”—_discours sur l’anat. du cerveau_, .
+
+[210] long before his time the same had been seen by mistichelli,
+pourfour du petit, winslow, and several others, but it had been
+forgotten. “each pyramidal body,” says pourfour du petit, “is divided at
+its inferior part into two large bundles of fibres, most frequently into
+three, and in some instances into four. those of the right pass to the
+left side, and those of the left pass to the right side, mingling with
+each other.”—_lettre d’un médecin des hôpitaux du roi._ namur .
+
+
+
