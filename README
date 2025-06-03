@@ -1,8 +1,21 @@
-NN to guess pub year of books based on text. Trained on metadata-tagged corpora.
+# DD2417 Project
 
-Input: raw text
-Output: year (regression or binned classification)
- 
-Data: Gutenberg
-Labeled: pub years
-Cleaned: removed intros, footnotes, years
+This project aims to predict the year of publication using Machine Learning models.
+
+---
+
+### Models
+
+1. SVM **(SVM.py)**
+2. BERT **(BERT.ipynb)** - Note: Please upload the dataset onto Google Colab drive in order to run the code.
+3. LSTM **(LSTM.py)**
+
+### Datasets
+
+1. Project Gutenberg **(https://www.gutenberg.org/)**
+2. New York Time Corpus **(https://www.kaggle.com/datasets/tumanovalexander/nyt-articles-data)** - Due to its massive file size (~3GB), we did not attach the file here. Feel free to download it from the website attached.
+
+### Miscellaneous
+
+1. **preprocess.py** was used to preprocess the data from the Books obtained from Project Gutenberg. This includes removing any date-related content, and removing the prefix and suffix that were added by Project Gutenberg.
+
