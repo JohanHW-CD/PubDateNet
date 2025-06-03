@@ -1,21 +1,37 @@
-# DD2417 Project
+# DD2417 Project  
+**Predicting Year of Publication Using Machine Learning Models**
 
-This project aims to predict the year of publication using Machine Learning models.
+This project explores the use of various machine learning models to predict the decade a text was published in, based on its content.
 
 ---
 
-### Models
+## Models
 
-1. SVM **(SVM.py)**
-2. BERT **(BERT.ipynb)** - Note: Please upload the dataset onto Google Colab drive in order to run the code.
-3. LSTM **(LSTM.py)**
+| Model | File | Notes |
+|-------|------|-------|
+| **SVM** | `SVM.py` | Support Vector Machine implementation |
+| **BERT** | `BERT.ipynb` | Run on Google Colab – make sure to upload the dataset to your Google Drive |
+| **LSTM** | `LSTM.py` | Long Short-Term Memory model |
 
-### Datasets
+---
 
-1. Project Gutenberg **(https://www.gutenberg.org/)**
-2. New York Time Corpus **(https://www.kaggle.com/datasets/tumanovalexander/nyt-articles-data)** - Due to its massive file size (~3GB), we did not attach the file here. Feel free to download it from the website attached.
+## Datasets
 
-### Miscellaneous
+1. **Project Gutenberg**  
+   Public domain books retrieved from [Project Gutenberg](https://www.gutenberg.org/).  
+   > *Note: We manually selected 63 books with balanced representation across 14 decades.*
 
-1. **preprocess.py** was used to preprocess the data from the Books obtained from Project Gutenberg. This includes removing any date-related content, and removing the prefix and suffix that were added by Project Gutenberg.
+2. **New York Times Corpus**  
+   Excerpts from [Kaggle: NYT Articles Data](https://www.kaggle.com/datasets/tumanovalexander/nyt-articles-data).  
+   > *Due to its large size (~3GB), the dataset is not included here. Please download it from the link above.*
 
+---
+
+## Miscellaneous
+
+- `preprocess.py`:  
+   Used to preprocess the Project Gutenberg texts by:
+   - Removing any date-related content
+   - Stripping the standard Project Gutenberg prefix and suffix
+
+---
