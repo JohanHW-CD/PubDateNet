@@ -7,6 +7,8 @@ This project explores the use of various machine learning models to predict the 
 
 ## Models
 
+**IMPORTANT NOTE:** The BERT.ipynb cannot be viewed from Github directly, please download it and open it with any IDE or Google Colab.
+
 | Model | File | Notes |
 |-------|------|-------|
 | **SVM** | `SVM.py` | Support Vector Machine implementation |
