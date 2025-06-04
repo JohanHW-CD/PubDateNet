@@ -1,0 +1,111 @@
+"""
+SVM for the nyt_data.parquet file, file needs to be in the same folder
+To limit size, it has n_per_year * 10 targets that you can loop over 
+to see that the result generalizes.
+"""
+
+import re
+import time
+import pandas as pd
+import pyarrow.parquet as pq
+from sklearn.svm import LinearSVC
+from sklearn.pipeline import make_pipeline
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.metrics import accuracy_score
+import numpy as np
+
+
+PARQUET_FILE = "nyt_data.parquet"
+TARGET_DECADES = list(range(1925, 2020, 10))
+LABEL_MAP = {d: i for i, d in enumerate(TARGET_DECADES)}
+N_PER_YEAR = 700   # change to fit
+
+# ----HELPERS----
+
+def remove_numbers(text):
+    return re.sub(r'\b\d+\b', '', text)
+
+def is_valid_excerpt(text):
+    return bool(text) and len(text) > 25 and not re.search(r"\b\d{4}\b", text)
+
+def load_filtered_data(n_per_year=N_PER_YEAR):
+    print("Loading and filtering data...")
+    pf = pq.ParquetFile(PARQUET_FILE)
+    table = pf.read(columns=["year", "excerpt"])
+    df = table.to_pandas()
+    df["excerpt"] = df["excerpt"].astype(str).apply(remove_numbers)
+    df = df[df["excerpt"].apply(is_valid_excerpt)]
+
+    train_rows, test_rows = [], []
+
+    for target in TARGET_DECADES:
+        label = LABEL_MAP[target]
+        train_years = [y for y in range(target - 2, target + 3)]    # testing to reduce size
+        target_df = df[df["year"] == target]
+        # Sample n_per_year test examples from the current decade
+        test_sample = target_df.sample(n=n_per_year, random_state=label + 100, replace=False)
+        
+        # Create the training sample by removing the test rows from target_df, then also sampling
+        train_sample = target_df.drop(test_sample.index, errors="ignore").sample(n=n_per_year, random_state=label + 200, replace=False)
+        train_sample = train_sample.assign(label=label)
+        test_sample = test_sample.assign(label=label)
+        test_rows.append(test_sample)
+
+        for y in train_years:
+            if y == target:
+                train_rows.append(train_sample)
+            else:
+                sampled = df[df["year"] == y].sample(n=n_per_year, random_state=label + y, replace=False)
+                sampled = sampled.assign(label=label)
+                train_rows.append(sampled)
+
+    train_df = pd.concat(train_rows)
+    test_df = pd.concat(test_rows)
+    print(f"Train: {len(train_df)} rows, Test: {len(test_df)} rows")
+    return train_df, test_df
+
+def compute_metrics(y_true, y_pred):
+    """Checks prediction accuracy and within-one-decade accuracy"""
+    acc = accuracy_score(y_true, y_pred)
+    print(f" Overall Accuracy: {acc:.3f}")
+    for i, decade in enumerate(TARGET_DECADES):
+        idx = y_true == i
+        acc_i = accuracy_score(y_true[idx], y_pred[idx])
+        print(f" {decade}: {acc_i:.3f}")
+    within_one = (np.abs(y_true - y_pred) <= 1).mean()
+    print(f" Within 1 Decade Accuracy: {within_one:.3f}")
+
+# ---- MAIN ----
+
+def main():
+    t0 = time.time()
+    print("\n Sampling excerpts...")
+    train_df, test_df = load_filtered_data()
+    t_load = time.time() - t0
+
+    X_train, y_train = train_df["excerpt"], train_df["label"]
+    X_test, y_test = test_df["excerpt"], test_df["label"]
+
+    print("\n Training LinearSVC model...")
+    t1 = time.time()
+    pipeline = make_pipeline(
+        TfidfVectorizer(max_features=3000, ngram_range=(1, 3), stop_words="english", sublinear_tf=True),
+        LinearSVC()
+    )
+    pipeline.fit(X_train, y_train)
+    t_train = time.time() - t1
+
+    print("\n Predicting on test data...")
+    t2 = time.time()
+    y_pred = pipeline.predict(X_test)
+    t_pred = time.time() - t2
+
+    compute_metrics(np.array(y_test), np.array(y_pred))
+
+    print("\n Timing Summary:")
+    print(f"   Data loading:   {t_load:.2f} seconds")
+    print(f"   Model training: {t_train:.2f} seconds")
+    print(f"   Prediction:     {t_pred:.2f} seconds")
+
+if __name__ == "__main__":
+    main()
