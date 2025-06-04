@@ -25,7 +25,8 @@ This project explores the use of various machine learning models to predict the 
 
 2. **New York Times Corpus**  
    Excerpts from [Kaggle: NYT Articles Data](https://www.kaggle.com/datasets/tumanovalexander/nyt-articles-data).  
-   > *Due to its large size (~3GB), the dataset is not included here. Please download it from the link above.*
+   > *Due to its large size (~3GB), the dataset is not included here. Please download it from the link above and put in the same folder as the model trainer.*
+
 
 ---
 
